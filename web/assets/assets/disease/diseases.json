@@ -1,0 +1,2747 @@
+{
+  "Grip": {
+    "description": "Grip, influenza A ve B virüslerinin neden olduğu, ani başlayan yüksek ateş, öksürük, yorgunluk ve kas ağrısı gibi semptomlar gösteren, burun, boğaz ve bazen akciğerleri etkileyen bulaşıcı bir viral enfeksiyondur.",
+    "causes": "Grip, influenza virüslerinin neden olduğu bir hastalıktır ve genellikle hava yoluyla veya enfekte yüzeylerle temas sonucu bulaşır.",
+    "symptoms": [
+      "Ateş",
+      "Üşüme ve titreme",
+      "Öksürük",
+      "Boğaz ağrısı",
+      "Kas ve eklem ağrıları",
+      "Yorgunluk",
+      "Burun akıntısı",
+      "Hapşırma",
+      "Baş ağrısı",
+      "Nefes darlığı",
+      "İştahsızlık",
+      "Mide bulantısı ve kusma"
+    ],
+    "treatments": [
+      "Dinlenmek",
+      "Bol sıvı tüketmek",
+      "C vitamini almak",
+      "Bitki çayları içmek",
+      "Ilık duş almak",
+      "Tuzlu su gargarası yapmak",
+      "Boğaz pastili emmek"
+    ],
+    "prevention": "Gripten korunmanın en etkili yolu grip aşısıdır. Ayrıca hijyen kurallarına uymak, el yıkamak ve kalabalık ortamlardan kaçınmak da önemlidir."
+  },
+  "Addison Hastalığı": {
+    "description": "Addison hastalığı, böbreküstü bezlerinin yeterince kortizol ve aldosteron hormonu üretememesi sonucu ortaya çıkan nadir ancak ciddi bir hastalıktır. Halsizlik, kilo kaybı, düşük tansiyon ve ciltte koyulaşma gibi belirtilerle kendini gösterir.",
+    "causes": "Hastalık genellikle otoimmün bir durum nedeniyle böbreküstü bezlerinin zarar görmesiyle ortaya çıkar. Bunun yanı sıra tüberküloz, enfeksiyonlar, kanser veya bazı genetik bozukluklar da neden olabilir.",
+    "symptoms": [
+      "Aşırı halsizlik",
+      "Kilo kaybı",
+      "Ciltte koyulaşma (hiperpigmentasyon)",
+      "Düşük tansiyon",
+      "Tuz isteği",
+      "Mide bulantısı ve kusma",
+      "Karın ağrısı",
+      "Kas zayıflığı",
+      "Depresyon veya sinirlilik",
+      "Baş dönmesi",
+      "Kan şekeri düşüklüğü (hipoglisemi)",
+      "Adet düzensizlikleri"
+    ],
+    "treatments": [
+      "Hormon replasman tedavisi (kortizol ve aldosteron içeren ilaçlar)",
+      "Tuz ve sıvı alımına dikkat etmek",
+      "Düzenli doktor kontrolleri",
+      "Ani krizleri önlemek için acil durum kortizol enjeksiyonu taşıma",
+      "Stres yönetimi"
+    ],
+    "prevention": "Otoimmün hastalıkları önlemek mümkün olmasa da Addison krizi riskini azaltmak için düzenli ilaç kullanımı, stres yönetimi ve doktor kontrolleri önemlidir."
+  },
+  "Adenit": {
+    "description": "Adenit, vücuttaki lenf düğümlerinin iltihaplanmasıyla ortaya çıkan bir enfeksiyondur. Genellikle bakteriyel veya viral enfeksiyonlar nedeniyle oluşur ve lenf düğümlerinde şişlik, hassasiyet ve ağrıya neden olabilir.",
+    "causes": "Adenit, genellikle bakteriyel enfeksiyonlar (örneğin, Streptococcus veya Staphylococcus bakterileri) veya viral enfeksiyonlar nedeniyle oluşur. Tüberküloz, HIV, mononükleoz gibi hastalıklar da neden olabilir.",
+    "symptoms": [
+      "Lenf düğümlerinde şişlik",
+      "Ağrı ve hassasiyet",
+      "Ateş",
+      "Ciltte kızarıklık",
+      "Yorgunluk",
+      "Baş ağrısı",
+      "Terleme",
+      "Boğaz ağrısı"
+    ],
+    "treatments": [
+      "Antibiyotik tedavisi (bakteriyel nedenli ise)",
+      "Ağrı kesici ve ateş düşürücü ilaçlar",
+      "Sıcak kompres uygulamak",
+      "Dinlenmek",
+      "Bol sıvı tüketmek"
+    ],
+    "prevention": "Adenitten korunmanın en iyi yolu hijyen kurallarına uymak, düzenli el yıkamak ve bağışıklık sistemini güçlü tutmaktır."
+  },
+  "Adenomyozis": {
+    "description": "Adenomyozis, rahim iç tabakasındaki dokuların rahim kas duvarına doğru büyümesiyle oluşan bir hastalıktır. Bu durum şiddetli adet krampları, uzun süreli kanamalar ve pelvik ağrıya neden olabilir.",
+    "causes": "Adenomyozis'in kesin nedeni bilinmemekle birlikte, hormonlar (özellikle östrojen), doğum yapma öyküsü ve rahimle ilgili cerrahi işlemlerle ilişkili olabilir.",
+    "symptoms": [
+      "Şiddetli adet sancıları (dismenore)",
+      "Yoğun adet kanaması",
+      "Pelvik ağrı",
+      "Cinsel ilişki sırasında ağrı (disparoni)",
+      "Karın bölgesinde dolgunluk hissi",
+      "Adet döngüsünde düzensizlikler"
+    ],
+    "treatments": [
+      "Ağrı kesiciler ve hormon tedavileri",
+      "Doğum kontrol hapları",
+      "Rahim içi araçlar (hormonlu spiral)",
+      "Endometrial ablasyon (rahim iç tabakasının tahrip edilmesi)",
+      "Ciddi vakalarda histerektomi (rahmin alınması)"
+    ],
+    "prevention": "Adenomyozisi tamamen önlemek mümkün değildir, ancak hormon seviyelerini dengede tutmak ve düzenli kadın doğum kontrolleri yaptırmak semptomları hafifletebilir."
+  },
+  "Afazi": {
+    "description": "Afazi, beyin hasarı veya inme gibi nedenlerle dil ve konuşma yetisinin kısmen veya tamamen kaybolmasıyla ortaya çıkan bir nörolojik bozukluktur. Konuşma, anlama, okuma ve yazma yetilerini etkileyebilir.",
+    "causes": "Afazi genellikle inme, beyin travması, beyin tümörleri veya nörolojik hastalıklar (örneğin Alzheimer) sonucu ortaya çıkar.",
+    "symptoms": [
+      "Konuşmada güçlük",
+      "Kelime bulma zorluğu",
+      "Yanlış kelimeler kullanma",
+      "Söylenenleri anlama güçlüğü",
+      "Okuma ve yazma zorlukları",
+      "Konuşurken duraksama",
+      "Cümleleri tamamlama güçlüğü"
+    ],
+    "treatments": [
+      "Konuşma terapisi",
+      "Dil ve iletişim egzersizleri",
+      "Bilişsel rehabilitasyon",
+      "Beyin egzersizleri ve hafıza çalışmaları",
+      "Destekleyici iletişim araçları kullanma"
+    ],
+    "prevention": "Afaziyi önlemek için beyin sağlığını korumak önemlidir. Yüksek tansiyon, diyabet ve kalp hastalıklarını kontrol altında tutmak, sağlıklı beslenmek ve düzenli egzersiz yapmak beyin sağlığını destekleyebilir."
+  },
+  "Agorafobi": {
+    "description": "Agorafobi, kişinin açık alanlarda, kalabalık yerlerde veya kaçmanın zor olabileceği durumlarda yoğun kaygı hissetmesiyle karakterize edilen bir anksiyete bozukluğudur.",
+    "causes": "Agorafobi, genellikle panik bozukluğu veya diğer anksiyete rahatsızlıklarıyla ilişkilidir. Stres, travma, genetik yatkınlık ve beyindeki kimyasal dengesizlikler de neden olabilir.",
+    "symptoms": [
+      "Kalabalık ortamlarda yoğun kaygı",
+      "Kapalı alanlarda bulunmaktan kaçınma",
+      "Açık alanlarda yalnız kalma korkusu",
+      "Panik atak yaşama",
+      "Çarpıntı ve terleme",
+      "Baş dönmesi ve bayılma hissi",
+      "Nefes darlığı"
+    ],
+    "treatments": [
+      "Bilişsel davranışçı terapi (CBT)",
+      "Maruz bırakma terapisi",
+      "Anksiyete ilaçları",
+      "Nefes ve gevşeme egzersizleri",
+      "Destek gruplarına katılım"
+    ],
+    "prevention": "Agorafobiyi önlemek için stres yönetimi teknikleri uygulanabilir, küçük adımlarla sosyal ortamlara girilmeli ve kaygı bozuklukları erken aşamada tedavi edilmelidir."
+  },
+  "Ailevi Akdeniz Ateşi": {
+    "description": "Ailevi Akdeniz Ateşi (FMF), genetik geçişli, tekrarlayan ateş atakları ve karın, eklem, göğüs ağrıları ile karakterize edilen otoinflamatuar bir hastalıktır.",
+    "causes": "Ailevi Akdeniz Ateşi, MEFV genindeki mutasyonlardan kaynaklanır ve otozomal resesif kalıtımla geçer. Bağışıklık sisteminin aşırı tepki vermesi nedeniyle vücutta iltihaplanma atakları görülür.",
+    "symptoms": [
+      "Tekrarlayan yüksek ateş atakları",
+      "Karın ağrısı",
+      "Eklem ağrıları ve şişlik",
+      "Göğüs ağrısı",
+      "Ciltte kızarıklıklar (özellikle bacaklarda)",
+      "Kas ağrıları",
+      "Yorgunluk"
+    ],
+    "treatments": [
+      "Kolşisin tedavisi",
+      "Non-steroidal anti-inflamatuar ilaçlar (NSAID'ler)",
+      "Biyolojik ajanlar (IL-1 inhibitörleri)",
+      "Düzenli takip ve beslenme düzeni",
+      "Genetik danışmanlık"
+    ],
+    "prevention": "Ailevi Akdeniz Ateşi genetik bir hastalık olduğu için tam olarak önlenemez, ancak düzenli kolşisin kullanımı atakların sıklığını ve şiddetini azaltabilir. Erken tanı ile komplikasyonlar önlenebilir."
+  },
+  "Akalazya": {
+    "description": "Akalazya, yemek borusunun alt kısmındaki kasların gevşememesi sonucu yiyeceklerin mideye geçişini zorlaştıran nadir bir sindirim sistemi hastalığıdır.",
+    "causes": "Akalazyanın kesin nedeni bilinmemekle birlikte, yemek borusundaki sinir hücrelerinin kaybı, otoimmün faktörler ve genetik yatkınlık hastalığın gelişiminde rol oynayabilir.",
+    "symptoms": [
+      "Yutma güçlüğü (disfaji)",
+      "Göğüs ağrısı",
+      "Yemek yedikten sonra dolgunluk hissi",
+      "Regürjitasyon (yiyeceklerin yemek borusuna geri gelmesi)",
+      "Kilo kaybı",
+      "Gece öksürüğü",
+      "Mide ekşimesi"
+    ],
+    "treatments": [
+      "Pnömatik dilatasyon (balon genişletme işlemi)",
+      "Peroral endoskopik miyotomi (POEM)",
+      "Heller miyotomisi (cerrahi kas kesme işlemi)",
+      "Botulinum toksin (Botox) enjeksiyonu",
+      "Kalsiyum kanal blokerleri ve nitratlar"
+    ],
+    "prevention": "Akalazyayı tamamen önlemenin kesin bir yolu yoktur, ancak erken teşhis ve uygun tedavi komplikasyonları önleyebilir. Yavaş yemek yemek ve sıvı tüketimini artırmak semptomları hafifletebilir."
+  },
+  "Akdeniz Anemisi": {
+    "description": "Akdeniz Anemisi (Talasemi), kırmızı kan hücrelerinde bulunan hemoglobinin anormal üretimine bağlı olarak gelişen genetik bir kan hastalığıdır. Bu durum, vücutta oksijen taşınmasını zorlaştırarak anemiye yol açar.",
+    "causes": "Akdeniz Anemisi, ebeveynden çocuğa geçen genetik bir hastalıktır. Beta-globin genindeki mutasyonlar nedeniyle hemoglobin üretimi bozulur. Hastalık, özellikle Akdeniz, Orta Doğu ve Asya kökenli bireylerde daha sık görülür.",
+    "symptoms": [
+      "Kronik yorgunluk ve halsizlik",
+      "Soluk cilt",
+      "Nefes darlığı",
+      "Gelişme geriliği (çocuklarda)",
+      "Dalak büyümesi (splenomegali)",
+      "Kemik deformiteleri",
+      "Sarılık (cilt ve gözlerde sararma)"
+    ],
+    "treatments": [
+      "Düzenli kan transfüzyonları",
+      "Demir şelasyon tedavisi (fazla demiri uzaklaştırmak için)",
+      "Folik asit takviyesi",
+      "Kemik iliği nakli (ağır vakalar için)",
+      "Gen tedavisi (araştırma aşamasında)"
+    ],
+    "prevention": "Akdeniz Anemisi genetik bir hastalık olduğu için önlenemez, ancak taşıyıcı bireylerin genetik test yaptırarak riskleri değerlendirmesi mümkündür. Prenatal tanı (doğum öncesi testler) ile erken teşhis sağlanabilir."
+  },
+  "Akut Pankreatit": {
+    "description": "Akut Pankreatit, pankreasın ani olarak iltihaplanmasıyla ortaya çıkan ve genellikle şiddetli karın ağrısı ile seyreden bir sindirim sistemi hastalığıdır.",
+    "causes": "Akut Pankreatit, en sık safra taşı ve aşırı alkol tüketimi nedeniyle gelişir. Ayrıca bazı ilaçlar, viral enfeksiyonlar, yüksek trigliserid seviyeleri ve pankreas kanalındaki tıkanıklıklar da neden olabilir.",
+    "symptoms": [
+      "Şiddetli karın ağrısı (genellikle üst karında ve sırta vuran)",
+      "Bulantı ve kusma",
+      "Ateş",
+      "Kalp hızında artış (taşikardi)",
+      "Karında hassasiyet ve şişlik",
+      "İştahsızlık",
+      "Sarılık (bazı vakalarda)"
+    ],
+    "treatments": [
+      "Damar yoluyla sıvı tedavisi",
+      "Ağrı kesici ilaçlar",
+      "Pankreasın dinlenmesi için geçici açlık tedavisi",
+      "Safra taşı kaynaklıysa cerrahi müdahale",
+      "Antibiyotik tedavisi (enfeksiyon durumunda)"
+    ],
+    "prevention": "Akut Pankreatiti önlemek için aşırı alkol tüketiminden kaçınılmalı, sağlıklı bir diyet uygulanmalı ve safra taşı riskini azaltmak için kilo kontrolü sağlanmalıdır."
+  },
+  "Alerji": {
+    "description": "Alerji, bağışıklık sisteminin zararsız maddelere aşırı tepki vermesi sonucu ortaya çıkan bir durumdur. Polen, gıda, ilaç, böcek ısırıkları ve hayvan tüyleri gibi çeşitli alerjenler bağışıklık sistemini tetikleyebilir.",
+    "causes": "Alerji, bağışıklık sisteminin belirli maddelere karşı aşırı duyarlılığı sonucu gelişir. Genetik yatkınlık, çevresel faktörler ve bağışıklık sistemindeki dengesizlikler alerjinin gelişiminde rol oynayabilir.",
+    "symptoms": [
+      "Hapşırma ve burun akıntısı",
+      "Kaşıntı (göz, burun, cilt)",
+      "Döküntü ve kızarıklık",
+      "Nefes darlığı",
+      "Gözlerde sulanma ve kızarıklık",
+      "Mide bulantısı ve kusma (gıda alerjilerinde)",
+      "Anafilaksi (şiddetli alerjik reaksiyon)"
+    ],
+    "treatments": [
+      "Antihistaminik ilaçlar",
+      "Kortikosteroidler",
+      "Epinefrin (şiddetli reaksiyonlarda)",
+      "Alerjenlerden kaçınma",
+      "İmmünoterapi (alerji aşıları)"
+    ],
+    "prevention": "Alerjiyi tamamen önlemek mümkün olmasa da, alerjenlerden kaçınmak, bağışıklık sistemini güçlendirmek ve düzenli olarak doktor kontrolüne gitmek belirtilerin şiddetini azaltabilir."
+  },
+  "ALS Hastalığı": {
+    "description": "Amiyotrofik Lateral Skleroz (ALS), beyin ve omurilikteki motor nöronların ilerleyici kaybına neden olan nörodejeneratif bir hastalıktır. Kasların kontrolünü sağlayan sinir hücreleri zamanla yok olur, bu da hareket kabiliyetinin azalmasına ve kaslarda zayıflamaya yol açar.",
+    "causes": "ALS'nin kesin nedeni bilinmemektedir. Genetik mutasyonlar, çevresel faktörler, oksidatif stres, otoimmün bozukluklar ve glutamat fazlalığı gibi etkenlerin hastalığın gelişiminde rol oynadığı düşünülmektedir.",
+    "symptoms": [
+      "Kaslarda güçsüzlük ve incelme (atrofi)",
+      "Konuşma ve yutma güçlüğü",
+      "Ellerde, bacaklarda ve vücutta kas seğirmeleri",
+      "Denge kaybı ve yürüme zorlukları",
+      "Nefes almada zorluk",
+      "İstem dışı kas krampları",
+      "Zamanla tam hareket kaybı"
+    ],
+    "treatments": [
+      "Riluzol ve Edaravon gibi hastalığın ilerlemesini yavaşlatan ilaçlar",
+      "Fizik tedavi ve rehabilitasyon",
+      "Solunum desteği (mekanik ventilasyon)",
+      "Beslenme desteği (PEG tüpü ile beslenme)",
+      "Konuşma terapisi",
+      "Psikolojik destek ve hasta bakımı"
+    ],
+    "prevention": "ALS'nin kesin bir önleme yöntemi bulunmamaktadır. Sağlıklı yaşam tarzı, düzenli egzersiz, toksinlerden kaçınma ve genetik risk taşıyan bireylerde erken tarama hastalığın etkilerini geciktirebilir."
+  },
+  "Alzheimer": {
+    "description": "Alzheimer Hastalığı, beyindeki sinir hücrelerinin ilerleyici hasarı ve ölümü sonucu hafıza kaybı, bilişsel yeteneklerde azalma ve davranış değişiklikleriyle karakterize edilen nörodejeneratif bir hastalıktır.",
+    "causes": "Alzheimer'ın kesin nedeni bilinmemekle birlikte, genetik yatkınlık, yaşlanma, beta-amiloid plak birikimi, tau protein düzensizlikleri ve çevresel faktörlerin hastalığın gelişiminde rol oynadığı düşünülmektedir.",
+    "symptoms": [
+      "Hafıza kaybı ve unutkanlık",
+      "Kafa karışıklığı ve yön bulma güçlüğü",
+      "Konuşma ve kelime bulma zorlukları",
+      "Karar verme ve problem çözme yetisinde bozulma",
+      "Davranış ve kişilik değişiklikleri",
+      "Günlük aktiviteleri yerine getirmede zorluk",
+      "İleri evrelerde tamamen bağımlı hale gelme"
+    ],
+    "treatments": [
+      "Kolinerjik ilaçlar (Donepezil, Rivastigmin, Galantamin)",
+      "NMDA reseptör antagonisti (Memantin)",
+      "Bilişsel terapi ve beyin egzersizleri",
+      "Fiziksel aktivite ve sağlıklı beslenme",
+      "Hasta bakımı ve psikolojik destek",
+      "Deneysel tedaviler ve klinik araştırmalar"
+    ],
+    "prevention": "Alzheimer'ı tamamen önlemek mümkün olmasa da, sağlıklı beslenme, düzenli egzersiz, sosyal etkileşim, bilişsel aktiviteler ve kronik hastalıkların kontrol altında tutulması hastalık riskini azaltabilir."
+  },
+  "Amiloidoz": {
+    "description": "Amiloidoz, anormal proteinlerin (amiloid) organlarda ve dokularda birikmesi sonucu organ fonksiyonlarının bozulmasına neden olan nadir bir hastalıktır.",
+    "causes": "Amiloidoz, vücutta anormal protein üretimi veya bu proteinlerin düzgün şekilde parçalanamaması sonucu oluşur. Genetik faktörler, kronik inflamasyon, bazı kanser türleri ve bağışıklık sistemi bozuklukları hastalığın gelişimine katkıda bulunabilir.",
+    "symptoms": [
+      "Genel halsizlik ve yorgunluk",
+      "Kilo kaybı",
+      "Nefes darlığı",
+      "Şişlik (özellikle bacaklarda)",
+      "Dilde büyüme (makroglossi)",
+      "Ciltte morluklar ve kolay kanama",
+      "Kalp, böbrek veya karaciğer fonksiyon bozuklukları"
+    ],
+    "treatments": [
+      "Kemoterapi (bazı amiloidoz türlerinde)",
+      "Destekleyici tedaviler (semptomları hafifletmek için)",
+      "Organ nakli (ileri vakalarda)",
+      "Diyet ve yaşam tarzı değişiklikleri",
+      "Deneysel ilaç tedavileri"
+    ],
+    "prevention": "Amiloidoz tamamen önlenemez, ancak erken teşhis ve uygun tedavi, organ hasarını yavaşlatabilir. Düzenli sağlık kontrolleri ve altta yatan hastalıkların yönetimi önemlidir."
+  },
+  "Anafilaksi": {
+    "description": "Anafilaksi, vücudun bir alerjene karşı aşırı ve hayatı tehdit edebilecek düzeyde verdiği ani bağışıklık tepkisidir. Acil tıbbi müdahale gerektirir.",
+    "causes": "Anafilaksi, genellikle gıda alerjileri (fıstık, deniz ürünleri vb.), arı veya böcek sokmaları, ilaçlar (penisilin, NSAID'ler vb.), lateks veya diğer alerjenlerle temas sonucunda gelişebilir.",
+    "symptoms": [
+      "Ciltte kızarıklık, kaşıntı ve kurdeşen",
+      "Nefes darlığı ve hırıltılı solunum",
+      "Yutkunma güçlüğü",
+      "Hızlı veya zayıf nabız",
+      "Baş dönmesi ve bayılma",
+      "Mide bulantısı, kusma veya ishal",
+      "Şiddetli vakalarda bilinç kaybı"
+    ],
+    "treatments": [
+      "Acil epinefrin (adrenalin) enjeksiyonu",
+      "Oksijen tedavisi",
+      "Antihistaminikler",
+      "Kortikosteroidler",
+      "Sıvı tedavisi ve kan basıncını destekleyici ilaçlar",
+      "Hastane ortamında gözlem ve takip"
+    ],
+    "prevention": "Anafilaksi riski taşıyan kişiler, tetikleyici alerjenlerden kaçınmalı, alerji testi yaptırmalı ve acil durumlarda kullanmak için yanında epinefrin oto-enjektörü (EpiPen) bulundurmalıdır."
+  },
+  "Anevrizma": {
+    "description": "Anevrizma, bir arterin duvarında zayıflama sonucu oluşan baloncuk benzeri genişleme veya şişliktir. Patlaması durumunda ciddi iç kanamalara ve hayati tehlikeye yol açabilir.",
+    "causes": "Anevrizmanın oluşmasına yüksek tansiyon, damar sertliği (ateroskleroz), genetik faktörler, sigara kullanımı, travmalar ve enfeksiyonlar neden olabilir.",
+    "symptoms": [
+      "Genellikle belirti vermez (sessiz anevrizma)",
+      "Baş ağrısı (beyin anevrizmasında)",
+      "Görme problemleri",
+      "Yüzde veya vücutta uyuşma",
+      "Göğüs veya sırt ağrısı (aort anevrizmasında)",
+      "Nefes darlığı",
+      "Ani ve şiddetli ağrı (anevrizma yırtıldığında)"
+    ],
+    "treatments": [
+      "Kan basıncını kontrol altına alan ilaçlar",
+      "Endovasküler stent greft uygulaması",
+      "Açık cerrahi onarım",
+      "Sigara ve alkol kullanımının bırakılması",
+      "Sağlıklı beslenme ve düzenli egzersiz"
+    ],
+    "prevention": "Anevrizmayı önlemek için düzenli tansiyon kontrolü, sigara kullanımının bırakılması, sağlıklı bir diyet ve fiziksel aktivitenin artırılması önerilir. Aile geçmişinde anevrizma öyküsü olan kişilerin düzenli tarama yaptırması önemlidir."
+  },
+  "Anksiyete": {
+    "description": "Anksiyete, kişinin aşırı endişe, korku veya gerginlik hissettiği bir durumdur. Günlük yaşamı olumsuz etkileyebilir ve fiziksel semptomlara yol açabilir.",
+    "causes": "Anksiyete, stres, travmatik olaylar, genetik yatkınlık, beyin kimyasındaki dengesizlikler ve çevresel faktörler nedeniyle ortaya çıkabilir.",
+    "symptoms": [
+      "Sürekli endişe ve huzursuzluk",
+      "Hızlı kalp atışı (çarpıntı)",
+      "Nefes darlığı",
+      "Kas gerginliği",
+      "Baş dönmesi",
+      "Uyku problemleri",
+      "Dikkat ve konsantrasyon güçlüğü"
+    ],
+    "treatments": [
+      "Bilişsel davranışçı terapi (CBT)",
+      "Antidepresanlar ve anksiyolitik ilaçlar",
+      "Meditasyon ve nefes egzersizleri",
+      "Fiziksel aktivite ve sağlıklı yaşam tarzı",
+      "Destek grupları ve psikolojik danışmanlık"
+    ],
+    "prevention": "Anksiyete riskini azaltmak için düzenli egzersiz yapılmalı, sağlıklı bir beslenme düzeni takip edilmeli, stres yönetimi teknikleri uygulanmalı ve uyku düzenine dikkat edilmelidir."
+  },
+  "Anoreksiya Nervoza": {
+    "description": "Anoreksiya Nervoza, bireyin kilo alma korkusu ve beden algısındaki bozukluk nedeniyle aşırı kilo kaybına yol açan bir yeme bozukluğudur. Genellikle aşırı diyet yapma, aç kalma ve aşırı egzersiz ile karakterizedir.",
+    "causes": "Anoreksiya Nervoza, psikolojik, genetik ve çevresel faktörlerin birleşimiyle ortaya çıkabilir. Toplumsal baskılar, düşük benlik saygısı, mükemmeliyetçilik ve travmatik yaşantılar hastalığın gelişiminde etkili olabilir.",
+    "symptoms": [
+      "Aşırı kilo kaybı",
+      "Yoğun kilo alma korkusu",
+      "Yemeği reddetme veya aşırı kısıtlama",
+      "Beden algısında bozukluk",
+      "Düşük tansiyon ve baş dönmesi",
+      "Adet düzensizlikleri (kadınlarda)",
+      "Soğuğa karşı aşırı hassasiyet",
+      "Depresyon ve anksiyete"
+    ],
+    "treatments": [
+      "Psikoterapi (bilişsel davranışçı terapi, aile terapisi)",
+      "Beslenme danışmanlığı ve düzenli diyet planı",
+      "Tıbbi takip ve gerekirse hastaneye yatış",
+      "Antidepresan ve anksiyolitik ilaçlar (bazı vakalarda)",
+      "Destek grupları ve psikolojik destek"
+    ],
+    "prevention": "Anoreksiya Nervoza'nın önlenmesi için sağlıklı beden algısı teşvik edilmeli, yeme alışkanlıklarıyla ilgili bilinç artırılmalı ve psikolojik destek erken aşamada sağlanmalıdır."
+  },
+  "Arpacık": {
+    "description": "Arpacık, göz kapağındaki yağ bezlerinin enfekte olması sonucu oluşan, ağrılı ve kızarık bir şişliktir. Genellikle bakteriyel enfeksiyonlardan kaynaklanır.",
+    "causes": "Arpacık, genellikle Staphylococcus bakterisinin göz kapağındaki yağ bezlerini enfekte etmesiyle oluşur. Göz hijyenine dikkat edilmemesi, kirli ellerle göze dokunma ve yağ bezlerinin tıkanması hastalığın gelişimine katkıda bulunabilir.",
+    "symptoms": [
+      "Göz kapağında ağrılı şişlik",
+      "Kızarıklık ve hassasiyet",
+      "Gözde sulanma",
+      "Işığa hassasiyet",
+      "Gözde yanma ve kaşıntı",
+      "Göz kapağında dolgunluk hissi",
+      "Bazen iltihaplı akıntı"
+    ],
+    "treatments": [
+      "Sıcak kompres uygulamak",
+      "Göz kapağı hijyenine dikkat etmek",
+      "Antibiyotikli göz damlaları veya merhemler",
+      "Göz makyajından kaçınmak",
+      "Ellerin temiz tutulması",
+      "Şiddetli vakalarda tıbbi müdahale (apse drenajı)"
+    ],
+    "prevention": "Arpacığı önlemek için göz hijyenine dikkat edilmeli, kirli ellerle göze dokunmaktan kaçınılmalı ve kişisel makyaj malzemeleri başkalarıyla paylaşılmamalıdır."
+  },
+  "ASD": {
+    "description": "Atrial Septal Defekt (ASD), kalpte doğuştan gelen bir anormallik olup, kulakçıklar (atriyumlar) arasındaki duvarın tam olarak kapanmaması sonucu kanın anormal şekilde karışmasına neden olan bir kalp hastalığıdır.",
+    "causes": "ASD, genetik faktörler ve gebelik sırasında annenin maruz kaldığı çevresel etkenler nedeniyle gelişebilir. Down sendromu gibi bazı genetik hastalıklarla ilişkili olabilir.",
+    "symptoms": [
+      "Çoğu bebekte belirti vermeyebilir",
+      "Çabuk yorulma",
+      "Nefes darlığı",
+      "Çarpıntı",
+      "Tekrarlayan solunum yolu enfeksiyonları",
+      "Büyüme ve gelişme geriliği (bebeklerde)",
+      "Mavi-mor cilt rengi (ciddi vakalarda)"
+    ],
+    "treatments": [
+      "Küçük ASD’ler kendiliğinden kapanabilir",
+      "Düzenli kardiyoloji kontrolleri",
+      "Kateter yoluyla kapatma işlemi (şemsiye yöntemi)",
+      "Açık kalp cerrahisi (büyük defektlerde)",
+      "Kan sulandırıcı ve ritim düzenleyici ilaçlar"
+    ],
+    "prevention": "ASD'yi önlemek için gebelik döneminde sağlıklı beslenmek, enfeksiyonlardan korunmak ve genetik yatkınlığı olan bireylerin erken dönemde tarama yaptırması önerilir."
+  },
+  "Astım": {
+    "description": "Astım, hava yollarının kronik iltihaplanması sonucu daralması ve aşırı duyarlılık göstermesiyle karakterize edilen bir solunum yolu hastalığıdır. Ataklar halinde nefes darlığı, öksürük ve hırıltılı solunum ile kendini gösterir.",
+    "causes": "Astımın kesin nedeni bilinmemekle birlikte, genetik yatkınlık, hava kirliliği, alerjenler, sigara dumanı, viral enfeksiyonlar ve solunum yollarını tahriş eden kimyasallar hastalığın gelişiminde rol oynayabilir.",
+    "symptoms": [
+      "Nefes darlığı",
+      "Hırıltılı solunum",
+      "Göğüste sıkışma hissi",
+      "Kuru öksürük (özellikle gece ve sabahları)",
+      "Egzersiz sırasında solunum güçlüğü",
+      "Sık tekrarlayan solunum yolu enfeksiyonları",
+      "Astım atağı sırasında ciddi nefes darlığı"
+    ],
+    "treatments": [
+      "Bronkodilatörler (hava yollarını genişleten ilaçlar)",
+      "Kortikosteroid içeren inhalerler",
+      "Alerji tedavileri ve antihistaminikler",
+      "Solunum egzersizleri ve fiziksel aktivite",
+      "Acil durumlar için hızlı etkili rahatlatıcı spreyler",
+      "Astım tetikleyicilerinden kaçınma"
+    ],
+    "prevention": "Astımı kontrol altında tutmak için tetikleyicilerden kaçınılmalı, düzenli olarak doktor kontrolleri yapılmalı, sigara dumanı ve hava kirliliğinden uzak durulmalı ve ilaçlar düzenli kullanılmalıdır."
+  },
+  "Astigmat": {
+    "description": "Astigmat, gözün kornea veya merceğinin düzensiz bir şekilde eğrilmesi sonucu ışığın retina üzerine düzgün odaklanamamasıyla karakterize edilen yaygın bir görme bozukluğudur.",
+    "causes": "Astigmat genellikle genetik faktörlerden kaynaklanır. Ayrıca göz yaralanmaları, ameliyatlar veya keratokonus gibi göz hastalıkları da astigmatın gelişimine neden olabilir.",
+    "symptoms": [
+      "Bulanık veya çift görme",
+      "Uzak veya yakındaki nesneleri net görememe",
+      "Göz yorgunluğu ve baş ağrısı",
+      "Gece görüşünün zayıflaması",
+      "Gözlerde rahatsızlık hissi",
+      "Odaklanma zorluğu"
+    ],
+    "treatments": [
+      "Gözlük veya kontakt lens kullanımı",
+      "Lazer göz ameliyatı (LASIK, PRK)",
+      "Ortokeratoloji (özel lenslerle geçici düzeltme)",
+      "Göz sağlığını koruyucu egzersizler ve kontroller"
+    ],
+    "prevention": "Astigmatın tamamen önlenmesi mümkün olmasa da, düzenli göz muayeneleri ile erken teşhis edilebilir. Göz yorgunluğunu azaltmak için ekran kullanımına dikkat edilmeli ve yeterli aydınlatma sağlanmalıdır."
+  },
+  "Aşil Tendiniti": {
+    "description": "Aşil Tendiniti, Aşil tendonunun aşırı kullanım veya zorlanma nedeniyle iltihaplanması sonucu oluşan bir kas-iskelet sistemi rahatsızlığıdır. Özellikle koşucular, sporcular ve yoğun fiziksel aktivite yapan bireylerde yaygın görülür.",
+    "causes": "Aşil Tendiniti, tekrarlayan stres ve aşırı kullanım, uygun olmayan ayakkabı seçimi, yetersiz ısınma ve esneme, ani hareket değişiklikleri ve yaşa bağlı tendon esnekliğinin azalması gibi faktörlerden kaynaklanabilir.",
+    "symptoms": [
+      "Aşil tendonunda ağrı ve sertlik",
+      "Özellikle sabahları veya egzersiz sonrası artan ağrı",
+      "Ayak bileği çevresinde şişlik",
+      "Yürüme veya koşma sırasında hassasiyet",
+      "Tendonun kalınlaşması",
+      "Tendon üzerinde kızarıklık veya ısı artışı"
+    ],
+    "treatments": [
+      "Dinlenme ve aktivitelerin kısıtlanması",
+      "Buz uygulaması (iltihabı ve şişliği azaltmak için)",
+      "Fizik tedavi ve germe egzersizleri",
+      "Anti-enflamatuar ilaçlar",
+      "Ortopedik ayakkabı ve tabanlık kullanımı",
+      "Şiddetli vakalarda cerrahi müdahale"
+    ],
+    "prevention": "Aşil Tendiniti'ni önlemek için egzersiz öncesi ısınma yapılmalı, esneme hareketlerine yer verilmeli, ani hareket değişikliklerinden kaçınılmalı ve uygun ayakkabılar tercih edilmelidir."
+  },
+  "Atelektazi": {
+    "description": "Atelektazi, akciğerin bir kısmının veya tamamının hava keseciklerinin (alveoller) çökmesi sonucu yeterince hava ile dolamaması durumudur. Solunum fonksiyonlarını olumsuz etkileyebilir.",
+    "causes": "Atelektazi, akciğerlerdeki hava yollarının tıkanması, ameliyat sonrası hareketsizlik, solunum kaslarının zayıflaması, akciğer enfeksiyonları, tümörler veya göğüs travması gibi nedenlerle gelişebilir.",
+    "symptoms": [
+      "Nefes darlığı",
+      "Göğüs ağrısı",
+      "Hızlı ve yüzeysel solunum",
+      "Öksürük",
+      "Ciltte morarma (hipoksi)",
+      "Aşırı yorgunluk",
+      "Düşük oksijen seviyeleri"
+    ],
+    "treatments": [
+      "Solunum terapisi ve derin nefes egzersizleri",
+      "Fiziksel hareket ve pozisyon değişiklikleri",
+      "Bronkoskopi ile hava yolu temizliği",
+      "Oksijen tedavisi",
+      "Postural drenaj ve göğüs fizyoterapisi",
+      "Enfeksiyon varsa antibiyotik tedavisi"
+    ],
+    "prevention": "Atelektazi riskini azaltmak için ameliyat sonrası derin nefes alma egzersizleri yapılmalı, sigara kullanılmamalı, solunum yolları açık tutulmalı ve düzenli fiziksel aktiviteye önem verilmelidir."
+  },
+  "Bademciktaşı": {
+    "description": "Bademciktaşı (tonsillolit), bademciklerin kıvrımları ve oyuklarında biriken bakteriler, ölü hücreler, tükürük ve yiyecek artıklarının sertleşmesiyle oluşan küçük kalsifiye kitlelerdir.",
+    "causes": "Bademciktaşı, ağız hijyeninin yetersiz olması, kronik bademcik iltihabı (tonsillit), sık boğaz enfeksiyonları ve bademciklerin yapısal olarak derin oyuklara sahip olması nedeniyle oluşabilir.",
+    "symptoms": [
+      "Ağız kokusu",
+      "Boğazda yabancı cisim hissi",
+      "Yutkunma güçlüğü",
+      "Bademciklerde beyaz veya sarımsı lekeler",
+      "Boğazda tahriş veya batma hissi",
+      "Öksürükle taşların çıkması",
+      "Nadiren kulak ağrısı"
+    ],
+    "treatments": [
+      "Düzenli gargara ve tuzlu su ile ağız çalkalama",
+      "Pamuklu çubuk veya dil basacağı ile taşların çıkarılması",
+      "Tonsil irrigatörü veya su püskürten cihazlarla temizleme",
+      "Antibiyotik tedavisi (enfeksiyon durumunda)",
+      "Kronik vakalarda bademcik ameliyatı (tonsillektomi)"
+    ],
+    "prevention": "Bademciktaşını önlemek için düzenli ağız ve diş hijyenine dikkat edilmeli, bol su tüketilmeli, şekerli ve sütlü gıdaların aşırı tüketiminden kaçınılmalı ve düzenli gargara yapılmalıdır."
+  },
+  "Bağırsak Enfeksiyonu": {
+    "description": "Bağırsak enfeksiyonu, bakteri, virüs veya parazitlerin sindirim sistemine bulaşması sonucu gelişen, ishal, karın ağrısı ve mide bulantısı gibi belirtilerle seyreden bir hastalıktır.",
+    "causes": "Bağırsak enfeksiyonları, genellikle kontamine gıdalar, kirli su tüketimi, hijyen eksikliği ve enfekte kişilerle temas sonucu bulaşır. En sık görülen etkenler arasında Salmonella, E. coli, Rotavirüs ve Giardia gibi mikroorganizmalar bulunur.",
+    "symptoms": [
+      "İshal (sulu veya kanlı dışkılama)",
+      "Karın ağrısı ve kramp",
+      "Bulantı ve kusma",
+      "Ateş",
+      "İştahsızlık",
+      "Halsizlik ve su kaybı (dehidrasyon)",
+      "Şişkinlik ve gaz"
+    ],
+    "treatments": [
+      "Bol sıvı alımı ve elektrolit dengesi sağlama",
+      "Probiyotik kullanımı",
+      "Hafif vakalarda diyet düzenlemesi",
+      "Antibiyotik veya antiparaziter ilaçlar (bakteriyel/parazitik enfeksiyonlarda)",
+      "İshal önleyici ilaçlar (doktor önerisiyle)",
+      "Ağır vakalarda hastanede serum ve destekleyici tedavi"
+    ],
+    "prevention": "Bağırsak enfeksiyonlarından korunmak için el hijyenine dikkat edilmeli, çiğ sebze ve meyveler iyice yıkanmalı, temiz su tüketilmeli ve iyi pişirilmemiş gıdalardan kaçınılmalıdır."
+  },
+  "Bağırsak Sarkması": {
+    "description": "Bağırsak sarkması (rektal prolapsus), rektumun (kalın bağırsağın son kısmı) normal yerinden kayarak anüsten dışarı çıkmasıyla karakterize bir hastalıktır.",
+    "causes": "Bağırsak sarkması, kronik kabızlık, uzun süreli ıkınma, pelvik taban kaslarının zayıflaması, doğum travmaları ve yaşlanmaya bağlı bağ dokusu zayıflığı gibi nedenlerle oluşabilir.",
+    "symptoms": [
+      "Anüsten dışarı çıkan bağırsak dokusu",
+      "Bağırsakta doluluk hissi",
+      "Dışkılama sırasında zorluk ve kontrol kaybı",
+      "Bağırsak hareketleri sonrası tam boşalamama hissi",
+      "Mukuslu akıntı ve hafif kanama",
+      "Rahatsızlık ve ağrı",
+      "İleri vakalarda dışkı kaçırma"
+    ],
+    "treatments": [
+      "Kabızlığı önleyici diyet (lifli gıdalar, bol su tüketimi)",
+      "Pelvik taban kaslarını güçlendiren egzersizler (Kegel egzersizleri)",
+      "Bağırsak hareketlerini düzenleyici ilaçlar",
+      "El ile prolapsusun yerine itilmesi (erken evrelerde)",
+      "Cerrahi müdahale (ileri vakalarda bağırsak onarımı veya fiksasyonu)"
+    ],
+    "prevention": "Bağırsak sarkmasını önlemek için kabızlık önlenmeli, ağır kaldırmaktan kaçınılmalı, pelvik taban kasları güçlendirilmeli ve tuvalette uzun süre ıkınmaktan kaçınılmalıdır."
+  },
+  "Baker Kisti": {
+    "description": "Baker kisti, diz ekleminin arkasında, eklem sıvısının birikmesi sonucu oluşan sıvı dolu bir kesedir. Genellikle dizdeki artrit veya menisküs yırtıkları gibi eklem rahatsızlıklarına bağlı olarak gelişir.",
+    "causes": "Baker kisti, diz ekleminde aşırı sıvı üretimine neden olan osteoartrit, romatoid artrit, menisküs yırtıkları, eklem kıkırdağı yaralanmaları veya travmalar sonucu oluşabilir.",
+    "symptoms": [
+      "Diz arkasında şişlik ve sertlik",
+      "Dizde dolgunluk hissi",
+      "Diz hareketlerinde kısıtlılık",
+      "Bacak arkasına yayılan ağrı",
+      "Dizin bükülmesi veya düzleşmesi sırasında rahatsızlık",
+      "Nadir durumlarda kistin yırtılması sonucu baldırda şiddetli ağrı ve şişlik"
+    ],
+    "treatments": [
+      "Dinlenme ve aktivite seviyesinin azaltılması",
+      "Buz uygulaması ile şişliği azaltma",
+      "Diz destekleyici bantlar veya dizlik kullanımı",
+      "Fizyoterapi ve güçlendirme egzersizleri",
+      "Steroid enjeksiyonları (iltihabı azaltmak için)",
+      "Şiddetli vakalarda cerrahi müdahale"
+    ],
+    "prevention": "Baker kistini önlemek için diz eklemini zorlayıcı hareketlerden kaçınılmalı, eklem sağlığını koruyucu egzersizler yapılmalı ve altta yatan diz rahatsızlıkları erken teşhis edilerek tedavi edilmelidir."
+  },
+  "Bakteriyel Vajinozis": {
+    "description": "Bakteriyel Vajinozis, vajinadaki normal bakteri dengesinin bozulması sonucu oluşan yaygın bir vajinal enfeksiyondur. Genellikle kötü kokulu akıntı ve hafif rahatsızlık hissi ile kendini gösterir.",
+    "causes": "Bakteriyel Vajinozis, vajinadaki sağlıklı laktobasil bakterilerinin azalması ve zararlı anaerob bakterilerin aşırı çoğalması sonucu oluşur. Aşırı vajinal duş, hijyen ürünleri, sık antibiyotik kullanımı ve korunmasız cinsel ilişki risk faktörleridir.",
+    "symptoms": [
+      "Gri veya beyaz renkli, kötü kokulu vajinal akıntı",
+      "Balık kokusuna benzer koku (özellikle cinsel ilişki sonrası)",
+      "Hafif vajinal kaşıntı veya yanma",
+      "İdrar yaparken hafif yanma",
+      "Bazı vakalarda belirti olmayabilir"
+    ],
+    "treatments": [
+      "Metronidazol veya Klindamisin içeren antibiyotik tedavisi",
+      "Vajinal probiyotikler (laktobasil dengesini yeniden sağlamak için)",
+      "Aşırı vajinal duş yapmaktan kaçınmak",
+      "Parfümlü hijyen ürünleri ve deodorantlardan uzak durmak",
+      "Partnerle korunmalı cinsel ilişki"
+    ],
+    "prevention": "Bakteriyel Vajinozis riskini azaltmak için vajinal hijyen korunmalı, vajinal duş yapılmamalı, gereksiz antibiyotik kullanımından kaçınılmalı ve cinsel sağlık önlemleri alınmalıdır."
+  },
+  "Başparmak Çıkıntısı": {
+    "description": "Başparmak çıkıntısı (Halluks Valgus), ayak başparmağının dışa doğru eğilmesi ve eklemde kemiksi bir çıkıntının oluşmasıyla karakterize edilen bir ayak deformitesidir.",
+    "causes": "Başparmak çıkıntısı, genetik yatkınlık, yanlış ayakkabı seçimi (dar ve yüksek topuklu ayakkabılar), düztabanlık, aşırı yüklenme ve romatoid artrit gibi faktörlerden kaynaklanabilir.",
+    "symptoms": [
+      "Başparmak ekleminde belirgin çıkıntı",
+      "Ayakta ağrı ve hassasiyet",
+      "Kızarıklık ve şişlik",
+      "Başparmağın diğer parmaklara doğru kayması",
+      "Ayakkabı giyerken rahatsızlık hissi",
+      "Yürüme güçlüğü",
+      "Eklem sertliği ve hareket kısıtlılığı"
+    ],
+    "treatments": [
+      "Geniş burunlu ve rahat ayakkabı kullanımı",
+      "Ortopedik tabanlık ve destekleyici pedler",
+      "Buz uygulaması ve ağrı kesici ilaçlar",
+      "Ayak egzersizleri ve fizik tedavi",
+      "Gece atelleri ve başparmak düzeltici aparat kullanımı",
+      "İleri vakalarda cerrahi müdahale (bunion ameliyatı)"
+    ],
+    "prevention": "Başparmak çıkıntısını önlemek için dar ve yüksek topuklu ayakkabılardan kaçınılmalı, ayak yapısına uygun ayakkabılar tercih edilmeli ve düzenli olarak ayak egzersizleri yapılmalıdır."
+  },
+  "Bebeklerde Konak": {
+    "description": "Bebeklerde konak, saçlı deride sarımsı, yağlı ve pullu kabuklanmaların oluştuğu yaygın ve zararsız bir cilt durumudur. Genellikle bebeklerin ilk birkaç ayında görülür ve kendiliğinden düzelebilir.",
+    "causes": "Konak, seboreik dermatitin bir türü olup, genellikle yağ bezlerinin aşırı aktif olması ve Malassezia adı verilen bir mantarın ciltte çoğalması nedeniyle gelişir. Genetik yatkınlık ve hormonal değişiklikler de rol oynayabilir.",
+    "symptoms": [
+      "Saç derisinde sarı veya beyaz pullu kabuklanma",
+      "Yağlı ve hafif kızarık cilt",
+      "Saçlı deride hafif kaşıntı",
+      "Kaş, kulak, alın ve burun çevresinde pullanma",
+      "Bazen hafif koku oluşumu"
+    ],
+    "treatments": [
+      "Bebekler için özel konak şampuanları kullanımı",
+      "Zeytinyağı veya hindistancevizi yağı ile nazik masaj",
+      "Yumuşayan kabukları bebek tarağıyla nazikçe temizleme",
+      "Cilt kuruluğunu önlemek için hafif nemlendiriciler kullanma",
+      "Şiddetli vakalarda doktor önerisiyle hafif kortizonlu kremler"
+    ],
+    "prevention": "Konak oluşumunu önlemek için bebeğin başı düzenli olarak yıkanmalı, agresif ovalamalardan kaçınılmalı ve saç derisi fazla yağlanmadan temizlenmelidir."
+  },
+  "Bel Fıtığı": {
+    "description": "Bel fıtığı (lomber disk hernisi), omurlar arasındaki disklerin yırtılarak sinirler üzerine baskı yapması sonucu oluşan, bel ve bacak ağrısına neden olan bir omurga hastalığıdır.",
+    "causes": "Bel fıtığı, ağır kaldırma, ani hareketler, uzun süre oturma, obezite, yaşlanmaya bağlı disk dejenerasyonu ve genetik yatkınlık gibi faktörlerden kaynaklanabilir.",
+    "symptoms": [
+      "Bel ve bacaklarda ağrı",
+      "Bacaklarda uyuşma ve karıncalanma",
+      "Kas güçsüzlüğü",
+      "Hareket kısıtlılığı",
+      "Öksürme veya hapşırma ile artan ağrı",
+      "Şiddetli vakalarda idrar ve dışkı kontrolü kaybı"
+    ],
+    "treatments": [
+      "Fizik tedavi ve egzersiz programları",
+      "Ağrı kesici ve anti-enflamatuar ilaçlar",
+      "Kas gevşetici tedaviler",
+      "Manuel terapi ve kayropraktik yöntemler",
+      "Epidural steroid enjeksiyonları",
+      "Şiddetli vakalarda cerrahi müdahale (mikrocerrahi veya lazer tedavisi)"
+    ],
+    "prevention": "Bel fıtığını önlemek için ağır kaldırırken dikkat edilmeli, düzenli egzersiz yapılmalı, uzun süre oturmaktan kaçınılmalı ve sağlıklı bir vücut ağırlığı korunmalıdır."
+  },
+  "Beriberi Hastalığı": {
+    "description": "Beriberi hastalığı, vücudun yeterli B1 vitamini (tiamin) alamaması sonucu sinir sistemi ve kardiyovasküler sistemin etkilendiği bir beslenme bozukluğudur.",
+    "causes": "Beriberi, B1 vitamini eksikliğinden kaynaklanır. Yetersiz beslenme, alkol bağımlılığı, sindirim bozuklukları ve uzun süreli diyaliz gibi durumlar hastalığın gelişimine neden olabilir.",
+    "symptoms": [
+      "Kas güçsüzlüğü",
+      "Bacaklarda uyuşma ve karıncalanma",
+      "Yürüme zorlukları",
+      "Hızlı kalp atışı ve nefes darlığı",
+      "Şişkinlik ve bacak ödemi (ıslak beriberi)",
+      "Zihin bulanıklığı ve hafıza sorunları",
+      "Ani kilo kaybı"
+    ],
+    "treatments": [
+      "B1 vitamini takviyesi",
+      "Dengeli ve sağlıklı beslenme",
+      "Alkol tüketiminin bırakılması",
+      "Şiddetli vakalarda intravenöz (damardan) B1 vitamini tedavisi",
+      "Fizik tedavi ve kas güçlendirme egzersizleri"
+    ],
+    "prevention": "Beriberi hastalığını önlemek için B1 vitamini açısından zengin tam tahıllar, baklagiller, et, balık ve sebzeler tüketilmeli, aşırı alkol kullanımından kaçınılmalı ve dengeli beslenme sağlanmalıdır."
+  },
+  "Boyun Düzleşmesi": {
+    "description": "Boyun düzleşmesi, boyun omurgasının doğal C şeklindeki eğriliğinin azalması veya tamamen kaybolması sonucu oluşan bir duruş bozukluğudur. Zamanla kaslarda gerginlik ve ağrıya yol açabilir.",
+    "causes": "Boyun düzleşmesi, uzun süre yanlış duruş, masa başı çalışma, telefon ve bilgisayar kullanımına bağlı başın öne eğilmesi, stres, kas gerginliği ve travmalar nedeniyle gelişebilir.",
+    "symptoms": [
+      "Boyun ve omuz ağrısı",
+      "Baş ağrısı",
+      "Boyun hareketlerinde kısıtlılık",
+      "Omuz ve sırt kaslarında sertlik",
+      "Baş dönmesi ve denge kaybı",
+      "Ellerde ve kollarda uyuşma",
+      "Gözlerde yorgunluk hissi"
+    ],
+    "treatments": [
+      "Duruş bozukluklarını düzeltmeye yönelik egzersizler",
+      "Fizik tedavi ve manuel terapi",
+      "Boyun kaslarını güçlendiren hareketler",
+      "Sıcak veya soğuk kompres uygulamaları",
+      "Masaj terapisi",
+      "Ağrı kesici ve kas gevşetici ilaçlar",
+      "Şiddetli vakalarda omurga destekleyici aparatlar"
+    ],
+    "prevention": "Boyun düzleşmesini önlemek için ergonomik oturma düzenine dikkat edilmeli, uzun süre sabit pozisyonda kalmaktan kaçınılmalı, düzenli egzersiz yapılmalı ve telefon veya bilgisayar kullanımı sırasında baş öne eğilmemelidir."
+  },
+  "Boyun Fıtığı": {
+    "description": "Boyun fıtığı (servikal disk hernisi), boyundaki omurlar arasındaki disklerin yırtılarak sinirlere baskı yapması sonucu ağrı, uyuşma ve hareket kısıtlılığına neden olan bir omurga rahatsızlığıdır.",
+    "causes": "Boyun fıtığı, uzun süre yanlış duruş, masa başı çalışma, ağır yük kaldırma, ani hareketler, yaşlanmaya bağlı disk dejenerasyonu ve travmalar gibi nedenlerle oluşabilir.",
+    "symptoms": [
+      "Boyun, omuz ve sırt ağrısı",
+      "Kollarda ve ellerde uyuşma veya karıncalanma",
+      "Kas güçsüzlüğü",
+      "Baş ağrısı ve baş dönmesi",
+      "Boyun hareketlerinde kısıtlılık",
+      "Omurilik basısına bağlı refleks değişiklikleri",
+      "Şiddetli vakalarda denge kaybı"
+    ],
+    "treatments": [
+      "Fizik tedavi ve egzersiz programları",
+      "Manuel terapi ve kayropraktik yöntemler",
+      "Ağrı kesici ve kas gevşetici ilaçlar",
+      "Kortikosteroid enjeksiyonları",
+      "Boyunluk kullanımı (kısa süreli destek amaçlı)",
+      "Şiddetli vakalarda cerrahi müdahale (mikrocerrahi veya disk protezi ameliyatı)"
+    ],
+    "prevention": "Boyun fıtığını önlemek için ergonomik oturma düzenine dikkat edilmeli, uzun süre baş öne eğik durmaktan kaçınılmalı, düzenli egzersiz yapılmalı ve ağır yük kaldırırken dikkatli olunmalıdır."
+  },
+  "Böbrektaşı": {
+    "description": "Böbrektaşı, böbreklerde mineral ve tuzların birikmesi sonucu oluşan sert kitlelerdir. İdrar yollarında tıkanıklığa ve şiddetli ağrıya neden olabilir.",
+    "causes": "Böbrektaşı oluşumu, yetersiz su tüketimi, aşırı tuz ve protein alımı, genetik yatkınlık, idrar yolu enfeksiyonları, metabolik hastalıklar ve bazı ilaçların kullanımıyla ilişkilidir.",
+    "symptoms": [
+      "Şiddetli yan ve bel ağrısı",
+      "İdrar yaparken ağrı ve yanma",
+      "İdrarda kan görülmesi",
+      "Bulantı ve kusma",
+      "Sık idrara çıkma ihtiyacı",
+      "Ateş ve titreme (enfeksiyon eşlik ediyorsa)",
+      "İdrar akışında azalma veya kesilme"
+    ],
+    "treatments": [
+      "Bol su tüketimi ve sıvı alımı",
+      "Ağrı kesici ve spazm çözücü ilaçlar",
+      "Taşın boyutuna bağlı olarak şok dalga tedavisi (ESWL)",
+      "Üreteroskopi ile taş kırma veya çıkarma",
+      "Perkütan nefrolitotomi (büyük taşlar için cerrahi yöntem)",
+      "Diyet değişiklikleri ve önleyici tedavi"
+    ],
+    "prevention": "Böbrektaşı riskini azaltmak için günlük yeterli miktarda su içilmeli, aşırı tuz ve protein tüketiminden kaçınılmalı, oksalat içeren yiyecekler kontrollü tüketilmeli ve düzenli egzersiz yapılmalıdır."
+  },
+  "Bronşit": {
+    "description": "Bronşit, akciğerlere hava taşıyan bronş tüplerinin iltihaplanması sonucu öksürük, balgam ve solunum güçlüğüne neden olan bir solunum yolu hastalığıdır.",
+    "causes": "Bronşit, genellikle viral enfeksiyonlar, sigara kullanımı, hava kirliliği, alerjenler ve bağışıklık sisteminin zayıflaması nedeniyle ortaya çıkar. Kronik bronşit ise uzun süreli tahriş ve iltihaplanma sonucu gelişebilir.",
+    "symptoms": [
+      "Şiddetli öksürük (bazen balgamlı)",
+      "Göğüste sıkışma hissi",
+      "Hırıltılı solunum",
+      "Nefes darlığı",
+      "Hafif ateş ve titreme",
+      "Boğazda tahriş ve ses kısıklığı",
+      "Genel halsizlik ve yorgunluk"
+    ],
+    "treatments": [
+      "Bol sıvı tüketimi ve dinlenme",
+      "Nemli hava soluma veya buhar banyosu",
+      "Öksürük şurupları ve balgam söktürücüler",
+      "Bronkodilatörler (nefes açıcı ilaçlar)",
+      "Sigara ve tahriş edici maddelerden uzak durma",
+      "Ciddi vakalarda antibiyotik veya kortikosteroid tedavisi"
+    ],
+    "prevention": "Bronşitten korunmak için sigara ve hava kirliliğinden kaçınılmalı, düzenli egzersiz yapılmalı, el hijyenine dikkat edilmeli ve bağışıklık sistemini güçlendiren sağlıklı bir beslenme düzeni benimsenmelidir."
+  },
+  "Brusella": {
+    "description": "Brusella, Brusella bakterisinin neden olduğu zoonotik (hayvanlardan insanlara bulaşan) bir enfeksiyon hastalığıdır. Genellikle ateş, halsizlik ve kas ağrıları ile kendini gösterir.",
+    "causes": "Brusella enfeksiyonu, pastörize edilmemiş süt ve süt ürünleri tüketimi, enfekte hayvanlarla temas, kontamine su ve gıda tüketimi veya solunum yoluyla bulaşabilir. Veterinerler, çiftçiler ve hayvan yetiştiricileri risk grubundadır.",
+    "symptoms": [
+      "Dalgalı seyreden yüksek ateş",
+      "Gece terlemeleri",
+      "Şiddetli kas ve eklem ağrıları",
+      "Halsizlik ve yorgunluk",
+      "Baş ağrısı",
+      "İştahsızlık ve kilo kaybı",
+      "Karaciğer ve dalakta büyüme",
+      "Şiddetli vakalarda sinir sistemi ve eklem iltihaplanmaları"
+    ],
+    "treatments": [
+      "Uzun süreli antibiyotik tedavisi (Doksisiklin, Rifampisin, Streptomisin vb.)",
+      "Ateş ve ağrı kontrolü için semptomatik tedaviler",
+      "Bol sıvı tüketimi ve dinlenme",
+      "Bağışıklık sistemini güçlendiren beslenme düzeni",
+      "Şiddetli vakalarda hastane yatışı ve destekleyici tedavi"
+    ],
+    "prevention": "Brusella enfeksiyonunu önlemek için pastörize edilmemiş süt ve süt ürünlerinden kaçınılmalı, hayvanlarla temasta hijyen kurallarına dikkat edilmeli ve mesleki risk taşıyan bireyler koruyucu önlemler almalıdır."
+  },
+  "Bursit": {
+    "description": "Bursit, eklemlerdeki bursa adı verilen sıvı dolu keseciklerin iltihaplanması sonucu ağrı, şişlik ve hareket kısıtlılığına neden olan bir kas-iskelet sistemi rahatsızlığıdır.",
+    "causes": "Bursit genellikle tekrarlayan hareketler, aşırı yüklenme, uzun süreli basınç, travma, enfeksiyonlar ve romatoid artrit gibi inflamatuar hastalıklar nedeniyle oluşur.",
+    "symptoms": [
+      "Etkilenen eklemde ağrı ve hassasiyet",
+      "Şişlik ve kızarıklık",
+      "Eklemi hareket ettirirken rahatsızlık hissi",
+      "Sıcaklık artışı (enfeksiyon kaynaklı bursitte)",
+      "Hareket kısıtlılığı",
+      "Dinlenme ile azalan ancak hareketle artan ağrı"
+    ],
+    "treatments": [
+      "Dinlenme ve eklem üzerine baskıyı azaltma",
+      "Buz uygulaması (şişliği ve ağrıyı azaltmak için)",
+      "Ağrı kesici ve anti-enflamatuar ilaçlar",
+      "Fizik tedavi ve esneme egzersizleri",
+      "Şiddetli vakalarda kortikosteroid enjeksiyonu",
+      "Enfeksiyon durumunda antibiyotik tedavisi"
+    ],
+    "prevention": "Bursiti önlemek için uzun süreli tekrarlayan hareketlerden kaçınılmalı, ağır yük kaldırırken dikkat edilmeli, uygun duruş teknikleri kullanılmalı ve eklemleri zorlayan aktivitelerden önce ısınma egzersizleri yapılmalıdır."
+  },
+  "Büllozpemfigoid": {
+    "description": "Büllöz Pemfigoid, ciltte büyük, sıvı dolu kabarcıklarla (büller) seyreden nadir bir otoimmün hastalıktır. Bağışıklık sistemi, ciltteki sağlıklı dokulara saldırarak bu kabarcıkların oluşmasına neden olur.",
+    "causes": "Büllöz Pemfigoid, bağışıklık sisteminin yanlışlıkla cilt altındaki bağ dokusuna saldırması sonucu oluşur. Genetik yatkınlık, yaşlılık, bazı ilaçlar (diüretikler, antibiyotikler), enfeksiyonlar ve radyoterapi hastalığın gelişiminde rol oynayabilir.",
+    "symptoms": [
+      "Büyük, sıvı dolu ve gerilmiş kabarcıklar",
+      "Ciltte kızarıklık ve kaşıntı",
+      "Kabarcıkların patlaması sonucu açık yaralar",
+      "Ağız, burun ve göz çevresinde nadiren lezyon oluşumu",
+      "İyileşme sonrası ciltte iz kalabilir",
+      "Bazı vakalarda yanma hissi"
+    ],
+    "treatments": [
+      "Kortikosteroid kremler ve oral kortizon tedavisi",
+      "Bağışıklık sistemini baskılayan ilaçlar (immünsüpresanlar)",
+      "Antihistaminikler (kaşıntıyı azaltmak için)",
+      "Antibiyotikler (enfeksiyon riskini azaltmak için)",
+      "Topikal bakım ve yara temizliği",
+      "Şiddetli vakalarda biyolojik ajanlar"
+    ],
+    "prevention": "Büllöz Pemfigoid'in kesin bir önleme yöntemi yoktur, ancak hastalığın erken teşhisi ve uygun tedavi, semptomların kontrol altına alınmasına yardımcı olabilir. Cilt sağlığını koruyarak ve tetikleyici ilaçlardan kaçınarak risk azaltılabilir."
+  },
+  "Cam Kemik Hastalığı": {
+    "description": "Cam Kemik Hastalığı (Osteogenezis İmperfekta), kemiklerin kırılgan ve zayıf olmasına neden olan genetik bir hastalıktır. Kolajen üretimindeki bozukluk nedeniyle kemikler kolayca kırılabilir.",
+    "causes": "Cam Kemik Hastalığı, genetik mutasyonlar sonucu bağ dokularının yapısını oluşturan kolajenin anormal sentezlenmesiyle ortaya çıkar. Hastalık genetik olarak ebeveynlerden geçebilir veya spontan mutasyonlarla oluşabilir.",
+    "symptoms": [
+      "Sık ve kolay kemik kırılmaları",
+      "Düşük kemik yoğunluğu",
+      "Kısa boy",
+      "Gevşek eklemler ve kas zayıflığı",
+      "Mavi sklera (göz beyazının mavi veya gri renkte olması)",
+      "İşitme kaybı (ileri yaşlarda)",
+      "Diş yapısında bozukluklar"
+    ],
+    "treatments": [
+      "Kemik güçlendirici ilaçlar (bifosfonatlar)",
+      "Fizik tedavi ve kas güçlendirme egzersizleri",
+      "Ortopedik cihazlar ve destekler",
+      "Düşmelere karşı önleyici tedbirler",
+      "Şiddetli vakalarda cerrahi müdahale (intramedüller çubuk uygulaması)",
+      "Beslenme desteği (kalsiyum ve D vitamini takviyeleri)"
+    ],
+    "prevention": "Cam Kemik Hastalığı genetik bir bozukluk olduğu için önlenemez, ancak erken teşhis ve uygun tedavi ile kemik sağlığı korunabilir, kırık riski azaltılabilir ve yaşam kalitesi artırılabilir."
+  },
+  "Crohn Hastalığı": {
+    "description": "Crohn Hastalığı, sindirim sisteminin herhangi bir bölgesini etkileyebilen, bağırsak duvarında iltihaplanma, ülser ve doku hasarına neden olan kronik bir inflamatuar bağırsak hastalığıdır.",
+    "causes": "Crohn Hastalığı’nın kesin nedeni bilinmemekle birlikte, genetik yatkınlık, bağışıklık sistemi bozuklukları ve çevresel faktörlerin hastalığın gelişiminde rol oynadığı düşünülmektedir.",
+    "symptoms": [
+      "Karın ağrısı ve kramplar",
+      "İshal (kanlı veya mukuslu olabilir)",
+      "İştahsızlık ve kilo kaybı",
+      "Ağızda yaralar",
+      "Makatta fistül veya çatlak oluşumu",
+      "Halsizlik ve yorgunluk",
+      "Ateş ve eklem ağrıları"
+    ],
+    "treatments": [
+      "Bağışıklık sistemini baskılayan ilaçlar",
+      "Anti-enflamatuar ilaçlar (5-ASA, kortikosteroidler)",
+      "Biyolojik tedaviler (TNF inhibitörleri)",
+      "Bağırsak dostu diyet ve beslenme desteği",
+      "Cerrahi müdahale (şiddetli vakalarda bağırsak rezeksiyonu)",
+      "Stres yönetimi ve yaşam tarzı değişiklikleri"
+    ],
+    "prevention": "Crohn Hastalığı’nın kesin bir önleme yöntemi bulunmamaktadır, ancak sağlıklı beslenme, stres kontrolü, sigara kullanımından kaçınma ve düzenli doktor kontrolleri ile hastalık yönetimi sağlanabilir."
+  },
+  "Cushing Sendromu": {
+    "description": "Cushing Sendromu, vücutta aşırı kortizol hormonu üretimi veya dışarıdan uzun süre kortikosteroid kullanımı sonucu ortaya çıkan hormonal bir bozukluktur.",
+    "causes": "Cushing Sendromu, böbreküstü bezlerinin aşırı kortizol üretmesi, hipofiz bezindeki tümörler (Cushing Hastalığı), kortikosteroid ilaçların uzun süreli kullanımı veya nadiren akciğer gibi diğer organlardaki tümörlerden kaynaklanabilir.",
+    "symptoms": [
+      "Yüzde yuvarlaklaşma (ay yüzü görünümü)",
+      "Karın ve sırt bölgesinde yağ birikimi",
+      "Ciltte morluklar ve ince deri",
+      "Kas zayıflığı",
+      "Hipertansiyon (yüksek tansiyon)",
+      "Kemik erimesi (osteoporoz)",
+      "Şeker hastalığı (hiperglisemi)",
+      "Depresyon ve ruh hali değişiklikleri"
+    ],
+    "treatments": [
+      "Kortikosteroid kullanımının doktor kontrolünde azaltılması",
+      "Hipofiz veya böbreküstü bezi tümörleri için cerrahi tedavi",
+      "Radyoterapi (tümörlerin tedavisinde)",
+      "Kortizol üretimini azaltan ilaçlar",
+      "Diyet ve yaşam tarzı değişiklikleri"
+    ],
+    "prevention": "Cushing Sendromu’nu önlemek için kortikosteroid ilaçlar doktor kontrolünde kullanılmalı, sağlıklı yaşam alışkanlıkları benimsenmeli ve erken teşhis için düzenli sağlık kontrolleri yaptırılmalıdır."
+  },
+  "Çapraz Bağ Kopması": {
+    "description": "Çapraz bağ kopması, diz ekleminde bulunan ön veya arka çapraz bağların yırtılması sonucu ortaya çıkan bir yaralanmadır. Genellikle ani duruşlar, yön değişiklikleri veya travmalar sonucu oluşur.",
+    "causes": "Çapraz bağ kopması, spor sırasında ani yön değiştirme, zıplama ve yere düşme, dizin aşırı gerilmesi veya doğrudan darbe alma gibi nedenlerle meydana gelebilir. Futbol, basketbol, kayak ve jimnastik gibi sporlarda daha sık görülür.",
+    "symptoms": [
+      "Dizden gelen ani kopma veya çatlama sesi",
+      "Şiddetli diz ağrısı",
+      "Dizde şişlik ve morarma",
+      "Yürüme güçlüğü",
+      "Dizde boşalma hissi",
+      "Hareket kısıtlılığı"
+    ],
+    "treatments": [
+      "Dinlenme ve yüklenmeyi azaltma",
+      "Buz uygulaması (şişliği azaltmak için)",
+      "Dizlik ve bandaj kullanımı",
+      "Fizik tedavi ve kas güçlendirme egzersizleri",
+      "Ağrı kesici ve anti-enflamatuar ilaçlar",
+      "Şiddetli kopmalarda cerrahi bağ onarımı (artroskopik cerrahi)"
+    ],
+    "prevention": "Çapraz bağ yaralanmalarını önlemek için düzenli olarak bacak kaslarını güçlendirme egzersizleri yapılmalı, spordan önce ısınma hareketleri ihmal edilmemeli ve uygun spor ayakkabıları tercih edilmelidir."
+  },
+  "Çekiç Parmek": {
+    "description": "Çekiç parmak, el veya ayak parmak uçlarındaki tendonların yırtılması sonucu parmağın uç kısmının bükülü kalmasıyla karakterize bir deformitedir.",
+    "causes": "Çekiç parmak, parmağa doğrudan darbe alınması, spor sırasında top çarpması, parmağın zorlanarak bükülmesi veya tendon yırtılması gibi nedenlerle oluşabilir. Ayak parmaklarında ise dar ve sert ayakkabı kullanımı risk faktörüdür.",
+    "symptoms": [
+      "Parmak ucunun istem dışı bükük kalması",
+      "Parmakta şişlik ve hassasiyet",
+      "Etkilenen parmakta ağrı",
+      "Parmakta güç kaybı",
+      "Ayak parmaklarında nasır oluşumu (ayakkabıya sürtünmeden dolayı)",
+      "Hareket kısıtlılığı"
+    ],
+    "treatments": [
+      "Atel veya splint kullanımı",
+      "Buz uygulaması (şişliği azaltmak için)",
+      "Fizik tedavi ve egzersizler",
+      "Ayak parmaklarında özel destekleyici tabanlıklar",
+      "Ağrı kesici ve anti-enflamatuar ilaçlar",
+      "Şiddetli vakalarda cerrahi müdahale (tendon onarımı veya düzeltici ameliyat)"
+    ],
+    "prevention": "Çekiç parmak oluşumunu önlemek için parmakları zorlayan hareketlerden kaçınılmalı, uygun ayakkabı seçilmeli, spor sırasında koruyucu ekipmanlar kullanılmalı ve parmak kaslarını güçlendiren egzersizler yapılmalıdır."
+  },
+  "Çene Eklemi Rahatsızlığı": {
+    "description": "Çene eklemi rahatsızlığı (Temporomandibular Eklem - TME bozukluğu), çene ekleminde ve çevresindeki kaslarda ağrı, sertlik ve fonksiyon bozukluğuna neden olan bir durumdur.",
+    "causes": "Çene eklemi rahatsızlığı; stres, diş gıcırdatma (bruksizm), çene kaslarının aşırı kullanımı, çene travmaları, yanlış kapanış (maloklüzyon) ve eklem iltihaplanmaları nedeniyle oluşabilir.",
+    "symptoms": [
+      "Çene hareketlerinde ağrı ve sertlik",
+      "Çiğneme sırasında zorlanma ve yorgunluk",
+      "Ağız açmada kısıtlılık",
+      "Çene ekleminde tıklama veya çıtırtı sesi",
+      "Baş ve kulak ağrısı",
+      "Yüzde hassasiyet",
+      "Boyun ve omuzlarda gerginlik"
+    ],
+    "treatments": [
+      "Ağrı kesici ve anti-enflamatuar ilaçlar",
+      "Kas gevşeticiler ve stres yönetimi",
+      "Diş gıcırdatmayı önlemek için gece plağı (splint) kullanımı",
+      "Fizik tedavi ve çene egzersizleri",
+      "Sıcak ve soğuk kompres uygulaması",
+      "Diyet değişikliği (yumuşak gıdalar tüketmek)",
+      "Şiddetli vakalarda çene eklemine yönelik cerrahi müdahaleler"
+    ],
+    "prevention": "Çene eklemi rahatsızlığını önlemek için sert ve zor çiğnenen yiyeceklerden kaçınılmalı, diş gıcırdatma sorunu varsa gece plağı kullanılmalı, aşırı çene hareketlerinden kaçınılmalı ve stres yönetimi sağlanmalıdır."
+  },
+  "Çiçek Hastalığı": {
+    "description": "Çiçek hastalığı (Variola), Variola virüsü tarafından neden olunan ve yüksek ateş, deri döküntüleri ve organ yetmezliklerine yol açabilen ciddi bir bulaşıcı hastalıktır. Dünya genelinde aşı çalışmaları sayesinde eradike edilmiştir.",
+    "causes": "Çiçek hastalığı, Variola virüsünün solunum yoluyla veya enfekte kişilerin eşyalarıyla temas sonucu bulaşmasıyla ortaya çıkar. Tarihte ölümcül salgınlara neden olmuş ancak aşılama ile tamamen yok edilmiştir.",
+    "symptoms": [
+      "Yüksek ateş",
+      "Şiddetli baş ağrısı ve halsizlik",
+      "Sırt ve kas ağrıları",
+      "Vücutta kırmızı lekeler ve içi sıvı dolu kabarcıklar",
+      "Döküntülerin kabuklanarak iz bırakması",
+      "Şiddetli vakalarda organ yetmezliği",
+      "Solunum güçlüğü ve şok (ileri evrelerde)"
+    ],
+    "treatments": [
+      "Çiçek hastalığı eradike edildiği için özel bir tedaviye gerek kalmamıştır",
+      "Geçmişte semptomları hafifletmek için destekleyici tedaviler uygulanmıştır",
+      "Ateş düşürücüler ve ağrı kesiciler kullanılmıştır",
+      "Hastalığın yayılmasını önlemek için karantina uygulanmıştır",
+      "Aşı sayesinde hastalık tamamen yok edilmiştir"
+    ],
+    "prevention": "Çiçek hastalığı aşı sayesinde dünya genelinde eradike edilmiştir. Günümüzde çiçek aşısı rutin olarak yapılmamaktadır, ancak biyoterör tehditlerine karşı belirli gruplara uygulanabilir."
+  },
+  "Çölyak Hastalığı": {
+    "description": "Çölyak Hastalığı, bağışıklık sisteminin glutene karşı anormal tepki vermesi sonucu ince bağırsaklara zarar veren otoimmün bir hastalıktır. Glüten içeren gıdalar tüketildiğinde bağırsaklardaki emilim bozulur ve çeşitli sağlık sorunlarına yol açar.",
+    "causes": "Çölyak Hastalığı, genetik yatkınlık, çevresel faktörler ve bağışıklık sistemi bozuklukları nedeniyle gelişebilir. Hastalık, buğday, arpa ve çavdar gibi tahıllarda bulunan glütene karşı bağışıklık sisteminin aşırı tepki vermesiyle ortaya çıkar.",
+    "symptoms": [
+      "Karın ağrısı ve şişkinlik",
+      "İshal veya kronik kabızlık",
+      "İştahsızlık ve kilo kaybı",
+      "Demir eksikliği anemisi",
+      "Kemik erimesi (osteoporoz)",
+      "Cilt döküntüleri (dermatitis herpetiformis)",
+      "Halsizlik ve yorgunluk"
+    ],
+    "treatments": [
+      "Glütensiz diyet uygulamak",
+      "Bağırsak hasarını onarmak için vitamin ve mineral takviyeleri",
+      "Bağışıklık sistemini destekleyici beslenme",
+      "Cilt döküntüleri için topikal tedaviler",
+      "Bağırsak emilimini artırıcı probiyotikler",
+      "Düzenli doktor kontrolleri ve takip"
+    ],
+    "prevention": "Çölyak Hastalığı genetik yatkınlığı olan bireylerde önlenemez, ancak glütensiz beslenme ile semptomlar tamamen kontrol altına alınabilir ve bağırsak hasarı önlenebilir."
+  },
+  "Dermoid Kist": {
+    "description": "Dermoid kist, embriyonik gelişim sırasında oluşan ve içeriğinde saç, diş, yağ dokusu ve bazen kemik veya bezler gibi farklı dokular barındıran iyi huylu bir kisttir.",
+    "causes": "Dermoid kist, embriyonik dönemde hücrelerin yanlış yerleşimi sonucu gelişir. Genetik faktörler ve embriyonik hücrelerin anormal bölünmesi hastalığın oluşumunda rol oynayabilir.",
+    "symptoms": [
+      "Ağrısız, yavaş büyüyen kitle",
+      "Cilt altında sert veya elastik kitle hissi",
+      "Yüz, baş, yumurtalıklar veya omurilik bölgesinde kist oluşumu",
+      "Büyük kistlerde baskıya bağlı ağrı",
+      "Enfekte olduğunda kızarıklık ve hassasiyet"
+    ],
+    "treatments": [
+      "Cerrahi kist çıkarma (en yaygın tedavi yöntemi)",
+      "Laparoskopik veya açık ameliyat",
+      "Enfekte olmuş kistler için antibiyotik tedavisi",
+      "Düzenli doktor kontrolleri"
+    ],
+    "prevention": "Dermoid kistlerin oluşumunu önlemenin kesin bir yolu yoktur, ancak erken teşhis için vücutta anormal kitleler fark edildiğinde doktora başvurulması önerilir."
+  },
+  "Dispepsi": {
+    "description": "Dispepsi, mide ve üst sindirim sisteminde rahatsızlık, şişkinlik ve hazımsızlık hissi ile karakterize edilen bir sindirim sistemi bozukluğudur.",
+    "causes": "Dispepsi, mide asidinin dengesiz salgılanması, mide kaslarının yavaş çalışması, stres, aşırı yağlı veya baharatlı yiyecek tüketimi, sigara ve alkol kullanımı, mide ülseri veya reflü gibi mide rahatsızlıkları nedeniyle oluşabilir.",
+    "symptoms": [
+      "Mide bölgesinde rahatsızlık veya ağrı",
+      "Şişkinlik ve gaz",
+      "Erken doyma hissi",
+      "Mide yanması",
+      "Bulantı ve bazen kusma",
+      "Geğirme ve ağızda kötü tat hissi",
+      "İştahsızlık"
+    ],
+    "treatments": [
+      "Asit düzenleyici ilaçlar (antiasitler, proton pompa inhibitörleri)",
+      "Sindirim sistemini düzenleyici probiyotikler",
+      "Stres yönetimi ve gevşeme teknikleri",
+      "Yağlı, baharatlı ve asitli gıdalardan kaçınmak",
+      "Düzenli ve yavaş yemek yemek",
+      "Sigara ve alkol tüketimini azaltmak"
+    ],
+    "prevention": "Dispepsiyi önlemek için sağlıklı beslenme alışkanlıkları benimsenmeli, ağır ve yağlı gıdalardan kaçınılmalı, yemekler yavaş yenmeli ve stres seviyeleri kontrol altında tutulmalıdır."
+  },
+  "Diş Eti Çekilmesi": {
+    "description": "Diş eti çekilmesi, diş etlerinin zamanla geriye çekilmesi sonucu diş köklerinin açığa çıkmasıyla ortaya çıkan bir diş sağlığı sorunudur. Hassasiyete, çürüğe ve diş kaybına yol açabilir.",
+    "causes": "Diş eti çekilmesi, genetik yatkınlık, yanlış diş fırçalama teknikleri, sert kıllı diş fırçası kullanımı, diş sıkma ve gıcırdatma, diş taşı birikimi, sigara kullanımı ve diş eti hastalıkları nedeniyle oluşabilir.",
+    "symptoms": [
+      "Diş köklerinin açığa çıkması",
+      "Dişlerde hassasiyet (sıcak, soğuk ve tatlı gıdalara karşı)",
+      "Diş etlerinde kanama ve kızarıklık",
+      "Ağız kokusu",
+      "Dişlerde sallanma ve çürük oluşumu",
+      "Dişler arasında boşluk hissi"
+    ],
+    "treatments": [
+      "Diş taşı temizliği (profesyonel diş temizliği)",
+      "Doğru diş fırçalama tekniğinin uygulanması",
+      "Diş eti grefti (ileri vakalarda cerrahi doku eklenmesi)",
+      "Özel diş macunları ve ağız gargaraları kullanımı",
+      "Diş sıkma ve gıcırdatma için gece plağı kullanımı",
+      "Sigara ve alkol tüketiminin azaltılması"
+    ],
+    "prevention": "Diş eti çekilmesini önlemek için günde en az iki kez diş fırçalanmalı, diş ipi düzenli olarak kullanılmalı, sert fırçalama hareketlerinden kaçınılmalı ve düzenli diş hekimi kontrolleri yapılmalıdır."
+  },
+  "Diş Eti İltihabı": {
+    "description": "Diş eti iltihabı (Gingivit), diş etlerinde kızarıklık, şişlik ve kanama ile karakterize olan, genellikle kötü ağız hijyeninden kaynaklanan bir enfeksiyondur. Tedavi edilmezse diş kaybına yol açabilir.",
+    "causes": "Diş eti iltihabı, ağız hijyeninin yetersiz olması, diş taşı ve plak birikimi, sigara kullanımı, hormonal değişiklikler, bazı ilaçlar ve diyabet gibi sistemik hastalıklar nedeniyle oluşabilir.",
+    "symptoms": [
+      "Diş etlerinde kızarıklık ve şişlik",
+      "Diş fırçalarken veya diş ipi kullanırken kanama",
+      "Ağızda kötü koku (halitoz)",
+      "Diş etlerinde hassasiyet",
+      "Diş etlerinin çekilmesi",
+      "İleri vakalarda diş kaybı"
+    ],
+    "treatments": [
+      "Diş taşı temizliği (profesyonel diş temizliği)",
+      "Düzenli ve doğru diş fırçalama",
+      "Antibakteriyel ağız gargaraları kullanımı",
+      "Diş ipi ve arayüz fırçası ile günlük temizlik",
+      "Sağlıklı beslenme ve şeker tüketiminin azaltılması",
+      "İleri vakalarda diş eti cerrahisi"
+    ],
+    "prevention": "Diş eti iltihabını önlemek için düzenli diş fırçalama, diş ipi kullanımı, sağlıklı beslenme ve düzenli diş hekimi kontrolleri yapılmalıdır. Sigara kullanımından kaçınılmalı ve ağız hijyenine özen gösterilmelidir."
+  },
+  "Diyabet": {
+    "description": "Diyabet (şeker hastalığı), vücudun insülin hormonunu yeterince üretememesi veya üretilen insülini etkili bir şekilde kullanamaması sonucu kan şekerinin (glikoz) yüksek seyretmesiyle karakterize kronik bir hastalıktır.",
+    "causes": "Diyabet, genetik yatkınlık, obezite, sağlıksız beslenme, fiziksel aktivite eksikliği, insülin direnci ve pankreasın yeterli insülin üretememesi gibi faktörler nedeniyle gelişebilir. Tip 1 diyabet otoimmün bir hastalıkken, Tip 2 diyabet yaşam tarzı faktörleriyle ilişkilidir.",
+    "symptoms": [
+      "Sık idrara çıkma",
+      "Aşırı susuzluk hissi",
+      "Ani kilo kaybı",
+      "Açlık hissinin artması",
+      "Yorgunluk ve halsizlik",
+      "Ciltte kuruluk ve kaşıntı",
+      "Yaraların geç iyileşmesi",
+      "Eller ve ayaklarda uyuşma veya karıncalanma"
+    ],
+    "treatments": [
+      "Sağlıklı ve dengeli beslenme",
+      "Düzenli egzersiz yapma",
+      "Kan şekeri seviyesinin düzenli takibi",
+      "İnsülin tedavisi (Tip 1 diyabet için)",
+      "Oral antidiyabetik ilaçlar (Tip 2 diyabet için)",
+      "Yaşam tarzı değişiklikleri ve kilo kontrolü",
+      "Komplikasyonları önlemek için düzenli doktor kontrolleri"
+    ],
+    "prevention": "Diyabetin önlenmesi için sağlıklı beslenme alışkanlıkları benimsenmeli, düzenli fiziksel aktivite yapılmalı, kilo kontrolü sağlanmalı ve kan şekeri seviyeleri düzenli olarak takip edilmelidir. Ailede diyabet öyküsü olan bireylerin erken tarama testleri yaptırması önerilir."
+  },
+  "Diz Kireçlemesi": {
+    "description": "Diz kireçlenmesi (Gonartroz), diz eklemindeki kıkırdak dokunun zamanla aşınması ve yıpranması sonucu ağrı, sertlik ve hareket kısıtlılığına yol açan kronik bir eklem hastalığıdır.",
+    "causes": "Diz kireçlenmesi, yaşlanma, aşırı kilo, eklem yaralanmaları, tekrarlayan diz travmaları, genetik yatkınlık ve eklemdeki iltihaplanmalar (artrit) gibi faktörlerden kaynaklanabilir.",
+    "symptoms": [
+      "Diz ekleminde ağrı ve sertlik",
+      "Hareket sırasında dizden gelen çıtırtı veya sürtünme sesi",
+      "Uzun süre hareketsizlik sonrası hareket zorluğu",
+      "Diz şişliği ve hassasiyet",
+      "Merdiven çıkarken veya çömelirken zorlanma",
+      "Diz ekleminde şekil bozukluğu"
+    ],
+    "treatments": [
+      "Fizik tedavi ve eklem güçlendirici egzersizler",
+      "Ağrı kesici ve anti-enflamatuar ilaçlar",
+      "Kilo kontrolü ile ekleme binen yükü azaltma",
+      "Eklem içi kortikosteroid veya hyalüronik asit enjeksiyonları",
+      "Destekleyici dizlik veya ortopedik tabanlık kullanımı",
+      "İleri vakalarda diz protezi ameliyatı"
+    ],
+    "prevention": "Diz kireçlenmesini önlemek için düzenli egzersiz yapılmalı, fazla kilodan kaçınılmalı, eklemi zorlayıcı hareketlerden kaçınılmalı ve sağlıklı beslenme ile eklem sağlığı desteklenmelidir."
+  },
+  "Dupuytren Kontraktürü": {
+    "description": "Dupuytren Kontraktürü, elin avuç içinde başlayan ve zamanla parmakların bükülmesine neden olan, bağ dokusundaki kalınlaşma ve sertleşme ile karakterize kronik bir hastalıktır.",
+    "causes": "Hastalığın kesin nedeni bilinmemekle birlikte, genetik yatkınlık, diyabet, sigara ve alkol kullanımı, el travmaları ve bazı metabolik hastalıklar Dupuytren Kontraktürü’nün gelişiminde rol oynayabilir.",
+    "symptoms": [
+      "Avuç içinde kalınlaşan ve sertleşen dokular",
+      "Parmaklarda ilerleyici bükülme",
+      "Elin tamamen açılmasında zorluk",
+      "Ağrısız ancak sert nodüllerin oluşumu",
+      "Tutma ve kavrama işlevlerinde azalma",
+      "Zamanla el fonksiyonlarının kısıtlanması"
+    ],
+    "treatments": [
+      "Fizik tedavi ve germe egzersizleri",
+      "Steroid enjeksiyonları (iltihabı azaltmak için)",
+      "Enzim enjeksiyonları ile bağ dokusunun gevşetilmesi",
+      "Minimal invaziv iğne aponevrotomi yöntemi",
+      "Şiddetli vakalarda cerrahi müdahale (fasciotomi veya fasiyektomi)"
+    ],
+    "prevention": "Dupuytren Kontraktürü’nü önlemek için ellerin düzenli olarak esnetilmesi, sigara ve alkol kullanımının azaltılması ve erken evrede fizik tedaviye başlanması önerilir."
+  },
+  "Düşük Tansiyon": {
+    "description": "Düşük tansiyon (Hipotansiyon), kan basıncının normal seviyelerin altına düşmesi sonucu baş dönmesi, bayılma ve halsizlik gibi belirtilere yol açan bir dolaşım sistemi rahatsızlığıdır.",
+    "causes": "Düşük tansiyonun nedenleri arasında susuzluk, beslenme yetersizlikleri, kan kaybı, kalp hastalıkları, hormonal dengesizlikler, uzun süre ayakta kalma, ani pozisyon değişiklikleri ve bazı ilaçların yan etkileri yer alır.",
+    "symptoms": [
+      "Baş dönmesi ve sersemlik hissi",
+      "Bilinç kaybı veya bayılma",
+      "Bulanık görme",
+      "Halsizlik ve yorgunluk",
+      "Mide bulantısı",
+      "Nefes darlığı",
+      "Soğuk ve nemli cilt"
+    ],
+    "treatments": [
+      "Bol sıvı tüketimi",
+      "Tuz alımını artırmak (doktor önerisiyle)",
+      "Uzun süre ayakta kalmaktan kaçınma",
+      "Ani pozisyon değişikliklerinden kaçınma",
+      "Dengeli beslenme ve düzenli egzersiz",
+      "Altta yatan nedenlere bağlı olarak ilaç tedavisi"
+    ],
+    "prevention": "Düşük tansiyonun önlenmesi için yeterli su tüketilmeli, düzenli beslenilmeli, ani hareketlerden kaçınılmalı ve tansiyon düzenli olarak takip edilmelidir."
+  },
+  "Egzama": {
+    "description": "Egzama (Atopik Dermatit), cildin kuru, kaşıntılı, kırmızı ve iltihaplı hale gelmesiyle karakterize kronik bir deri hastalığıdır. Genellikle alerjik reaksiyonlarla ilişkilidir ve tekrarlayan ataklarla seyreder.",
+    "causes": "Egzama, genetik yatkınlık, bağışıklık sistemi bozuklukları, cilt bariyerindeki zayıflık, alerjenler, stres, deterjanlar, kimyasal maddeler ve kuru hava gibi çevresel faktörlerden kaynaklanabilir.",
+    "symptoms": [
+      "Kuru ve pullu cilt",
+      "Şiddetli kaşıntı",
+      "Ciltte kızarıklık ve tahriş",
+      "Kabarcıklar ve iltihaplanma",
+      "Ciltte çatlaklar ve kanama",
+      "Ciltte kalınlaşma ve sertleşme",
+      "Bazı vakalarda sıvı sızdıran lezyonlar"
+    ],
+    "treatments": [
+      "Nemlendirici kremlerle cildi nemli tutma",
+      "Steroid içeren kremler ve merhemler",
+      "Antihistaminik ilaçlar (kaşıntıyı azaltmak için)",
+      "İmmünsüpresif ilaçlar (şiddetli vakalarda)",
+      "Kimyasal tahriş edici maddelerden kaçınma",
+      "Işık tedavisi (fototerapi)",
+      "Stres yönetimi ve sağlıklı yaşam alışkanlıkları"
+    ],
+    "prevention": "Egzamayı önlemek için düzenli olarak cildi nemlendirmek, alerjenlerden kaçınmak, tahriş edici kimyasallardan uzak durmak ve sağlıklı bir beslenme düzeni benimsemek önerilir."
+  },
+  "Ehlers Danlos Sendromu": {
+    "description": "Ehlers-Danlos Sendromu (EDS), vücuttaki bağ dokusunu etkileyen genetik bir hastalıktır. Ciltte aşırı esneklik, eklem hipermobilitesi ve doku zayıflığı ile karakterizedir.",
+    "causes": "Ehlers-Danlos Sendromu, bağ dokularının ana bileşeni olan kollajen proteinindeki genetik mutasyonlar nedeniyle gelişir. Hastalık genetik geçişlidir ve çoğu vakada ebeveynlerden kalıtsal olarak aktarılır.",
+    "symptoms": [
+      "Aşırı esnek eklemler (hipermobilite)",
+      "Hassas ve kolay moraran cilt",
+      "Yavaş iyileşen yaralar ve anormal yara izleri",
+      "Kronik eklem ağrıları ve kas zayıflığı",
+      "Damar duvarlarında zayıflık (bazı türlerinde)",
+      "Bağ dokusu gevşekliği nedeniyle sık çıkıklar",
+      "Kalp kapakçığı bozuklukları ve organ sarkmaları (bazı alt tiplerde)"
+    ],
+    "treatments": [
+      "Fizik tedavi ve kas güçlendirme egzersizleri",
+      "Eklem stabilitesini artırmak için destekleyici cihazlar",
+      "Ağrı yönetimi için ilaç tedavisi",
+      "Doku yaralanmalarını önlemek için dikkatli hareket etme",
+      "Şiddetli vakalarda cerrahi müdahale (nadir durumlarda)",
+      "Kardiyovasküler komplikasyonları önlemek için düzenli takip"
+    ],
+    "prevention": "Ehlers-Danlos Sendromu genetik bir hastalık olduğu için önlenemez. Ancak, eklem yaralanmalarını önlemek için dikkatli hareket edilmeli, düzenli fizik tedavi uygulanmalı ve tıbbi takip aksatılmamalıdır."
+  },
+  "Elektrolit Dengesizliği": {
+    "description": "Elektrolit dengesizliği, vücuttaki sodyum, potasyum, kalsiyum, magnezyum ve klor gibi minerallerin normal seviyelerinin dışına çıkması sonucu ortaya çıkan bir durumdur. Bu dengesizlik, sinir ve kas fonksiyonları başta olmak üzere birçok hayati süreci etkileyebilir.",
+    "causes": "Elektrolit dengesizliği, aşırı sıvı kaybı (terleme, ishal, kusma), böbrek hastalıkları, hormonal bozukluklar, ilaç kullanımı (diüretikler, laksatifler), yetersiz beslenme ve aşırı sıvı tüketimi nedeniyle gelişebilir.",
+    "symptoms": [
+      "Kas zayıflığı ve kramplar",
+      "Baş dönmesi ve sersemlik",
+      "Çarpıntı ve düzensiz kalp atışları",
+      "Şiddetli vakalarda bilinç bulanıklığı veya nöbetler",
+      "Aşırı susuzluk veya sıvı birikimi",
+      "Düşük veya yüksek kan basıncı",
+      "Yorgunluk ve halsizlik"
+    ],
+    "treatments": [
+      "Elektrolit seviyelerinin laboratuvar testleri ile kontrolü",
+      "Kaybedilen elektrolitlerin yerine konması (sodyum, potasyum, kalsiyum, magnezyum takviyeleri)",
+      "Dengeli sıvı alımı",
+      "Beslenme düzeninin düzeltilmesi",
+      "Şiddetli vakalarda intravenöz (damar yoluyla) elektrolit tedavisi",
+      "Altta yatan hastalığın tedavi edilmesi"
+    ],
+    "prevention": "Elektrolit dengesizliğini önlemek için düzenli su ve mineral alımı sağlanmalı, aşırı terleme veya sıvı kaybı durumlarında elektrolit içeren sıvılar tüketilmeli ve kronik hastalıkları olan bireyler düzenli doktor kontrolüne gitmelidir."
+  },
+  "Endometriozis": {
+    "description": "Endometriozis, rahim iç tabakasını oluşturan endometrium dokusunun rahim dışında büyümesiyle karakterize kronik bir hastalıktır. Genellikle pelvik ağrı ve kısırlık ile ilişkilidir.",
+    "causes": "Endometriozisin kesin nedeni bilinmemektedir, ancak genetik yatkınlık, bağışıklık sistemi bozuklukları, hormon dengesizlikleri ve retrograd adet kanaması gibi faktörlerin hastalığın gelişiminde rol oynadığı düşünülmektedir.",
+    "symptoms": [
+      "Şiddetli adet sancıları (dismenore)",
+      "Pelvik ağrı",
+      "Cinsel ilişki sırasında veya sonrasında ağrı",
+      "Bağırsak ve mesane problemleri",
+      "Adet düzensizlikleri",
+      "Kısırlık",
+      "Kronik yorgunluk"
+    ],
+    "treatments": [
+      "Ağrı kesici ve anti-enflamatuar ilaçlar",
+      "Hormon tedavileri (doğum kontrol hapları, GnRH analogları)",
+      "Laparoskopik cerrahi ile endometriozis odaklarının temizlenmesi",
+      "Beslenme ve yaşam tarzı değişiklikleri",
+      "Doğurganlık tedavileri (IVF gibi)",
+      "Destekleyici terapiler (fizik tedavi, akupunktur)"
+    ],
+    "prevention": "Endometriozisi tamamen önlemenin kesin bir yolu yoktur, ancak düzenli jinekolojik kontroller, sağlıklı beslenme ve hormon dengesini koruyucu yaşam tarzı değişiklikleri hastalığın ilerlemesini yavaşlatabilir."
+  },
+  "Epilepsi": {
+    "description": "Epilepsi, beyindeki anormal elektriksel aktiviteler nedeniyle tekrar eden nöbetlerle karakterize kronik bir sinir sistemi hastalığıdır.",
+    "causes": "Epilepsi, genetik yatkınlık, doğum sırasında oksijen eksikliği, kafa travmaları, beyin enfeksiyonları, felç, tümörler veya metabolik bozukluklar gibi çeşitli nedenlerle ortaya çıkabilir.",
+    "symptoms": [
+      "Bilinç kaybı veya dalgınlık nöbetleri",
+      "İstemsiz kas kasılmaları ve titremeler",
+      "Geçici kafa karışıklığı",
+      "Hareket veya his kaybı",
+      "Duyusal değişiklikler (görme, koku, tat değişiklikleri)",
+      "Ani düşme veya kasılmalar",
+      "Nöbet sonrası yorgunluk ve baş ağrısı"
+    ],
+    "treatments": [
+      "Antiepileptik ilaçlar (nöbetleri kontrol altına almak için)",
+      "Ketojenik diyet (bazı epilepsi türlerinde etkili olabilir)",
+      "Vagus sinir stimülasyonu (VNS) tedavisi",
+      "Derin beyin stimülasyonu (DBS)",
+      "Lokalize beyin lezyonları için cerrahi müdahale",
+      "Nöbet tetikleyicilerinden kaçınmak (stres, uykusuzluk, alkol vb.)"
+    ],
+    "prevention": "Epilepsinin tamamen önlenmesi mümkün değildir, ancak nöbetleri kontrol altında tutmak için düzenli ilaç kullanımı, sağlıklı yaşam alışkanlıkları ve nöbet tetikleyicilerinden kaçınılması önerilir."
+  },
+  "Erkeklerde Kısırlık": {
+    "description": "Erkeklerde kısırlık (infertilite), sperm üretimi, sperm hareketliliği veya sperm kalitesindeki bozukluklar nedeniyle gebelik sağlanamaması durumudur.",
+    "causes": "Erkeklerde kısırlık, genetik faktörler, hormonal dengesizlikler, varikosel, enfeksiyonlar, radyasyon veya kimyasallara maruz kalma, sigara ve alkol kullanımı, aşırı stres, yetersiz beslenme ve obezite gibi birçok faktörden kaynaklanabilir.",
+    "symptoms": [
+      "Çocuk sahibi olamama",
+      "Cinsel işlev bozuklukları (ereksiyon veya boşalma problemleri)",
+      "Düşük sperm sayısı ve kalitesi",
+      "Testislerde ağrı, şişlik veya kitle",
+      "Hormon dengesizliklerine bağlı vücut tüylerinde azalma",
+      "Sperm analizinde anormal sonuçlar"
+    ],
+    "treatments": [
+      "Hormonal tedaviler (testosteron ve diğer hormon düzenleyiciler)",
+      "Varikosel veya sperm kanal tıkanıklıkları için cerrahi müdahale",
+      "Yaşam tarzı değişiklikleri (dengeli beslenme, egzersiz, sigara ve alkolü bırakma)",
+      "Antioksidan takviyeleri (C vitamini, E vitamini, çinko vb.)",
+      "Tüp bebek (IVF) ve mikroenjeksiyon (ICSI) gibi yardımcı üreme teknikleri",
+      "Stres yönetimi ve psikolojik destek"
+    ],
+    "prevention": "Erkeklerde kısırlığı önlemek için sağlıklı yaşam alışkanlıkları benimsenmeli, sigara ve alkol tüketiminden kaçınılmalı, düzenli egzersiz yapılmalı, aşırı sıcak ortamlardan (örneğin saunalar) uzak durulmalı ve üreme sağlığını etkileyebilecek ilaç veya kimyasallara dikkat edilmelidir."
+  },
+  "Fenilketonüri Hastalığı": {
+    "description": "Fenilketonüri (PKU), vücudun fenilalanin adlı amino asidi düzgün bir şekilde parçalayamaması sonucu kanda yüksek seviyelere ulaşarak beyin hasarına yol açabilen genetik bir metabolik hastalıktır.",
+    "causes": "Fenilketonüri, fenilalanin hidroksilaz (PAH) enziminin eksikliği veya işlevsizliği nedeniyle gelişir. Bu enzim eksikliği, fenilalaninin vücutta birikmesine neden olur ve tedavi edilmezse zihinsel gelişimi olumsuz etkileyebilir.",
+    "symptoms": [
+      "Zihinsel gelişim geriliği",
+      "Bilişsel ve öğrenme problemleri",
+      "Hiperaktivite ve davranış bozuklukları",
+      "Ciltte açık renklenme ve egzama",
+      "İdrar ve terde küf benzeri koku",
+      "Kaslarda sertlik ve motor beceri geriliği",
+      "Nöbetler (epileptik ataklar)"
+    ],
+    "treatments": [
+      "Düşük fenilalanin içeren özel diyet",
+      "Özel tıbbi formüller ve besin takviyeleri",
+      "BH4 (tetrahidrobiopterin) tedavisi (bazı hastalar için)",
+      "Düzenli kan fenilalanin seviyelerinin takibi",
+      "Nörolojik gelişimin desteklenmesi için erken tedavi",
+      "Genetik danışmanlık"
+    ],
+    "prevention": "Fenilketonüri genetik bir hastalık olduğu için önlenemez, ancak yenidoğan tarama testleri ile erken teşhis edilerek uygun diyet tedavisi uygulanabilir ve zihinsel gelişim sorunları önlenebilir."
+  },
+  "Fil Hastalığı": {
+    "description": "Fil hastalığı (Lenfödem), lenfatik sistemin düzgün çalışmaması sonucu vücutta özellikle kollar ve bacaklarda aşırı sıvı birikmesiyle oluşan şişlik ile karakterize kronik bir hastalıktır.",
+    "causes": "Fil hastalığı, doğuştan gelen (primer lenfödem) veya enfeksiyonlar, cerrahi müdahaleler, radyoterapi, kanser veya lenf düğümlerinin hasar görmesi gibi edinsel nedenlerden kaynaklanabilir.",
+    "symptoms": [
+      "Kollar, bacaklar veya diğer bölgelerde aşırı şişlik",
+      "Ciltte kalınlaşma ve sertleşme",
+      "Ciltte yara ve enfeksiyonlara yatkınlık",
+      "Ağırlaşmış ve sertleşmiş uzuvlar",
+      "Hareket kısıtlılığı",
+      "Ciltte gerginlik ve ağrı",
+      "İleri vakalarda fil benzeri cilt kalınlaşması"
+    ],
+    "treatments": [
+      "Lenf drenaj masajı ve kompresyon terapisi",
+      "Fizik tedavi ve egzersiz",
+      "Lenfödem çorapları veya bandajlar",
+      "Cilt bakımına özen gösterme (enfeksiyon riskini azaltmak için)",
+      "Lenf sıvısının drenajını destekleyen cerrahi tedaviler",
+      "Altta yatan enfeksiyon veya hastalıkların tedavisi"
+    ],
+    "prevention": "Fil hastalığını önlemek için lenfatik sistemi zorlayan faktörlerden kaçınılmalı, lenfödem riski olan kişiler düzenli egzersiz yapmalı ve enfeksiyonlardan korunmak için cilt hijyenine özen göstermelidir."
+  },
+  "Gastrit": {
+    "description": "Gastrit, mide iç yüzeyini kaplayan mukozanın iltihaplanması sonucu mide ağrısı, yanma ve hazımsızlık gibi semptomlarla kendini gösteren bir sindirim sistemi hastalığıdır.",
+    "causes": "Gastrit, Helicobacter pylori bakterisi, aşırı alkol tüketimi, sigara, uzun süreli ağrı kesici kullanımı (NSAID’ler), stres, aşırı baharatlı ve asitli yiyecekler tüketme gibi nedenlerle ortaya çıkabilir.",
+    "symptoms": [
+      "Mide ağrısı ve yanma hissi",
+      "Hazımsızlık ve şişkinlik",
+      "Bulantı ve kusma",
+      "İştahsızlık",
+      "Mide ekşimesi ve geğirme",
+      "Siyah renkli dışkı (kanamalı gastrit durumunda)",
+      "Hızlı doyma hissi"
+    ],
+    "treatments": [
+      "Asit düzenleyici ilaçlar (antiasitler, proton pompa inhibitörleri)",
+      "Helicobacter pylori enfeksiyonu varsa antibiyotik tedavisi",
+      "Diyet düzenlemesi (asidik, baharatlı ve yağlı yiyeceklerden kaçınma)",
+      "Sigara ve alkol tüketiminin bırakılması",
+      "Stres yönetimi ve sağlıklı yaşam alışkanlıkları",
+      "Mideyi koruyucu ilaçlar (mukozayı güçlendiren ajanlar)"
+    ],
+    "prevention": "Gastriti önlemek için sağlıklı beslenme alışkanlıkları benimsenmeli, sigara ve alkol tüketiminden kaçınılmalı, uzun süreli ağrı kesici kullanımından kaçınılmalı ve stres yönetimine önem verilmelidir."
+  },
+  "Gastroenterit": {
+    "description": "Gastroenterit, mide ve bağırsakların iltihaplanması sonucu ishal, kusma, mide krampları ve ateş gibi semptomlarla seyreden enfeksiyöz veya toksik bir sindirim sistemi hastalığıdır.",
+    "causes": "Gastroenterit genellikle virüsler (norovirüs, rotavirüs), bakteriler (Salmonella, E. coli, Campylobacter) veya parazitler nedeniyle gelişir. Kontamine su, hijyenik olmayan gıdalar ve kişisel hijyen eksikliği hastalığın yayılmasını kolaylaştırır.",
+    "symptoms": [
+      "Sulu ishal",
+      "Bulantı ve kusma",
+      "Karın krampları ve ağrı",
+      "Hafif ateş ve titreme",
+      "İştahsızlık",
+      "Genel halsizlik ve yorgunluk",
+      "Dehidrasyon belirtileri (ağız kuruluğu, baş dönmesi, idrar azalması)"
+    ],
+    "treatments": [
+      "Bol sıvı tüketimi (su, elektrolit solüsyonları, bitki çayları)",
+      "Hafif ve sindirimi kolay besinler tüketme (pirinç, muz, patates, yoğurt)",
+      "İshal önleyici ilaçlar (doktor önerisiyle)",
+      "Probiyotikler ile bağırsak florasını destekleme",
+      "Ciddi vakalarda damar içi sıvı tedavisi",
+      "Bakteriyel enfeksiyonlarda antibiyotik tedavisi (doktor kontrolünde)"
+    ],
+    "prevention": "Gastroenteriti önlemek için el hijyenine dikkat edilmeli, temiz ve iyi pişirilmiş gıdalar tüketilmeli, kontamine su ve gıdalardan kaçınılmalı ve aşılar (rotavirüs aşısı gibi) önerilen yaş gruplarına uygulanmalıdır."
+  },
+  "Göz Tansiyonu": {
+    "description": "Göz tansiyonu (Glokom), göz içindeki basıncın artması sonucu optik sinire zarar veren ve görme kaybına yol açabilen kronik bir göz hastalığıdır.",
+    "causes": "Glokom, göz içi sıvısının yeterince boşaltılamaması nedeniyle basıncın artması sonucu gelişir. Genetik yatkınlık, diyabet, yüksek tansiyon, göz travmaları ve uzun süreli kortikosteroid kullanımı riski artırabilir.",
+    "symptoms": [
+      "Görme alanında daralma",
+      "Gözde basınç hissi",
+      "Baş ağrısı ve göz ağrısı",
+      "Gözde kızarıklık",
+      "Işıkların etrafında haleler görme",
+      "Gece görüşünde zayıflama",
+      "İleri evrelerde kalıcı görme kaybı"
+    ],
+    "treatments": [
+      "Göz içi basıncını düşüren göz damlaları",
+      "Oral ilaç tedavisi",
+      "Lazer tedavisi (trabeküloplasti veya iridotomi)",
+      "Cerrahi müdahale (trabekülektomi veya tüp implantasyonu)",
+      "Düzenli göz kontrolleri ve basınç ölçümleri",
+      "Sağlıklı yaşam tarzı ve beslenme düzeni"
+    ],
+    "prevention": "Glokomu önlemek için düzenli göz muayenesi yaptırılmalı, özellikle ailede glokom öyküsü varsa erken teşhis için takip edilmeli, göz travmalarından kaçınılmalı ve göz sağlığını destekleyen besinler tüketilmelidir."
+  },
+  "Guatr": {
+    "description": "Guatr, tiroid bezinin anormal şekilde büyümesi sonucu ortaya çıkan bir hastalıktır. Tiroid bezi boynun ön kısmında bulunur ve vücudun metabolizmasını düzenleyen hormonları üretir.",
+    "causes": "Guatr, iyot eksikliği, Hashimoto tiroiditi, Graves hastalığı, tiroid nodülleri, genetik yatkınlık, radyasyona maruz kalma ve bazı ilaçların yan etkileri nedeniyle oluşabilir.",
+    "symptoms": [
+      "Boyunda şişlik ve belirginleşen tiroid bezi",
+      "Yutkunma veya nefes almada zorluk",
+      "Ses kısıklığı",
+      "Boğazda baskı hissi",
+      "Hızlı veya yavaş kalp atışı (hipertiroidi veya hipotiroidiye bağlı)",
+      "İştah değişiklikleri",
+      "Halsizlik ve yorgunluk"
+    ],
+    "treatments": [
+      "İyot takviyeleri (iyot eksikliğine bağlı guatr için)",
+      "Hormon tedavisi (hipotiroidi veya hipertiroidi durumunda)",
+      "Radyoaktif iyot tedavisi (hipertiroidi kaynaklı guatr için)",
+      "Tiroid cerrahisi (büyük guatr veya nodüller için)",
+      "Beslenme düzeni ve yaşam tarzı değişiklikleri",
+      "Düzenli doktor kontrolleri ile takip"
+    ],
+    "prevention": "Guatrı önlemek için yeterli miktarda iyot içeren besinler tüketilmeli, sigara ve alkol tüketiminden kaçınılmalı, tiroid fonksiyonları düzenli olarak kontrol edilmeli ve radyasyona maruz kalmaktan kaçınılmalıdır."
+  },
+  "Gut Hastalığı": {
+    "description": "Gut hastalığı, vücutta ürik asit seviyesinin artması sonucu eklemlerde kristal birikimiyle şiddetli ağrı, şişlik ve iltihaplanmaya neden olan bir artrit türüdür.",
+    "causes": "Gut hastalığı, genetik yatkınlık, aşırı alkol tüketimi, yüksek pürin içeren besinler (kırmızı et, deniz ürünleri, sakatat), böbrek hastalıkları, obezite ve bazı ilaçların (diüretikler, aspirin) kullanımı nedeniyle gelişebilir.",
+    "symptoms": [
+      "Ani başlayan ve şiddetli eklem ağrısı",
+      "Eklemde kızarıklık, şişlik ve sıcaklık artışı",
+      "Özellikle ayak başparmağında ağrı (en sık etkilenen bölge)",
+      "Eklemlerde hareket kısıtlılığı",
+      "Tekrarlayan ataklarla ilerleyen semptomlar",
+      "İleri vakalarda tofüs adı verilen sert kristal birikimleri"
+    ],
+    "treatments": [
+      "Ürik asit seviyesini düşüren ilaçlar (Allopurinol, Febuksostat)",
+      "Ağrı kesici ve anti-enflamatuar ilaçlar (NSAID'ler, Kolşisin, Kortikosteroidler)",
+      "Düşük pürinli diyet uygulamak",
+      "Bol su tüketimi ve sağlıklı beslenme",
+      "Fazla kilonun kontrol altına alınması",
+      "Alkol ve şekerli içeceklerden kaçınma"
+    ],
+    "prevention": "Gut hastalığını önlemek için sağlıklı beslenme alışkanlıkları edinilmeli, düzenli egzersiz yapılmalı, yeterli sıvı tüketilmeli ve ürik asit seviyeleri düzenli olarak kontrol edilmelidir."
+  },
+  "Gül Hastalığı": {
+    "description": "Gül hastalığı (Rozasea), yüz bölgesinde kızarıklık, kılcal damar genişlemeleri, sivilce benzeri kabarcıklar ve hassasiyet ile karakterize kronik bir cilt hastalığıdır.",
+    "causes": "Gül hastalığının kesin nedeni bilinmemekle birlikte, genetik yatkınlık, bağışıklık sistemi bozuklukları, çevresel faktörler, stres, sıcak ve baharatlı yiyecekler, alkol, güneş ışığı ve bazı kozmetik ürünler hastalığı tetikleyebilir.",
+    "symptoms": [
+      "Yüzde kalıcı kızarıklık",
+      "Burun, yanak, alın ve çenede kızarıklık ve damarlanma",
+      "Sivilce benzeri kabarcıklar ve iltihaplanma",
+      "Ciltte yanma ve batma hissi",
+      "Gözlerde kuruluk, kaşıntı ve kızarıklık (oküler rozasea)",
+      "İleri vakalarda burunda kalınlaşma (rinofima)"
+    ],
+    "treatments": [
+      "Topikal kremler (metronidazol, azelaik asit, ivermektin)",
+      "Antibiyotik tedavisi (oral veya topikal olarak kullanılır)",
+      "Lazer ve ışık terapisi ile damar tedavisi",
+      "Cilt bariyerini güçlendiren nemlendirici ve güneş kremleri",
+      "Tetikleyici faktörlerden kaçınma (alkol, sıcak içecekler, baharatlı yiyecekler)",
+      "Stres yönetimi ve sağlıklı yaşam tarzı değişiklikleri"
+    ],
+    "prevention": "Gül hastalığını kontrol altında tutmak için cilt hassasiyetine uygun ürünler kullanılmalı, güneş koruyucu ihmal edilmemeli, stres yönetimi sağlanmalı ve tetikleyici faktörlerden kaçınılmalıdır."
+  },
+  "Haşimato": {
+    "description": "Haşimato hastalığı (Hashimoto Tiroiditi), bağışıklık sisteminin tiroid bezine saldırarak iltihaplanmaya ve hormon üretiminin azalmasına neden olduğu otoimmün bir hastalıktır. Genellikle hipotiroidizme yol açar.",
+    "causes": "Haşimato hastalığı, bağışıklık sisteminin yanlışlıkla tiroid hücrelerine saldırmasıyla ortaya çıkar. Genetik yatkınlık, iyot eksikliği veya fazlalığı, stres, bazı viral enfeksiyonlar ve hormonal değişiklikler hastalığın gelişimine katkıda bulunabilir.",
+    "symptoms": [
+      "Yorgunluk ve halsizlik",
+      "Kilo alma",
+      "Cilt kuruluğu ve saç dökülmesi",
+      "Soğuğa karşı hassasiyet",
+      "Depresyon ve hafıza problemleri",
+      "Kabızlık",
+      "Boyunda şişlik (guatr gelişimi)",
+      "Adet düzensizlikleri"
+    ],
+    "treatments": [
+      "Tiroid hormonu takviyesi (levotiroksin)",
+      "Düzenli tiroid fonksiyon testleri",
+      "Bağışıklık sistemini destekleyen sağlıklı beslenme",
+      "İyot ve selenyum gibi mineral seviyelerinin dengelenmesi",
+      "Stres yönetimi ve düzenli egzersiz",
+      "Glutensiz diyet (bazı vakalarda faydalı olabilir)"
+    ],
+    "prevention": "Haşimato hastalığını tamamen önlemek mümkün değildir, ancak sağlıklı beslenme, düzenli doktor kontrolleri ve bağışıklık sistemini destekleyici yaşam tarzı değişiklikleri hastalığın ilerlemesini yavaşlatabilir."
+  },
+  "Hemoroid": {
+    "description": "Hemoroid, anüs ve rektum bölgesindeki damarların genişlemesi ve şişmesi sonucu ağrı, kanama ve rahatsızlık hissi ile karakterize olan bir hastalıktır. İç ve dış hemoroid olarak ikiye ayrılır.",
+    "causes": "Hemoroid, kronik kabızlık, uzun süre oturma, aşırı ıkınma, düşük lifli beslenme, obezite, hamilelik ve ağır kaldırma gibi nedenlerle ortaya çıkabilir.",
+    "symptoms": [
+      "Makatta ağrı ve kaşıntı",
+      "Dışkılama sırasında kanama (parlak kırmızı renkte)",
+      "Makatta şişlik ve ele gelen kitle",
+      "Otururken rahatsızlık hissi",
+      "İleri vakalarda hemoroidlerin dışarı sarkması",
+      "Makat bölgesinde tahriş ve yanma"
+    ],
+    "treatments": [
+      "Lif açısından zengin beslenme ve bol su tüketimi",
+      "Kabızlığı önlemek için diyet düzenlemesi",
+      "Topikal kremler ve fitiller (hidrokortizon, anestetik merhemler)",
+      "Sıcak su oturma banyoları",
+      "Ağrı kesici ilaçlar",
+      "İleri vakalarda lastik bant ligasyonu veya cerrahi müdahale (hemoroidektomi)"
+    ],
+    "prevention": "Hemoroidi önlemek için lifli gıdalar tüketilmeli, yeterli sıvı alınmalı, tuvalette uzun süre oturmaktan kaçınılmalı ve düzenli egzersiz yapılmalıdır."
+  },
+  "Hepatit A": {
+    "description": "Hepatit A, Hepatit A virüsünün (HAV) neden olduğu, karaciğerde iltihaplanmaya yol açan bulaşıcı bir hastalıktır. Genellikle hafif seyirlidir ve kronikleşmez.",
+    "causes": "Hepatit A, virüsle kontamine olmuş yiyecek ve içeceklerin tüketilmesi, hijyenik olmayan koşullar, enfekte kişilerle temas ve kirli sular nedeniyle bulaşabilir.",
+    "symptoms": [
+      "Halsizlik ve yorgunluk",
+      "İştahsızlık ve mide bulantısı",
+      "Kusma",
+      "Ateş",
+      "Koyu renkli idrar",
+      "Açık renkli dışkı",
+      "Sarılık (gözlerde ve ciltte sararma)",
+      "Karın ağrısı, özellikle sağ üst bölgede"
+    ],
+    "treatments": [
+      "Özel bir antiviral tedavi gerektirmez",
+      "Bol sıvı tüketimi",
+      "Sağlıklı ve dengeli beslenme",
+      "Alkol ve karaciğere zarar verebilecek ilaçlardan kaçınma",
+      "Semptomları hafifletmek için ağrı kesiciler (doktor kontrolünde)",
+      "İstirahat ve bağışıklık sistemini destekleyen yaşam tarzı değişiklikleri"
+    ],
+    "prevention": "Hepatit A’dan korunmak için hijyen kurallarına dikkat edilmeli, temiz su ve gıda tüketilmeli, aşı yaptırılmalı ve enfekte kişilerle temas önlenmelidir."
+  },
+  "HIV": {
+    "description": "HIV (İnsan Bağışıklık Yetmezliği Virüsü), bağışıklık sistemini hedef alarak zamanla zayıflamasına neden olan ve tedavi edilmezse AIDS’e (Edinilmiş Bağışıklık Yetmezliği Sendromu) yol açabilen bir viral enfeksiyondur.",
+    "causes": "HIV, korunmasız cinsel ilişki, enfekte kan veya vücut sıvılarıyla temas, anneden bebeğe doğum veya emzirme yoluyla bulaşabilir. Ortak enjektör kullanımı da önemli bir bulaşma yoludur.",
+    "symptoms": [
+      "Grip benzeri belirtiler (ateş, boğaz ağrısı, kas ağrıları)",
+      "Lenf bezlerinde şişlik",
+      "Gece terlemeleri",
+      "Hızlı kilo kaybı",
+      "Uzun süreli yorgunluk",
+      "Kronik ishal",
+      "Tekrarlayan enfeksiyonlar",
+      "Cilt döküntüleri ve ağızda yaralar"
+    ],
+    "treatments": [
+      "Antiretroviral tedavi (ART) ile virüsün baskılanması",
+      "Bağışıklık sistemini güçlendiren sağlıklı beslenme",
+      "Düzenli tıbbi takip ve kan testleri",
+      "Bağışıklık sistemini destekleyen ilaç tedavileri",
+      "Psikolojik destek ve danışmanlık hizmetleri",
+      "HIV ile yaşayan bireyler için sosyal destek programları"
+    ],
+    "prevention": "HIV’den korunmak için korunmalı cinsel ilişki, steril enjektör kullanımı, düzenli HIV testleri ve HIV pozitif bireyler için erken antiretroviral tedaviye başlanması gereklidir. Ayrıca, yüksek riskli gruplar için HIV önleyici ilaçlar (PrEP) kullanılabilir."
+  },
+  "Hipermetrop": {
+    "description": "Hipermetrop, gözün yakındaki nesneleri net görememesi ancak uzaktaki nesneleri daha iyi görebilmesiyle karakterize bir kırma kusurudur. Göz merceği veya korneanın ışığı doğru şekilde kırmaması nedeniyle oluşur.",
+    "causes": "Hipermetrop, genetik yatkınlık, göz küresinin normalden kısa olması veya korneanın yeterince eğimli olmaması nedeniyle ortaya çıkar. Yaşla birlikte göz merceğinin esnekliğinin azalması da hipermetropiyi artırabilir.",
+    "symptoms": [
+      "Yakını görmede bulanıklık",
+      "Göz yorgunluğu ve baş ağrısı",
+      "Okuma sırasında gözlerde rahatsızlık",
+      "Gözlerde sulanma ve yanma",
+      "Odaklanma zorluğu",
+      "Şaşılık (çocuklarda görülebilir)"
+    ],
+    "treatments": [
+      "Gözlük veya kontakt lens kullanımı",
+      "Lazer göz ameliyatı (LASIK, PRK, LASEK)",
+      "Refraktif lens değişimi (ileri vakalar için)",
+      "Düzenli göz muayeneleri ile görme kusurunun kontrolü"
+    ],
+    "prevention": "Hipermetrop genetik bir durum olduğu için tamamen önlenemez, ancak düzenli göz muayeneleri ile erken teşhis edilebilir. Göz yorgunluğunu önlemek için ekran süresi sınırlandırılmalı ve göz sağlığı için dengeli beslenmeye özen gösterilmelidir."
+  },
+  "Hipersomnia": {
+    "description": "Hipersomnia, bireyin gün boyunca aşırı uyku hali yaşaması ve gece yeterince uyumasına rağmen kendini dinlenmemiş hissetmesi ile karakterize edilen bir uyku bozukluğudur.",
+    "causes": "Hipersomnia, beyin fonksiyonlarıyla ilgili bozukluklar, uyku apnesi, narkolepsi, depresyon, aşırı alkol veya uyuşturucu kullanımı, bazı ilaçların yan etkileri ve nörolojik hastalıklar gibi faktörlerden kaynaklanabilir.",
+    "symptoms": [
+      "Gün içinde aşırı uyku hali",
+      "Gece uzun süre uyunsa bile dinlenememe hissi",
+      "Konsantrasyon güçlüğü ve dikkat dağınıklığı",
+      "Ruh halinde dalgalanmalar",
+      "Enerji düşüklüğü ve halsizlik",
+      "Sabahları zor uyanma",
+      "İleri vakalarda iş veya sosyal yaşamda bozulmalar"
+    ],
+    "treatments": [
+      "Uyku düzeninin sağlanması ve kaliteli uyku ortamı oluşturma",
+      "Uyku hijyeni alışkanlıklarının geliştirilmesi",
+      "Altta yatan nedenin belirlenerek tedavi edilmesi",
+      "Kafein veya uyarıcı ilaçlar (doktor önerisiyle)",
+      "Psikolojik destek ve stres yönetimi",
+      "Düzenli egzersiz ve sağlıklı beslenme"
+    ],
+    "prevention": "Hipersomniyi önlemek için düzenli uyku saatlerine uyulmalı, uyku kalitesini artıran faktörler göz önünde bulundurulmalı ve uyku bozuklukları erken teşhis edilerek tedavi edilmelidir."
+  },
+  "Hipotiroidi": {
+    "description": "Hipotiroidi, tiroid bezinin yeterli miktarda tiroid hormonu üretememesi sonucu metabolizmanın yavaşlamasına neden olan bir hormonal bozukluktur.",
+    "causes": "Hipotiroidi, genellikle Hashimoto tiroiditi gibi otoimmün hastalıklar, iyot eksikliği, tiroid cerrahisi, radyoterapi, bazı ilaçlar ve doğuştan gelen tiroid yetmezliği gibi nedenlerle ortaya çıkabilir.",
+    "symptoms": [
+      "Halsizlik ve yorgunluk",
+      "Kilo alma",
+      "Ciltte kuruluk ve saç dökülmesi",
+      "Soğuğa karşı hassasiyet",
+      "Depresyon ve hafıza problemleri",
+      "Kabızlık",
+      "Ses kısıklığı",
+      "Yavaş kalp atışı",
+      "Adet düzensizlikleri"
+    ],
+    "treatments": [
+      "Tiroid hormonu takviyesi (levotiroksin)",
+      "Düzenli tiroid fonksiyon testleri",
+      "Beslenme düzeninin iyot açısından dengelenmesi",
+      "Selenyum ve D vitamini takviyeleri (bazı durumlarda)",
+      "Stres yönetimi ve düzenli egzersiz",
+      "Hipotiroidi ile ilişkili diğer sağlık sorunlarının kontrolü"
+    ],
+    "prevention": "Hipotiroidiyi önlemek için yeterli iyot alımına dikkat edilmeli, düzenli tiroid testleri yaptırılmalı, sağlıklı beslenme ve aktif bir yaşam tarzı benimsenmelidir."
+  },
+  "Huzursuz Bacak Sendromu": {
+    "description": "Huzursuz Bacak Sendromu (HBS), özellikle dinlenme sırasında bacaklarda rahatsız edici bir his ile karakterize edilen, bireyin hareket etme isteği duyduğu nörolojik bir hastalıktır.",
+    "causes": "Huzursuz Bacak Sendromu’nun kesin nedeni bilinmemekle birlikte, genetik yatkınlık, demir eksikliği, dopamin dengesizliği, kronik hastalıklar (böbrek yetmezliği, diyabet, parkinson), hamilelik ve bazı ilaçların yan etkileri ile ilişkili olabilir.",
+    "symptoms": [
+      "Bacaklarda rahatsız edici bir his (yanma, karıncalanma, çekilme hissi)",
+      "Dinlenme sırasında hareket ettirme ihtiyacı",
+      "Gece ve akşam saatlerinde semptomların artması",
+      "Uyku bozuklukları ve uykusuzluk",
+      "Uzun süre otururken veya yatarken semptomların kötüleşmesi",
+      "Bacakları hareket ettirince rahatlama"
+    ],
+    "treatments": [
+      "Demir eksikliği varsa demir takviyesi",
+      "Dopamin düzenleyici ilaçlar (doktor kontrolünde)",
+      "Sinir sistemini yatıştırıcı ilaçlar (gabapentin, pregabalin)",
+      "Uyku hijyeninin iyileştirilmesi",
+      "Düzenli egzersiz ve esneme hareketleri",
+      "Kafein, alkol ve sigaradan kaçınma",
+      "Masaj, sıcak-soğuk kompres uygulamaları"
+    ],
+    "prevention": "Huzursuz Bacak Sendromunu önlemek için düzenli egzersiz yapılmalı, sağlıklı bir uyku düzeni oluşturulmalı, demir eksikliği kontrol edilmeli ve stres yönetimi sağlanmalıdır."
+  },
+  "İdrar Yolu Enfeksiyonu": {
+    "description": "İdrar Yolu Enfeksiyonu (İYE), bakterilerin idrar yollarına yerleşmesi sonucu gelişen ve idrar yaparken yanma, sık idrara çıkma gibi belirtilerle seyreden yaygın bir enfeksiyon türüdür.",
+    "causes": "İYE, genellikle bağırsakta bulunan E. coli gibi bakterilerin idrar yollarına ulaşmasıyla oluşur. Kötü hijyen, yetersiz su tüketimi, mesanenin tam boşaltılamaması, cinsel ilişki, hamilelik ve bağışıklık sisteminin zayıflaması enfeksiyon riskini artırabilir.",
+    "symptoms": [
+      "İdrar yaparken yanma ve ağrı",
+      "Sık sık idrara çıkma ihtiyacı",
+      "Tam boşaltılamayan mesane hissi",
+      "Koyu renkli veya bulanık idrar",
+      "İdrarda kötü koku",
+      "Karın alt bölgesinde ağrı veya baskı hissi",
+      "Ateş ve titreme (şiddetli enfeksiyonlarda)"
+    ],
+    "treatments": [
+      "Antibiyotik tedavisi (doktor kontrolünde)",
+      "Bol su tüketimi ile idrar yollarının temizlenmesi",
+      "İdrar söktürücü bitki çayları (örn. kızılcık, maydanoz)",
+      "Ağrı kesici ilaçlar (semptomları hafifletmek için)",
+      "Hijyen kurallarına dikkat etmek",
+      "İleri vakalarda hastane tedavisi (böbrek enfeksiyonu durumunda)"
+    ],
+    "prevention": "İdrar yolu enfeksiyonlarını önlemek için yeterli su tüketilmeli, tuvalet sonrası doğru temizlik yapılmalı, uzun süre idrar tutulmamalı, pamuklu iç çamaşırları tercih edilmeli ve cinsel ilişki sonrası idrar yapılmalıdır."
+  },
+  "İnsomnia": {
+    "description": "İnsomnia, uykuya dalmakta veya uykuyu sürdürmekte zorluk çekme ile karakterize edilen bir uyku bozukluğudur. Uzun süre devam ettiğinde fiziksel ve zihinsel sağlığı olumsuz etkileyebilir.",
+    "causes": "İnsomnia, stres, anksiyete, depresyon, düzensiz uyku alışkanlıkları, aşırı kafein veya alkol tüketimi, elektronik cihazların aşırı kullanımı, kronik hastalıklar ve bazı ilaçların yan etkileri nedeniyle oluşabilir.",
+    "symptoms": [
+      "Uykuya dalmada zorluk",
+      "Gece sık sık uyanma",
+      "Erken uyanma ve tekrar uyuyamama",
+      "Gün içinde halsizlik ve yorgunluk",
+      "Dikkat ve konsantrasyon bozukluğu",
+      "Ruh hali değişiklikleri ve sinirlilik",
+      "Gün içinde uyuklama isteği"
+    ],
+    "treatments": [
+      "Uyku hijyeninin düzenlenmesi (aynı saatte yatma ve kalkma)",
+      "Kafein, alkol ve nikotin tüketiminin azaltılması",
+      "Rahatlatıcı aktiviteler (meditasyon, sıcak duş, kitap okuma)",
+      "Bilişsel davranışçı terapi (CBT)",
+      "Uyku düzenleyici ilaçlar (doktor kontrolünde)",
+      "Düzenli egzersiz yapmak (uyku saatine yakın olmamak kaydıyla)",
+      "Yatak odasını uyku için uygun hale getirme (karanlık, sessiz, serin ortam)"
+    ],
+    "prevention": "İnsomniyi önlemek için düzenli uyku saatleri oluşturulmalı, stres yönetimi sağlanmalı, elektronik cihaz kullanımı yatmadan önce sınırlandırılmalı ve rahatlatıcı rutinler geliştirilmelidir."
+  },
+  "İnsülin Direnci": {
+    "description": "İnsülin direnci, vücudun ürettiği insülin hormonuna yeterince yanıt verememesi sonucu kan şekerinin yüksek seyretmesiyle karakterize bir metabolik bozukluktur. Tedavi edilmezse Tip 2 diyabet riskini artırabilir.",
+    "causes": "İnsülin direnci, genetik yatkınlık, aşırı kilo ve obezite, sağlıksız beslenme, hareketsiz yaşam tarzı, stres, uyku düzensizlikleri ve kronik inflamasyon gibi faktörlerden kaynaklanabilir.",
+    "symptoms": [
+      "Halsizlik ve sürekli yorgunluk",
+      "Tatlı krizleri ve aşırı açlık hissi",
+      "Kilo vermekte zorlanma",
+      "Göbek çevresinde yağlanma",
+      "Ciltte koyu lekeler (akantozis nigrikans)",
+      "Odaklanma güçlüğü ve unutkanlık",
+      "Kan testlerinde yüksek insülin seviyeleri"
+    ],
+    "treatments": [
+      "Düşük karbonhidratlı ve sağlıklı beslenme düzeni",
+      "Düzenli fiziksel aktivite ve egzersiz",
+      "Şeker ve rafine karbonhidrat tüketiminin azaltılması",
+      "İdeal kiloya ulaşma ve kilo kontrolü",
+      "İnsülin hassasiyetini artıran ilaçlar (doktor kontrolünde, metformin vb.)",
+      "Stres yönetimi ve kaliteli uyku düzeni",
+      "Düzenli kan şekeri ve insülin seviyelerinin takibi"
+    ],
+    "prevention": "İnsülin direncini önlemek için sağlıklı ve dengeli beslenilmeli, düzenli egzersiz yapılmalı, aşırı şeker ve işlenmiş gıda tüketiminden kaçınılmalı ve ideal kilo korunmalıdır."
+  },
+  "Kabakulak": {
+    "description": "Kabakulak, tükürük bezlerinde şişlik ve ağrı ile karakterize, kabakulak virüsü (mumps virus) tarafından bulaşan yüksek derecede bulaşıcı bir viral enfeksiyondur.",
+    "causes": "Kabakulak, kabakulak virüsü (paramiksovirüs ailesinden) ile enfekte olan kişilerin solunum damlacıkları yoluyla bulaşır. Enfekte kişinin öksürmesi, hapşırması veya eşyalarını paylaşması virüsün yayılmasına neden olabilir.",
+    "symptoms": [
+      "Yanakların ve çenenin şişmesine neden olan tükürük bezlerinde iltihap",
+      "Çiğneme ve yutkunma sırasında ağrı",
+      "Ateş",
+      "Baş ağrısı",
+      "Kas ağrıları",
+      "Halsizlik ve yorgunluk",
+      "İştahsızlık"
+    ],
+    "treatments": [
+      "Bol sıvı tüketimi",
+      "Ateş düşürücü ve ağrı kesici ilaçlar (parasetamol, ibuprofen)",
+      "Şişliği hafifletmek için soğuk kompres uygulaması",
+      "Yumuşak ve sindirimi kolay besinler tüketme",
+      "Dinlenme ve izolasyon",
+      "Virüs kaynaklı olduğu için antibiyotik kullanılmaz"
+    ],
+    "prevention": "Kabakulaktan korunmak için MMR (Kızamık-Kabakulak-Kızamıkçık) aşısı yapılmalıdır. Enfekte kişilerden uzak durulmalı, hijyen kurallarına dikkat edilmeli ve bağışıklık sistemi desteklenmelidir."
+  },
+  "Kalça Kireçlenmesi": {
+    "description": "Kalça kireçlenmesi (Koksartroz), kalça eklemindeki kıkırdağın aşındığı ve eklemdeki kemiklerin birbirine sürtünmeye başladığı, ağrı ve hareket zorluğuna yol açan bir osteoartrit türüdür.",
+    "causes": "Kalça kireçlenmesi, yaşlanma, aşırı kilo, kalça ekleminde geçirilmiş yaralanmalar, genetik yatkınlık, aşırı egzersiz ve bazı bağ dokusu hastalıkları nedeniyle gelişebilir.",
+    "symptoms": [
+      "Kalça bölgesinde ağrı, özellikle hareketle artan ağrı",
+      "Yürürken zorluk ve topallama",
+      "Kalçada sertlik ve hareket kısıtlılığı",
+      "Uzun süre oturduktan sonra kalçada ağrı",
+      "Bazen bacakta uyuşma veya karıncalanma",
+      "Gece ağrıları"
+    ],
+    "treatments": [
+      "Ağrı kesici ve anti-enflamatuar ilaçlar",
+      "Fizik tedavi ve güçlendirici egzersizler",
+      "Sıcak ve soğuk kompres uygulamaları",
+      "Ağırsız yürüyüş veya bisiklet sürme gibi düşük etkili aktiviteler",
+      "Ağırlık kontrolü ve sağlıklı beslenme",
+      "Şiddetli vakalarda kalça protezi (artroplasti) ameliyatı"
+    ],
+    "prevention": "Kalça kireçlenmesini önlemek için düzenli egzersiz yapılmalı, ideal kilo korunmalı, aşırı yük bindiren hareketlerden kaçınılmalı, kalça eklemini zorlayacak aktivitelerden kaçınılmalıdır."
+  },
+  "Kalça Labrum Yırtığı": {
+    "description": "Kalça labrum yırtığı, kalça ekleminde bulunan, eklem başını çevreleyen yumuşak doku halkası olan labrumun yırtılmasıyla ortaya çıkan bir durumdur. Bu yırtık, kalça ekleminde ağrı ve hareket kısıtlılığına neden olabilir.",
+    "causes": "Kalça labrum yırtığı, genellikle aşırı kullanım, kalça travması, spor yaralanmaları, yaşa bağlı kıkırdak aşınması ve genetik faktörler nedeniyle oluşur. Ayrıca, kalça eklemindeki yapısal bozukluklar (FEMO veya CAM deformitesi) da risk faktörüdür.",
+    "symptoms": [
+      "Kalça ağrısı, özellikle kalçayı döndürürken veya bükme hareketlerinde",
+      "Bacakta ve kalçada sertlik hissi",
+      "İleri vakalarda eklemde takılma veya tıkırtı sesi",
+      "Yürürken zorluk ve topallama",
+      "Uzun süre oturduktan sonra kalçada ağrı",
+      "Egzersiz sırasında artan ağrı"
+    ],
+    "treatments": [
+      "Fizik tedavi ve egzersiz programları (kasları güçlendirme ve esnekliği artırma)",
+      "Ağrı kesici ve anti-enflamatuar ilaçlar",
+      "İleri vakalarda kalça eklemi içine kortizon enjeksiyonu",
+      "Cerrahi müdahale (artroskopik cerrahi ile labrum onarımı veya temizlenmesi)",
+      "Ağrı kontrolü için dinlenme ve aktivitelerden kaçınma",
+      "Yüksek etkili aktivitelerden kaçınılması"
+    ],
+    "prevention": "Kalça labrum yırtığının önlenmesi için düzenli egzersiz, kalça eklemini zorlayıcı hareketlerden kaçınma, uygun spor ekipmanları kullanma ve kalça eklemini doğru şekilde hareket ettirerek kuvvetlendirme gereklidir."
+  },
+  "Kansızlık": {
+    "description": "Kansızlık (Anemi), kanda yeterli miktarda sağlıklı kırmızı kan hücresinin bulunmaması veya oksijen taşıyan hemoglobin miktarının düşük olması durumudur. Bu durum, vücudun dokularına yeterli oksijenin ulaşamamasına yol açar.",
+    "causes": "Kansızlık, demir eksikliği, B12 vitamini eksikliği, folik asit eksikliği, kronik hastalıklar (böbrek hastalığı, kanser), kan kaybı (adet dönemi, mide ülseri, bağırsak kanaması) ve bazı genetik hastalıklar (orak hücreli anemi) nedeniyle gelişebilir.",
+    "symptoms": [
+      "Yorgunluk ve halsizlik",
+      "Soluk cilt",
+      "Nefes darlığı ve çabuk yorulma",
+      "Baş dönmesi ve bayılma hissi",
+      "Soğuk eller ve ayaklar",
+      "Hızlı kalp atışı",
+      "Baş ağrısı",
+      "Zihinsel konsantrasyon bozuklukları"
+    ],
+    "treatments": [
+      "Demir takviyeleri (demir eksikliği anemisinde)",
+      "B12 vitamini ve folik asit takviyeleri (B12 ve folik asit eksikliklerinde)",
+      "Kansızlığın altında yatan hastalığa yönelik tedavi (örneğin, böbrek hastalığı veya kanama tedavisi)",
+      "Kan transfüzyonları (ciddi kansızlık durumunda)",
+      "Dengeli ve sağlıklı beslenme",
+      "Kronik hastalıkların yönetimi"
+    ],
+    "prevention": "Kansızlığı önlemek için demir, B12 vitamini ve folik asit açısından zengin gıdalar (kırmızı et, yeşil yapraklı sebzeler, kuru baklagiller) tüketilmeli, düzenli sağlık kontrolleri yapılmalı ve kansızlığa neden olabilecek hastalıklar erken teşhis edilip tedavi edilmelidir."
+  },
+  "Karaciğer Sirozu": {
+    "description": "Karaciğer sirozu, karaciğerin sağlıklı dokusunun yerini bağ dokusunun aldığı ve karaciğer fonksiyonlarının bozulduğu bir hastalıktır. Genellikle alkol tüketimi, viral hepatitler ve diğer karaciğer hastalıkları nedeniyle gelişir.",
+    "causes": "Karaciğer sirozu, uzun süreli alkol tüketimi, viral hepatit B ve C enfeksiyonları, yağlı karaciğer hastalığı (NAFLD), otoimmün hastalıklar, bazı ilaçlar ve karaciğer toksinlerine maruz kalma gibi nedenlerle oluşabilir.",
+    "symptoms": [
+      "Yorgunluk ve halsizlik",
+      "Ciltte sararma (sarılık)",
+      "Karın bölgesinde şişlik ve ağrı",
+      "Kol ve bacaklarda ödem (şişlik)",
+      "İştah kaybı ve kilo kaybı",
+      "Mide bulantısı ve kusma",
+      "Kanama eğiliminde artış (örneğin, burun kanamaları, diş eti kanamaları)",
+      "Zihinsel karışıklık ve kafa karışıklığı (hepatik ensefalopati)"
+    ],
+    "treatments": [
+      "Alkol tüketiminin sonlandırılması",
+      "Viral hepatit tedavisi (antiviral ilaçlar)",
+      "Karaciğer fonksiyonlarını iyileştiren ilaçlar",
+      "Diyet değişiklikleri (düşük tuzlu, dengeli beslenme)",
+      "Diüretikler ile ödem kontrolü",
+      "Karaciğer nakli (ileri evrelerde)"
+    ],
+    "prevention": "Karaciğer sirozunun önlenmesi için aşırı alkol tüketiminden kaçınılmalı, sağlıklı bir diyet uygulanmalı, düzenli egzersiz yapılmalı, hepatit B ve C aşıları yapılmalı ve kronik karaciğer hastalıkları erken evrede tedavi edilmelidir."
+  },
+  "Kasık Fıtığı": {
+    "description": "Kasık fıtığı, karın duvarındaki zayıf bir noktadan bağırsakların veya karın içi organların dışarı çıkması sonucu oluşan bir durumu ifade eder. Genellikle kasık bölgesinde şişlik ve ağrı ile kendini gösterir.",
+    "causes": "Kasık fıtığı, ağır kaldırma, aşırı ıkınma, uzun süreli öksürük, obezite, yaşlanma ve genetik yatkınlık gibi faktörler nedeniyle gelişebilir. Erkeklerde daha sık görülür çünkü kasık kanalı erkek üreme organlarının geçişi için daha geniştir.",
+    "symptoms": [
+      "Kasık bölgesinde ağrı veya yanma hissi",
+      "Şişlik veya sertlik (özellikle ayakta dururken veya ıkınırken belirginleşir)",
+      "Bazen şişliğin kaybolması veya geçici olarak geri gitmesi",
+      "Hareket veya egzersiz sırasında rahatsızlık",
+      "Bağırsak problemleri veya kabızlık (nadir durumlarda)"
+    ],
+    "treatments": [
+      "Ağrı kesiciler ve anti-enflamatuar ilaçlar",
+      "Düşük etkili aktiviteler ve dinlenme",
+      "Cerrahi müdahale (fıtık onarımı, açık veya laparoskopik cerrahi)",
+      "Kasık fıtığı oluşumunu önlemek için egzersizlerle karın kaslarını güçlendirme",
+      "Bazen fıtık destekleyici bandaj veya korse kullanımı"
+    ],
+    "prevention": "Kasık fıtığını önlemek için doğru kaldırma teknikleri kullanılmalı, aşırı kilodan kaçınılmalı, düzenli egzersizle karın kasları güçlendirilmeli ve kabızlık önlenmelidir."
+  },
+  "Katarakt": {
+    "description": "Katarakt, gözdeki lensin bulanıklaşması sonucu görme kalitesinin düşmesiyle karakterize bir göz hastalığıdır. Genellikle yaşla birlikte gelişir ve tedavi edilmezse körlüğe yol açabilir.",
+    "causes": "Katarakt, yaşlanma, genetik faktörler, aşırı güneşe maruz kalma, diyabet, uzun süreli steroid kullanımı, göz yaralanmaları veya bazı göz hastalıkları nedeniyle oluşabilir.",
+    "symptoms": [
+      "Bulanık görme",
+      "Görme keskinliğinde azalma",
+      "Işığa karşı hassasiyet ve gece görüşü zorlukları",
+      "Renklerin soluk görünmesi",
+      "Gözlerde haleler veya ışık etrafında dairesel ışık halkaları",
+      "Görme alanında bulanık lekeler"
+    ],
+    "treatments": [
+      "Erken evrelerde gözlükle görme iyileştirmesi",
+      "Cerrahi müdahale (katarakt ameliyatı) – lensin alınması ve yapay lensin yerleştirilmesi",
+      "Göz sağlığını destekleyen beslenme (C vitamini, E vitamini gibi antioksidanlar)",
+      "Düzenli göz muayeneleri ve kontrol"
+    ],
+    "prevention": "Kataraktı tamamen önlemek mümkün değildir, ancak güneşten korunmak (gözlük kullanmak), sağlıklı bir yaşam tarzı benimsemek, düzenli göz muayenesi yaptırmak ve diyabetin kontrol altında tutulması katarakt gelişimini yavaşlatabilir."
+  },
+  "Kawasaki Hastalığı": {
+    "description": "Kawasaki hastalığı, genellikle beş yaş altındaki çocukları etkileyen, kan damarlarını iltihaplandıran ve vücutta farklı organları etkileyebilen nadir bir hastalıktır. Erken tedavi edilmezse kalp damarlarında kalıcı hasara yol açabilir.",
+    "causes": "Kawasaki hastalığının kesin nedeni bilinmemektedir, ancak bağışıklık sisteminin aşırı tepki vermesi sonucu geliştiği düşünülmektedir. Genetik yatkınlık, viral veya bakteriyel enfeksiyonlar ve çevresel faktörlerin rol oynadığı düşünülmektedir.",
+    "symptoms": [
+      "Yüksek ateş (5 günden fazla devam edebilir)",
+      "Ciltte döküntü",
+      "Ağızda kırmızı lekeler, dudaklarda çatlama",
+      "Eller ve ayaklarda şişlik ve kızarıklık",
+      "Lenf bezlerinde şişlik",
+      "Beyaz gözlerde kızarıklık",
+      "Eklem ağrıları ve vücut ağrıları",
+      "İrritabilite ve huzursuzluk"
+    ],
+    "treatments": [
+      "İvIg (intravenöz immünoglobulin) tedavisi",
+      "Aspirin tedavisi (kan pıhtılaşmasını önlemek için)",
+      "Destek tedaviler (ağrı kesici ve ateş düşürücü ilaçlar)",
+      "Erken tedavi ile kalp komplikasyonlarının önlenmesi",
+      "Düzenli kalp kontrolleri ve takip"
+    ],
+    "prevention": "Kawasaki hastalığının kesin bir önleme yöntemi yoktur, ancak hastalık erken teşhis edilip tedavi edilirse kalp komplikasyonları önlenebilir. Hijyen önlemleri ve bağışıklık sistemini güçlendiren sağlıklı yaşam alışkanlıkları önerilmektedir."
+  },
+  "Kelebek Hastalığı": {
+    "description": "Kelebek hastalığı (Lupus), bağışıklık sisteminin vücudun sağlıklı dokularına saldırarak iltihaplanmaya ve organ hasarına yol açtığı, kronik bir otoimmün hastalıktır. Adını, yüzdeki kelebek şeklindeki döküntüsünden alır.",
+    "causes": "Kelebek hastalığının kesin nedeni bilinmemekle birlikte, genetik yatkınlık, çevresel faktörler (güneş ışığı, enfeksiyonlar, stres) ve bağışıklık sistemi bozuklukları hastalığın gelişiminde rol oynar.",
+    "symptoms": [
+      "Yüzde kelebek şeklinde döküntü",
+      "Yorgunluk ve halsizlik",
+      "Eklem ağrıları ve şişlikleri",
+      "Cilt döküntüleri ve hassasiyet",
+      "Ateş",
+      "Gözde iltihaplanma ve kuru gözler",
+      "Nefes darlığı ve göğüs ağrısı",
+      "Böbrek problemleri (idrarla kan veya protein sızması)"
+    ],
+    "treatments": [
+      "Anti-inflamatuar ilaçlar (NSAID'ler)",
+      "Kortikosteroid ilaçlar (ağır vakalarda)",
+      "Bağışıklık sistemini baskılayıcı ilaçlar (örneğin, metotreksat, azatiyoprin)",
+      "Antimalaryal ilaçlar (plaquenil) cilt döküntülerini kontrol etmek için",
+      "Düzenli takip ve tedavi, organ hasarlarını önlemek için",
+      "Diyet ve yaşam tarzı değişiklikleri (stresten kaçınma, güneşten korunma)"
+    ],
+    "prevention": "Kelebek hastalığını önlemek mümkün olmasa da, güneş ışınlarından korunmak, bağışıklık sistemi desteklemek ve tetikleyici faktörlerden kaçınmak hastalığın alevlenmelerini engellemeye yardımcı olabilir."
+  },
+  "Kemik Erimesi": {
+    "description": "Kemik erimesi (osteoporoz), kemiklerin zayıflaması ve kırılgan hale gelmesiyle karakterize edilen, genellikle yaşlanma ile ilişkilendirilen bir hastalıktır. Kemikler daha kolay kırılabilir ve bazen herhangi bir travma olmadan bile kırılabilir.",
+    "causes": "Kemik erimesi, genetik yatkınlık, menopoz sonrası östrojen seviyelerinin düşmesi, düşük kalsiyum ve D vitamini seviyeleri, fiziksel hareketsizlik, sigara ve alkol kullanımı, aşırı kafein alımı ve bazı ilaçların (kortikosteroidler, epilepsi ilaçları vb.) uzun süreli kullanımı gibi faktörlerden kaynaklanabilir.",
+    "symptoms": [
+      "Sırt ağrısı",
+      "Kısa boyun veya omurgada eğrilik",
+      "Zayıf ve kırılgan kemikler",
+      "Kemiğin kolayca kırılması",
+      "Bazen kemiklerde ağrı ve hassasiyet"
+    ],
+    "treatments": [
+      "Kalsiyum ve D vitamini takviyeleri",
+      "Kemik güçlendirici ilaçlar (bifosfonatlar, denosumab)",
+      "Fiziksel terapi ve düzenli egzersiz",
+      "Düşme riskini azaltıcı tedbirler (evde güvenlik önlemleri)",
+      "Ağrı kesici ilaçlar ve analjezik tedavi",
+      "Hormonal tedavi (menopoz sonrası)"
+    ],
+    "prevention": "Kemik erimesini önlemek için yeterli kalsiyum ve D vitamini alımı sağlanmalı, düzenli egzersiz yapılmalı, sigara içilmemeli ve alkol tüketimi sınırlandırılmalıdır. Ayrıca, osteoporoz riski taşıyan bireyler için düzenli kemik yoğunluğu taramaları önerilir."
+  },
+  "Kıl Dönmesi": {
+    "description": "Kıl dönmesi (Pilonidal kist), genellikle kuyruk sokumu bölgesinde, cilt altındaki saç köklerinden kaynaklanan ve içinde kıl, kan veya iltihap bulunan bir kisttir. İltihaplandığında ağrıya, şişmeye ve enfeksiyonlara yol açabilir.",
+    "causes": "Kıl dönmesi, genellikle aşırı tüylenme, uzun süreli oturma, hijyen eksiklikleri, genetik yatkınlık, ciltteki yaralanmalar veya travmalar sonucu gelişir. Ayrıca, kuyruk sokumu bölgesinde fazla kıllanma da riski artırır.",
+    "symptoms": [
+      "Kuyruk sokumu bölgesinde ağrı ve şişlik",
+      "Kist üzerinde kızarıklık ve iltihaplanma",
+      "İdrar yaparken zorlanma ve rahatsızlık",
+      "Kist çevresinde kıl, kan veya iltihap sızıntısı",
+      "Kıl dönmesinin iltihaplandığı durumlarda ateş ve genel yorgunluk"
+    ],
+    "treatments": [
+      "Antibiyotik tedavisi (iltihap varsa)",
+      "Cerrahi müdahale (kistin boşaltılması veya çıkarılması)",
+      "Ağrı kesici ilaçlar",
+      "Sıcak kompres uygulamaları",
+      "Kuyruk sokumu bölgesinin temiz tutulması ve hijyenin sağlanması",
+      "Ciddi vakalarda kistin tekrarlamaması için cerrahi onarım"
+    ],
+    "prevention": "Kıl dönmesini önlemek için bölgenin temiz tutulması, düzenli tüy alımı, uzun süre oturmaktan kaçınılması ve hijyen kurallarına dikkat edilmesi gerekmektedir. Ayrıca, aşırı terleme ve travmalardan korunmak da önemlidir."
+  },
+  "Kılkurdu": {
+    "description": "Kılkurdu, en yaygın parazit enfeksiyonlarından biri olup, bağırsaklarda yaşayan küçük, beyaz solucanların neden olduğu bir hastalıktır. Genellikle çocuklarda görülür ve anüs etrafında kaşıntıya yol açar.",
+    "causes": "Kılkurdu, genellikle enfekte kişilerin dışkısı ile temas yolu ile bulaşır. Ayrıca, kirli eller, kontamine olmuş yiyecekler ve yatak takımlarına yayılabilir. Parazit, anüs etrafındaki deriye yerleşerek yumurtlar ve bu yumurtalar çevreye yayılır.",
+    "symptoms": [
+      "Anüs etrafında kaşıntı ve rahatsızlık",
+      "Gece boyunca kaşıntı şikayetinin artması",
+      "Uykusuzluk ve huzursuzluk",
+      "Karın ağrısı",
+      "İştahsızlık ve mide bulantısı",
+      "Bazen vajinal kaşıntı ve enfeksiyonlar (özellikle kız çocuklarında)"
+    ],
+    "treatments": [
+      "Antiparazitik ilaçlar (örneğin, mebendazol veya albendazol)",
+      "Aile bireylerinin tümü tedavi edilmelidir",
+      "Ellerin düzenli olarak yıkanması",
+      "Hijyen kurallarına dikkat edilmesi (tuzlu su ile duş alma, tırnak kesimi, yatak takımlarının sık sık yıkanması)",
+      "Enfekte olan kişinin giysilerinin ve yatak takımlarının 60°C'de yıkanması"
+    ],
+    "prevention": "Kılkurdu enfeksiyonunu önlemek için eller sık sık yıkanmalı, özellikle tuvalet sonrası, yemek hazırlamadan önce ve yatmadan önce. Ayrıca, kişisel hijyen kurallarına dikkat edilmeli ve yatak takımları düzenli olarak değiştirilmelidir."
+  },
+  "Kızamık": {
+    "description": "Kızamık, kızamık virüsünün neden olduğu, yüksek ateş, döküntüler ve solunum yolu semptomlarıyla kendini gösteren, son derece bulaşıcı bir viral enfeksiyondur. Genellikle çocukları etkiler, ancak aşı ile önlenebilir.",
+    "causes": "Kızamık, kızamık virüsünün solunum yoluyla bulaşması sonucu ortaya çıkar. Enfekte kişilerin öksürmesi, hapşırması veya eşyalarını paylaşması virüsün yayılmasına neden olabilir.",
+    "symptoms": [
+      "Yüksek ateş",
+      "Kızarıklık ve döküntülerin vücutta yayılması",
+      "Öksürük ve burun akıntısı",
+      "Gözlerde kızarıklık ve sulanma (konjonktivit)",
+      "Ağızda küçük beyaz lekeler (Koplik lekeleri)",
+      "Vücutta yaygın kırmızı döküntüler",
+      "Kas ağrıları ve halsizlik"
+    ],
+    "treatments": [
+      "Kızamık için özel bir tedavi bulunmamaktadır, ancak semptomları hafifletmek için ateş düşürücü ilaçlar ve ağrı kesiciler kullanılabilir",
+      "Bol sıvı alımı",
+      "B vitamini ve bağışıklık sistemi destekleyici vitaminler",
+      "Enfeksiyonun yayılmasını önlemek için izolasyon",
+      "Ciddi vakalarda, özellikle bağışıklık sistemi zayıf olan kişilerde hastaneye yatış ve destek tedavisi"
+    ],
+    "prevention": "Kızamığı önlemenin en etkili yolu aşıdır. MMR (Kızamık-Kabakulak-Kızamıkçık) aşısı, kızamık enfeksiyonunun yayılmasını önler. Ayrıca, enfekte kişilerle temastan kaçınılmalı, hijyen kurallarına dikkat edilmelidir."
+  },
+  "Kızıl Hastalığı": {
+    "description": "Kızıl hastalığı, A grubu streptokok bakterilerinin neden olduğu, boğaz ağrısı, ateş ve vücutta döküntü ile karakterize edilen, genellikle çocukları etkileyen bulaşıcı bir hastalıktır.",
+    "causes": "Kızıl hastalığı, A grubu streptokok bakterisinin boğazda veya deride enfeksiyon yapması sonucu ortaya çıkar. Enfekte kişilerin öksürmesi, hapşırması veya eşyalarını paylaşması yoluyla bulaşabilir.",
+    "symptoms": [
+      "Yüksek ateş",
+      "Boğaz ağrısı ve yutkunma zorluğu",
+      "Kırmızı, döküntülü cilt (genellikle 2-4 gün sonra başlar)",
+      "Koyu kırmızı renkli dil (çilek dili)",
+      "Baş ağrısı ve halsizlik",
+      "Kusma ve mide bulantısı",
+      "Beyaz, pürüzlü döküntülerle başlayan vücut döküntüleri"
+    ],
+    "treatments": [
+      "Antibiyotik tedavisi (penisilin veya amoksisilin gibi streptokoklara karşı etkili antibiyotikler)",
+      "Ağrı kesici ve ateş düşürücüler",
+      "Bol sıvı tüketimi ve dinlenme",
+      "Bakteriyel enfeksiyonun yayılmasını önlemek için izolasyon",
+      "Ciltteki döküntüler için nemlendirici kullanımı"
+    ],
+    "prevention": "Kızıl hastalığını önlemenin en etkili yolu streptokok enfeksiyonlarının erken tedavi edilmesidir. Kızıl hastalığına karşı spesifik bir aşı bulunmamaktadır, ancak hijyen kurallarına dikkat edilmesi, enfekte kişilerle temastan kaçınılması önemlidir."
+  },
+  "Klostrofobi": {
+    "description": "Klostrofobi, kapalı alanlarda veya dar alanlarda yoğun kaygı ve korku hissiyle karakterize edilen bir anksiyete bozukluğudur. Bu durum, kişinin sıkışmışlık veya kaçış imkânı olmadığı düşüncesiyle yoğun stres yaşamasına neden olur.",
+    "causes": "Klostrofobi, genetik yatkınlık, önceki travmalar, aşırı stres, beynin kaygı ile ilgili bölgesinin aşırı tepki vermesi ve çevresel faktörler nedeniyle gelişebilir. Dar alanlara maruz kalma deneyimleri de fobinin gelişimine katkı sağlayabilir.",
+    "symptoms": [
+      "Kapalı alanlara girerken veya dar alanlarda olmak üzere yoğun korku",
+      "Baş dönmesi, titreme veya terleme",
+      "Nefes darlığı ve çarpıntı",
+      "Bedenin sertleşmesi ve kas gerginliği",
+      "Kaçma hissi ve bu alanlardan hemen çıkma isteği",
+      "Görme bozuklukları, bayılma hissi"
+    ],
+    "treatments": [
+      "Bilişsel davranışçı terapi (CBT)",
+      "Maruz bırakma terapisi (fobik uyaranla yüzleşme)",
+      "Geçici kaygı kontrolü için ilaç tedavisi (anksiyolitikler veya antidepresanlar)",
+      "Solunum teknikleri ve gevşeme egzersizleri",
+      "Düşünce değişimi ve fobiyi yönetme teknikleri",
+      "Psikoterapi ve destek grupları"
+    ],
+    "prevention": "Klostrofobiyi önlemek için erken yaşta kaygı yönetim teknikleri öğrenmek, aşamalı olarak dar alanlarda kalma deneyimi yaşamak ve profesyonel destek almak faydalı olabilir. Ayrıca, stresli durumlar öncesinde rahatlatıcı teknikler uygulamak da semptomları azaltabilir."
+  },
+  "Koah": {
+    "description": "KOAH (Kronik Obstrüktif Akciğer Hastalığı), akciğerlerde hava akışının kısıtlanması ve zorlaşmasıyla karakterize edilen, genellikle sigara kullanımı ve hava kirliliği gibi çevresel faktörlere bağlı olarak gelişen bir hastalıktır. Zamanla nefes darlığı ve diğer solunum problemleri ortaya çıkar.",
+    "causes": "KOAH, çoğunlukla uzun süreli sigara içimi ve hava kirliliği gibi çevresel faktörlere bağlı olarak gelişir. Ayrıca genetik faktörler, mesleki alerjenlere maruz kalma ve solunum yolu enfeksiyonları da hastalığa yol açabilir.",
+    "symptoms": [
+      "Sürekli öksürük ve balgam üretimi",
+      "Nefes darlığı, özellikle fiziksel aktivite sırasında",
+      "Hızlı nefes alma ve solunum güçlüğü",
+      "Göğüs sıkışması ve hırıltı",
+      "Yorgunluk ve halsizlik",
+      "Kronik bronşit ve amfizem gibi hastalıklarla birlikte gelişebilir"
+    ],
+    "treatments": [
+      "Sigara içmenin bırakılması",
+      "Bronkodilatör ilaçlar ve inhaler tedavisi",
+      "Steroid ilaçlar (akciğerlerdeki iltihaplanmayı azaltmak için)",
+      "Oksijen tedavisi (ilerleyen vakalarda)",
+      "Pulmoner rehabilitasyon programları",
+      "Ağır vakalarda cerrahi müdahale (akciğer hacmini küçültme veya akciğer nakli)"
+    ],
+    "prevention": "KOAH'ı önlemek için sigara içmemek, düzenli egzersiz yapmak, hava kirliliğinden kaçınmak, sağlıklı bir yaşam tarzı benimsemek ve düzenli sağlık kontrolleri ile erken teşhis sağlamak önemlidir."
+  },
+  "Kondromalazi Patella": {
+    "description": "Kondromalazi patella, diz kapağının altındaki kıkırdağın bozulması veya yumuşaması sonucu ortaya çıkan bir hastalıktır. Genellikle dizde ağrı, şişlik ve hareket kısıtlılığına yol açar.",
+    "causes": "Kondromalazi patella, diz ekleminin aşırı kullanımı, yaralanmalar, dizdeki aşırı yüklenmeler, dizdeki yanlış hizalanmalar (örneğin, patella dislokasyonu) ve zayıf kas yapıları nedeniyle gelişebilir.",
+    "symptoms": [
+      "Diz kapağında ağrı (özellikle merdiven çıkarken veya uzun süre otururken)",
+      "Dizde şişlik ve hassasiyet",
+      "Diz ekleminde takılma veya çıtırtı sesi",
+      "Hareket sırasında dizde rahatsızlık veya tıkanma hissi",
+      "Dizde güçsüzlük ve hareket kısıtlılığı"
+    ],
+    "treatments": [
+      "Fizik tedavi ve diz kaslarını güçlendirme egzersizleri",
+      "Ağrı kesici ve anti-enflamatuar ilaçlar",
+      "Buz kompresleri ve dinlenme",
+      "Diz koruyucu cihazlar ve dizlik kullanımı",
+      "Dizdeki hizalanmayı düzeltmek için cerrahi müdahale (nadiren)"
+    ],
+    "prevention": "Kondromalazi patellayı önlemek için düzenli egzersiz yapılmalı, diz eklemine aşırı yük binmesinden kaçınılmalı, uygun ayakkabılar kullanılmalı ve dizdeki kaslar güçlendirilmelidir."
+  },
+  "Konjonktivit": {
+    "description": "Konjonktivit, gözün beyaz kısmını kaplayan ince zarın (konjonktiva) iltihaplanması sonucu meydana gelen, genellikle kızarıklık, kaşıntı ve sulanmayla seyreden bir göz hastalığıdır. Genellikle viral, bakteriyel enfeksiyonlar veya alerjik reaksiyonlar sonucu gelişir.",
+    "causes": "Konjonktivit, viral enfeksiyonlar (özellikle adenovirüs), bakteriyel enfeksiyonlar (stafilokok ve streptokok bakterileri), alerjik reaksiyonlar (polen, toz, evcil hayvan tüyleri), kimyasal maddeler (deterjan, kozmetikler) ve çevresel faktörler (kirli hava, sigara dumanı) nedeniyle oluşabilir.",
+    "symptoms": [
+      "Gözde kızarıklık",
+      "Kaşıntı ve yanma hissi",
+      "Göz sulanması",
+      "Gözlerde çapaklanma ve yapışkanlık",
+      "Bazen gözlerde ağrı veya rahatsızlık",
+      "Işığa duyarlılık (fotofobi)",
+      "Gözlerde şişlik ve göz kapaklarında kızarıklık"
+    ],
+    "treatments": [
+      "Viral konjonktivit genellikle tedaviye gerek duymaz, ancak semptomları hafifletmek için ağrı kesici ve soğuk kompres uygulamaları yapılabilir",
+      "Bakteriyel konjonktivit için antibiyotikli göz damlaları veya merhemler",
+      "Alerjik konjonktivit için antihistaminik ilaçlar ve göz damlaları",
+      "Göz hijyenine dikkat edilmesi (ellerin temiz tutulması, havlu ve yastıkların ortak kullanılmaması)",
+      "Bazen göz koruyucu damlalar ve gözler için nemlendirici tedaviler"
+    ],
+    "prevention": "Konjonktivitin önlenmesi için el hijyenine dikkat edilmeli, gözleri ovuşturmak yerine temiz su ile yıkamalı, kişisel eşyalar (havlu, yastık vb.) paylaşılmamalı ve alerjenlerden kaçınılmalıdır."
+  },
+  "Kontakt Dermatit": {
+    "description": "Kontakt dermatit, cilde zarar veren bir maddeye doğrudan temas sonucu meydana gelen, ciltte kızarıklık, kaşıntı, iltihaplanma ve bazen kabarcıklar ile karakterize bir cilt hastalığıdır.",
+    "causes": "Kontakt dermatit, genellikle alerjik (alerjik kontakt dermatit) veya tahriş edici (tahriş edici kontakt dermatit) maddelere maruz kalma sonucu gelişir. Kimyasal maddeler, sabunlar, deterjanlar, parfümler, böcek ilaçları, metal alaşımlar ve bazı bitkiler (örneğin, sumak) en yaygın nedenlerdir.",
+    "symptoms": [
+      "Ciltte kızarıklık ve şişlik",
+      "Kaşıntı ve yanma hissi",
+      "Kabarcıklar veya kabuklanmalar",
+      "Ciltte döküntüler ve pullanma",
+      "Bazı vakalarda ciltte yaralar veya sıvı sızdıran lezyonlar",
+      "Ciltte kuruluk ve çatlama"
+    ],
+    "treatments": [
+      "Tahriş edici maddelerden kaçınmak ve cilt teması olan maddelerle teması sınırlamak",
+      "Topikal steroid krem veya merhemler (iltihaplanmayı azaltmak için)",
+      "Antihistaminikler (kaşıntıyı azaltmak için)",
+      "Nemlendiriciler ve yumuşatıcılar",
+      "Soğuk kompres uygulamaları",
+      "Ağır vakalarda oral kortikosteroid tedavisi"
+    ],
+    "prevention": "Kontakt dermatiti önlemek için alerjenlerden ve tahriş edici maddelerden kaçınılmalı, cilt düzenli olarak nemlendirilmeli, koruyucu eldiven ve giysiler kullanılmalı ve cilt teması sonrası iyi bir temizlik sağlanmalıdır."
+  },
+  "Kubital Tünel Sendromu": {
+    "description": "Kubital Tünel Sendromu, dirsek bölgesindeki kubital tünelde bulunan ulnar sinirin sıkışması sonucu gelişen, el ve parmaklarda uyuşma, karıncalanma ve ağrıya yol açan bir hastalıktır.",
+    "causes": "Kubital tünel sendromu, uzun süreli dirsek bükülme, travmalar, tekrarlayan hareketler, aşırı yüklenme, doğuştan gelen anatomik bozukluklar veya tümörler gibi çeşitli nedenlerle ulnar sinirin sıkışması sonucu oluşur.",
+    "symptoms": [
+      "Elin yüzeylerinde uyuşma ve karıncalanma (özellikle serçe parmak ve yüzük parmağında)",
+      "Dirsek bölgesinde ağrı ve hassasiyet",
+      "Gece saatlerinde ellerde uyuşma veya ağrı",
+      "Elde güçsüzlük, tutma zorluğu",
+      "Elin ince motor hareketlerinde zorluk",
+      "Uzun süreli ulnar sinir sıkışması durumunda kas erimesi"
+    ],
+    "treatments": [
+      "Dinlenme ve dirseğin pozisyonunun düzeltilmesi",
+      "El ve bilek atelleri (özellikle gece kullanımı)",
+      "Fizik tedavi ve sinir germe egzersizleri",
+      "Ağrı kesici ve anti-enflamatuar ilaçlar",
+      "İleri vakalarda cerrahi müdahale (sinir serbestleştirme ameliyatı)"
+    ],
+    "prevention": "Kubital tünel sendromunu önlemek için uzun süreli dirsek bükülmesinden kaçınılmalı, düzenli aralıklarla dinlenme yapılmalı, ergonomik çalışma ortamları oluşturulmalı ve dirseğe fazla baskı yapılmamalıdır."
+  },
+  "Kurdeşen": {
+    "description": "Kurdeşen (ürtiker), ciltte kaşıntılı, kırmızı, kabarık döküntülerle karakterize edilen bir cilt hastalığıdır. Çoğunlukla alerjik reaksiyonlar, stres veya enfeksiyonlar nedeniyle ortaya çıkar ve geçici olabilir.",
+    "causes": "Kurdeşen, genellikle alerjik reaksiyonlar, gıda alerjenleri, ilaçlar, böcek ısırıkları, stres, soğuk veya sıcak hava, enfeksiyonlar veya vücutta görülen bazı hastalıklarla tetiklenebilir. Ayrıca, bazı kişilerde nedeni bilinmeyen idyopatik ürtiker görülebilir.",
+    "symptoms": [
+      "Ciltte kırmızı, kabarık, kaşıntılı döküntüler",
+      "Döküntülerin hızla yayılması veya yer değiştirmesi",
+      "Kaşıntı ve yanma hissi",
+      "Şişlik (özellikle dudaklar, gözler ve ellerde)",
+      "Bazen ateş, baş ağrısı ve yorgunluk",
+      "Döküntülerin birkaç saatten birkaç güne kadar sürebilmesi"
+    ],
+    "treatments": [
+      "Antihistaminik ilaçlar (kaşıntıyı ve döküntüyü hafifletmek için)",
+      "Topikal kortikosteroid kremler veya merhemler",
+      "Soğuk kompres uygulamaları",
+      "Alerjik reaksiyonları önlemek için tetikleyici maddelerden kaçınma",
+      "Daha şiddetli vakalarda, kortikosteroid tedavisi veya bağışıklık baskılayıcı ilaçlar",
+      "Cilt bakımına dikkat etmek ve nemlendirici kullanmak"
+    ],
+    "prevention": "Kurdeşeni önlemek için alerjenlerden kaçınılmalı, düzenli olarak stres yönetimi yapılmalı, cilt hijyenine dikkat edilmeli ve vücuda zarar verebilecek maddelerden (örneğin, ilaçlar, bazı gıdalar) kaçınılmalıdır."
+  },
+  "Küçük Dil Şişmesi": {
+    "description": "Küçük dil şişmesi, ağızda bulunan küçük dilin (uvula) iltihaplanması sonucu meydana gelir. Genellikle viral enfeksiyonlar, alerjik reaksiyonlar veya fiziksel travmalar nedeniyle oluşur.",
+    "causes": "Küçük dil şişmesinin yaygın nedenleri arasında viral enfeksiyonlar (örneğin, soğuk algınlığı, boğaz enfeksiyonları), alerjik reaksiyonlar, aşırı alkol tüketimi, sigara kullanımı, enfekte gıda veya sıvıların yutulması, ve bazı ilaçların yan etkileri yer alır.",
+    "symptoms": [
+      "Küçük dilin büyümesi ve şişmesi",
+      "Yutkunma sırasında ağrı ve zorluk",
+      "Ağızda yabancı cisim hissi",
+      "Boğazda gıcık ve kaşıntı",
+      "Nefes alırken zorluk (şiddetli vakalarda)",
+      "Ağızda kuruluk ve boğazda iritasyon"
+    ],
+    "treatments": [
+      "Ağrı kesici ve anti-enflamatuar ilaçlar",
+      "Antihistaminikler (alerjik reaksiyonlar için)",
+      "Bol sıvı tüketimi ve yumuşak yiyecekler",
+      "Soğuk kompres veya buhar tedavisi",
+      "Ağız gargaraları ve tuzlu su ile gargara",
+      "Şiddetli vakalarda, ilaç tedavisi veya cerrahi müdahale"
+    ],
+    "prevention": "Küçük dil şişmesini önlemek için alerjenlerden kaçınılmalı, aşırı alkol ve sigara tüketiminden kaçınılmalı, düzenli ağız hijyeni uygulanmalı ve enfeksiyonlardan korunmak için bağışıklık sistemi desteklenmelidir."
+  },
+  "Larenjit": {
+    "description": "Larenjit, gırtlak bölgesindeki (larinks) iltihaplanma sonucu ses tellerinin şişmesi ve boğazda rahatsızlık hissi oluşan bir hastalıktır. Genellikle viral enfeksiyonlar, aşırı ses kullanımı veya alerjik reaksiyonlar nedeniyle gelişir.",
+    "causes": "Larenjit, çoğunlukla viral enfeksiyonlar (soğuk algınlığı, grip), aşırı ses kullanımı, alerjik reaksiyonlar, sigara dumanı, hava kirliliği veya mide asidinin gırtlağa kaçması (gastroözofageal reflü) nedeniyle oluşur.",
+    "symptoms": [
+      "Ses kısıklığı veya tamamen kaybolması",
+      "Boğazda ağrı ve gıcık hissi",
+      "Öksürük (genellikle kuru)",
+      "Yutkunmada zorluk ve ağrı",
+      "Ağızda kuruluk",
+      "Bazen ateş ve halsizlik"
+    ],
+    "treatments": [
+      "Bol sıvı tüketimi ve dinlenme",
+      "Ağrı kesiciler ve anti-enflamatuar ilaçlar",
+      "Buhar inhalasyonu ve sıcak içecekler",
+      "Ses tellerini dinlendirmek (konuşmamak veya sessiz kalmak)",
+      "Gargara yapmak (tuzlu su ile)",
+      "Viral enfeksiyonlar için tedavi gereksizdir, ancak bakteriyel enfeksiyonlar için antibiyotik tedavisi"
+    ],
+    "prevention": "Larenjiti önlemek için aşırı ses kullanmaktan kaçınılmalı, sigara içilmemeli, alerjenlerden korunmalı, eller sık sık yıkanmalı ve düzenli sağlık kontrolleri yapılmalıdır."
+  },
+  "Makat Çatlağı": {
+    "description": "Makat çatlağı (anal fissür), anüs çevresindeki derinin yırtılması veya çatlaması sonucu oluşan bir durumdur. Genellikle sert dışkının geçişi veya uzun süreli kabızlık nedeniyle ortaya çıkar ve ağrıya, kanamaya yol açar.",
+    "causes": "Makat çatlağı, kabızlık, sert dışkı, uzun süre oturma, doğum, anüs bölgesine yapılan cerrahi müdahaleler, aşırı ıkınma, ishal veya anal bölgede hijyen eksikliği nedeniyle gelişebilir.",
+    "symptoms": [
+      "Tuvalet sırasında şiddetli ağrı ve yanma",
+      "Anüs çevresinde kanama (özellikle dışkılama sırasında)",
+      "Anüste kaşıntı veya rahatsızlık",
+      "Tuvalet sonrası ağrının devam etmesi",
+      "Bazen şişlik ve iltihaplanma"
+    ],
+    "treatments": [
+      "Ağrı kesici ve anti-enflamatuar ilaçlar",
+      "Yumuşatıcı ilaçlar ve dışkı yumuşatıcıları",
+      "Sıcak su oturma banyoları",
+      "Yüksek lifli gıdalar ve bol sıvı alımı",
+      "Topikal kremler (nitrogliserin, kortikosteroidler)",
+      "Cerrahi müdahale (ileri vakalarda, fissür çıkarma)"
+    ],
+    "prevention": "Makat çatlağını önlemek için kabızlığa yol açan faktörlerden kaçınılmalı, yüksek lifli gıdalar ve bol su tüketilmelidir. Düzenli egzersiz yapmak, hijyen kurallarına dikkat etmek ve tuvalet alışkanlıklarını düzenlemek de önemlidir."
+  },
+  "Mantar Hastalığı": {
+    "description": "Mantar hastalığı, cilt, tırnak, saç ve mukozalarda mantar enfeksiyonlarına yol açan, genellikle yaygın ve bulaşıcı bir hastalıktır. Farklı mantar türleri (dermatofitler, kandida vb.) farklı bölgelerde enfeksiyon oluşturabilir.",
+    "causes": "Mantar hastalığı, vücuda temas eden mantar sporlarının çoğalması sonucu gelişir. Hijyen eksiklikleri, aşırı terleme, bağışıklık sistemi zayıflığı, sıcak ve nemli ortamlar, uzun süreli antibiyotik kullanımı ve genetik yatkınlık mantar enfeksiyonlarının oluşumunu tetikleyebilir.",
+    "symptoms": [
+      "Ciltte kızarıklık, kaşıntı ve döküntüler",
+      "Kabuklanma, pullanma ve yaralar",
+      "Tırnaklarda sararma, kalınlaşma veya kırılma",
+      "Saç dökülmesi ve kafa derisinde döküntüler",
+      "Bazen kötü koku",
+      "İleri vakalarda enfekte bölgenin yayılması ve iltihaplanma"
+    ],
+    "treatments": [
+      "Topikal antifungal ilaçlar (kremler, spreyler)",
+      "Oral antifungal ilaçlar (özellikle tırnak ve saç enfeksiyonlarında)",
+      "Düzenli hijyen ve etkilenen bölgenin temiz tutulması",
+      "Bağışıklık sistemi güçlendirici tedaviler (gerektiğinde)",
+      "Pamuklu giysiler giymek ve nemli alanlardan kaçınmak",
+      "Bazen ciddi enfeksiyonlar için hastaneye yatış ve IV antifungal tedavi"
+    ],
+    "prevention": "Mantar enfeksiyonlarını önlemek için vücut temizliği ve hijyenine dikkat edilmeli, nemli ortamlarda uzun süre kalmaktan kaçınılmalı, ortak alanlarda (havuz, spor salonu) terlik giymeli ve sık sık el yıkama alışkanlıkları edinilmelidir."
+  },
+  "Mazoşizm": {
+    "description": "Mazoşizm, bir kişinin acı, aşağılama veya zorlanma yoluyla zevk alması veya cinsel tatmin elde etmesi ile karakterize edilen bir psikolojik durumdur. Genellikle bireylerin kendilerini fiziksel veya duygusal olarak acı çekmeye zorladığı davranışları içerir.",
+    "causes": "Mazoşizm, genetik faktörler, erken çocukluk deneyimleri, travmatik yaşantılar veya kişilik gelişimi ile ilişkilendirilebilir. Ancak bu durumun kesin nedenleri karmaşıktır ve bireysel geçmişe ve deneyimlere göre değişebilir.",
+    "symptoms": [
+      "Acı çekme veya aşağılanma isteği",
+      "Fiziksel veya duygusal zorlanmaya karşı artan zevk alma",
+      "Aşağılanma, kontrol kaybı veya acıya duyarlı durumlarda zevk alma",
+      "İlişkilerde bu tür davranışları arama ve bu tür deneyimlerden tatmin olma"
+    ],
+    "treatments": [
+      "Psikoterapi, özellikle bilişsel davranışçı terapi",
+      "Travmalar ve olumsuz deneyimlerin işlenmesi",
+      "Duygusal iyileşme ve kişisel sınırlar geliştirilmesi",
+      "İlişkilerde açık iletişim ve sınırların belirlenmesi",
+      "Bazen psikolojik tedavi veya ilaç tedavisi"
+    ],
+    "prevention": "Mazoşizm, bireylerin psikolojik sağlığını tehdit etmeyebilir, ancak aşırıya kaçarsa veya ilişkileri olumsuz etkiliyorsa, profesyonel yardım almak önemlidir. Farkındalık, sağlıklı ilişkiler kurma ve açık iletişim geliştirme, bu davranışları önlemede önemli faktörlerdir."
+  },
+  "Meme Enfeksiyonu": {
+    "description": "Meme enfeksiyonu (mastit), genellikle emziren kadınlarda görülen, meme dokusunda iltihaplanmaya yol açan bir enfeksiyon durumudur. Meme dokusunun iltihaplanması genellikle bir bakteri enfeksiyonundan kaynaklanır.",
+    "causes": "Meme enfeksiyonu, emzirme sırasında memede tıkanmış süt kanalları, bakteriyel enfeksiyonlar (çoğunlukla Staphylococcus aureus) veya meme travmaları nedeniyle oluşabilir. Ayrıca, emzirme sırasında hijyen eksiklikleri veya meme başındaki çatlaklar da enfeksiyon riskini artırabilir.",
+    "symptoms": [
+      "Meme dokusunda ağrı, şişlik ve hassasiyet",
+      "Kızarıklık ve sıcaklık artışı",
+      "Ateş ve titreme",
+      "Meme başında akıntı (genellikle sütlü, bazen irinli)",
+      "Yorgunluk ve halsizlik",
+      "Bazen, emzirmede zorluk"
+    ],
+    "treatments": [
+      "Antibiyotik tedavisi (bakteriyel enfeksiyonları tedavi etmek için)",
+      "Sıcak kompresler ve masaj ile süt akışını artırma",
+      "Emzirmeye devam etme (enfekte olan meme de dahil)",
+      "Ağrı kesiciler ve anti-enflamatuar ilaçlar",
+      "Meme hijyenine dikkat etme ve sık sık emzirme",
+      "Ciddi vakalarda abse oluşumu durumunda cerrahi müdahale"
+    ],
+    "prevention": "Meme enfeksiyonlarından korunmak için düzenli ve doğru emzirme teknikleri uygulanmalı, meme başları düzenli olarak temizlenmeli ve emzirme sırasında meme başındaki çatlaklar önlenmelidir. Ayrıca, meme hijyenine dikkat edilmesi önemlidir."
+  },
+  "Migren": {
+    "description": "Migren, genellikle başın tek tarafında şiddetli ağrılar, bulantı, kusma ve ışığa hassasiyet gibi belirtilerle kendini gösteren nörolojik bir hastalıktır. Genetik ve çevresel faktörler nedeniyle tetiklenebilir ve ataklar halinde gelir.",
+    "causes": "Migrenin kesin nedeni bilinmemekle birlikte, genetik yatkınlık, beyin kimyasallarındaki dengesizlikler, hormonal değişiklikler, stres, uyku düzenindeki bozukluklar, aşırı alkol tüketimi, bazı yiyecekler ve çevresel faktörler migreni tetikleyebilir.",
+    "symptoms": [
+      "Tek taraflı, şiddetli baş ağrısı",
+      "Ağrının zonklayıcı veya pulsatif bir yapıda olması",
+      "Bulantı ve kusma",
+      "Işığa, sese ve kokuya karşı aşırı hassasiyet",
+      "Kararmalar veya görme bozuklukları (aura)",
+      "Baş ağrısı öncesinde veya sırasında ellerde karıncalanma"
+    ],
+    "treatments": [
+      "Ağrı kesiciler (parasetamol, ibuprofen vb.)",
+      "Migren atakları için triptan sınıfı ilaçlar",
+      "Migren preventif tedavisi için beta blokerler, antiepileptik ilaçlar veya antidepresanlar",
+      "Ağrıyı hafifletmek için soğuk kompresler ve dinlenme",
+      "Rahatlatıcı ortamda sessiz ve karanlık bir ortamda dinlenme",
+      "Düzenli uyku ve stres yönetimi"
+    ],
+    "prevention": "Migreni önlemek için uyku düzenine dikkat edilmeli, stres kontrolü sağlanmalı, tetikleyici faktörlerden (örneğin, aşırı kafein, alkol, uyku eksikliği) kaçınılmalı ve düzenli egzersiz yapılmalıdır."
+  },
+  "Miyop": {
+    "description": "Miyop, gözdeki ışık odaklanmasının retina önünde oluşması nedeniyle uzak nesnelerin bulanık görülmesine yol açan bir kırma kusurudur. Genellikle çocukluk döneminde başlar ve zamanla ilerleyebilir.",
+    "causes": "Miyop, genetik yatkınlık, aşırı yakın mesafeden okuma veya ekran kullanımı, göz kaslarının aşırı çalışması ve göz küresinin normalden daha uzun olması gibi faktörlere bağlı olarak gelişebilir.",
+    "symptoms": [
+      "Uzak mesafedeki nesneleri net görememe",
+      "Baş ağrısı ve göz yorgunluğu",
+      "Gözlerde sürekli odaklanma isteği",
+      "Görme bozukluğu, özellikle araba kullanırken veya tahtayı görmekte zorluk"
+    ],
+    "treatments": [
+      "Gözlük veya kontakt lens kullanımı",
+      "Lazer tedavisi (LASIK, PRK vb.)",
+      "Refraktif cerrahi (gözdeki ışık kırma hatalarını düzeltmek için)",
+      "Düzenli göz muayeneleri ile göz sağlığının izlenmesi"
+    ],
+    "prevention": "Miyop önlenemez ancak göz sağlığını korumak için uzun süreli yakın mesafeden okuma ve ekran kullanımından kaçınılmalı, gözleri dinlendirecek aralıklarla bakış açısı değiştirilmelidir. Ayrıca düzenli göz muayenesi yapılması önemlidir."
+  },
+  "Nefrotik Sendrom": {
+    "description": "Nefrotik sendrom, böbreklerin düzgün çalışmaması sonucu vücuttan fazla protein kaybı ile karakterize edilen bir durumdur. Bu hastalık, genellikle şişlik, yüksek protein kaybı, düşük albümin seviyesi ve yüksek kolesterol ile seyreder.",
+    "causes": "Nefrotik sendrom, böbreklerdeki glomerüllerin (filtrasyon birimleri) zarar görmesi sonucu gelişir. Bunun başlıca nedenleri arasında glomerülonefrit, diabetik nefropati, sistemik hastalıklar (lupus gibi), genetik hastalıklar (minimal değişim hastalığı), bazı ilaçlar ve enfeksiyonlar yer alır.",
+    "symptoms": [
+      "Şişlik (özellikle göz çevresi, ayak bilekleri ve karın bölgesinde)",
+      "İdrarda aşırı protein (proteinüri)",
+      "Yüksek kolesterol",
+      "Düşük albümin seviyesi",
+      "Yorgunluk ve halsizlik",
+      "İştah kaybı",
+      "Kan basıncında değişiklikler"
+    ],
+    "treatments": [
+      "Kortikosteroid ilaçlar (minimal değişim hastalığı için)",
+      "Bağışıklık baskılayıcı ilaçlar (immunosupresif tedavi)",
+      "Ağrı kesiciler ve diüretikler (şişliği azaltmak için)",
+      "Kan basıncını kontrol altına almak için antihipertansif ilaçlar",
+      "Yüksek proteinli diyet ve sıvı takviyesi",
+      "Bazı vakalarda böbrek nakli"
+    ],
+    "prevention": "Nefrotik sendromu önlemek için altta yatan hastalıkların (örneğin, diabetes, lupus) tedavi edilmesi, düzenli sağlık kontrolleri, sağlıklı beslenme, sigara içmemek ve fiziksel aktiviteler önerilir. Ayrıca böbrek sağlığını korumak için ilaçların dikkatli kullanılması önemlidir."
+  },
+  "Oligospermi": {
+    "description": "Oligospermi, erkeklerde sperm sayısının normalden düşük olduğu bir durumdur. Bu, doğurganlık sorunlarına yol açabilir ve sperm sayısının yeterli olmaması nedeniyle gebelik sağlanması güçleşebilir.",
+    "causes": "Oligospermi, genetik faktörler, hormonal dengesizlikler, varikosel, enfeksiyonlar, çevresel toksinlere maruz kalma, aşırı alkol veya sigara kullanımı, stres, ilaç kullanımı (özellikle bazı kemoterapi ilaçları), aşırı ısınma (örneğin, sıklıkla sıcak banyolar veya saunalara girme) gibi nedenlerle gelişebilir.",
+    "symptoms": [
+      "Azalmış sperm sayısı",
+      "Yavaş ejakülasyon",
+      "Zayıf cinsel istek veya ereksiyon problemi (bazı durumlarda)",
+      "Sık sık boşalma zorlukları",
+      "Bazen testislerde şişlik veya ağrı (varikosel durumunda)"
+    ],
+    "treatments": [
+      "Hormonal tedavi (özellikle testosteron eksikliği varsa)",
+      "Varikosel tedavisi (cerrahi müdahale ile varikosel tedavisi)",
+      "Sağlıklı yaşam tarzı değişiklikleri (sigara, alkol ve aşırı sıcaklardan kaçınma)",
+      "Diyet ve beslenme düzeni değişiklikleri",
+      "Antioksidan takviyeleri (C vitamini, çinko gibi)",
+      "İleri vakalarda, tüp bebek (IVF) veya mikroenjeksiyon (ICSI) gibi yardımcı üreme teknikleri"
+    ],
+    "prevention": "Oligospermi riskini azaltmak için sağlıklı bir diyet, düzenli egzersiz, alkol ve sigaradan kaçınma, aşırı ısınan ortamlardan (sauna, sıcak banyolar vb.) uzak durma, sık yapılan stresli aktivitelerden kaçınma ve uyku düzenine dikkat edilmelidir."
+  },
+  "Omuz Çıkığı": {
+    "description": "Omuz çıkığı, omuz eklemindeki başın normal yerinden çıkması sonucu meydana gelir. Bu durum, genellikle şiddetli bir darbe, düşme veya aşırı zorlanma sonucu oluşur ve ağrı, şişlik, hareket kısıtlılığı gibi belirtilerle seyreder.",
+    "causes": "Omuz çıkığı, genellikle spor yaralanmaları, düşmeler, kaza sonucu gelen şiddetli darbeler veya omuz ekleminde aşırı zorlanma nedeniyle ortaya çıkar. Aynı zamanda omuz ekleminin zayıf olması veya geçmişteki yaralanmaların tekrarı da riski artırır.",
+    "symptoms": [
+      "Omuzda ani ve şiddetli ağrı",
+      "Omuz ekleminde hareket kaybı",
+      "Omuzda şişlik ve morarma",
+      "Omuz ekleminde şekil bozukluğu",
+      "Kolları veya elleri hareket ettirmekte zorlanma",
+      "Bazı durumlarda uyuşma veya karıncalanma hissi"
+    ],
+    "treatments": [
+      "Omuzun yerine yerleştirilmesi (reponasyon) – bu işlem genellikle hastanede yapılır",
+      "Ağrı kesici ve anti-enflamatuar ilaçlar",
+      "Buz kompresleri ve dinlenme",
+      "Fizik tedavi ve kas güçlendirici egzersizler",
+      "Omuz koruyucu atel veya bandaj kullanımı",
+      "Ciddi vakalarda cerrahi müdahale (eklemdeki hasar veya tekrarlayan çıkıklar için)"
+    ],
+    "prevention": "Omuz çıkığını önlemek için omuz kaslarını güçlendiren egzersizler yapılmalı, spor yaparken uygun teknikler kullanılmalı ve omuzda aşırı zorlanmalardan kaçınılmalıdır. Ayrıca, omuz çıkığı geçmişi olan kişiler dikkatli olmalı ve tedavi sonrasında doktorun önerdiği koruyucu tedbirlere uyulmalıdır."
+  },
+  "Omuz Kireçlenmesi": {
+    "description": "Omuz kireçlenmesi, omuz eklemindeki kıkırdak dokusunun aşınması sonucu eklemde ağrı, sertlik ve hareket kısıtlılığına yol açan bir hastalıktır. Genellikle yaşlanma, aşırı kullanım veya yaralanmalar sonucu gelişir.",
+    "causes": "Omuz kireçlenmesi, yaşlanma, aşırı fiziksel aktivite, omuz yaralanmaları, genetik yatkınlık, aşırı kilo veya tekrarlayan zorlayıcı hareketler nedeniyle oluşabilir. Ayrıca, romatoid artrit gibi otoimmün hastalıklar da kireçlenmeye yol açabilir.",
+    "symptoms": [
+      "Omuzda ağrı, özellikle hareket ederken",
+      "Omuz ekleminde sertlik ve hareket kısıtlılığı",
+      "Yavaşça gelişen ağrı, genellikle dinlenirken de hissedilir",
+      "Gündelik aktivitelerde zorluk (örneğin, başın üstüne uzanma veya bir şeyleri kaldırma)",
+      "Hareket sırasında çıtırtı veya takılma hissi",
+      "Bazen şişlik ve hassasiyet"
+    ],
+    "treatments": [
+      "Ağrı kesiciler ve anti-enflamatuar ilaçlar",
+      "Fizik tedavi ve omuz kaslarını güçlendiren egzersizler",
+      "Sıcak-soğuk kompres uygulamaları",
+      "Omuz eklemine yönelik koruyucu bandaj veya atel kullanımı",
+      "Kortikosteroid enjeksiyonları (şiddetli ağrı durumlarında)",
+      "Cerrahi müdahale (eklem protezi veya omuz artroskopisi)"
+    ],
+    "prevention": "Omuz kireçlenmesini önlemek için omuz kaslarını güçlendiren egzersizler yapılmalı, aşırı zorlayıcı hareketlerden kaçınılmalı, düzenli dinlenme ve uygun teknikle spor yapılmalıdır. Ayrıca, fazla kilodan kaçınılmalı ve omuz eklemine aşırı yük binmesinin önüne geçilmelidir."
+  },
+  "Orta Kulak İltihabı": {
+    "description": "Orta kulak iltihabı (Otitis Media), kulak zarının arkasındaki orta kulak bölgesinde meydana gelen iltihaplanmadır. Genellikle soğuk algınlığı, grip veya burun tıkanıklığı gibi üst solunum yolu enfeksiyonlarının bir sonucu olarak gelişir.",
+    "causes": "Orta kulak iltihabı, viral veya bakteriyel enfeksiyonlardan kaynaklanabilir. Enfeksiyonlar genellikle burun ve boğazdaki enfeksiyonlardan yayılır. Ayrıca, alerjiler, sigara dumanı ve soğuk hava gibi çevresel faktörler de riski artırabilir.",
+    "symptoms": [
+      "Kulakta ağrı ve basınç hissi",
+      "İştahsızlık ve huzursuzluk (özellikle çocuklarda)",
+      "İdrar yapmada zorluk ve ateş",
+      "Kulakta dolgunluk hissi",
+      "Kulağın tıkanması ve işitme kaybı",
+      "Sık sık kulak akıntısı (bazen irinli)"
+    ],
+    "treatments": [
+      "Ağrı kesici ilaçlar (parasetamol, ibuprofen)",
+      "Antibiyotik tedavisi (bakteriyel enfeksiyon durumunda)",
+      "Sıcak kompres uygulamaları",
+      "Nazal spreyler ve burun açıcı ilaçlar",
+      "Bol sıvı tüketimi ve dinlenme",
+      "Şiddetli vakalarda, kulak zarının kesilmesi (drainaj) veya kulak tüpü yerleştirilmesi"
+    ],
+    "prevention": "Orta kulak iltihabını önlemek için grip ve soğuk algınlığına karşı aşılama yapılmalı, sigara içilen ortamlardan kaçınılmalı, burun tıkanıklığı olan kişilerde uygun tedavi uygulanmalı ve kulak hijyenine dikkat edilmelidir."
+  },
+  "Pika Sendromu": {
+    "description": "Pika sendromu, bir kişinin normalde yenmesi gereken yiyecekler dışında, genellikle toprak, taş, kum, saç veya diğer yenmeyen maddeleri tüketme isteğiyle karakterize edilen bir yeme bozukluğudur. Bu durum genellikle psikolojik veya fiziksel bir sorunun belirtisi olabilir.",
+    "causes": "Pika sendromunun kesin nedeni bilinmemekle birlikte, genetik faktörler, psikolojik bozukluklar (obsesif kompulsif bozukluk, şizofreni, depresyon), beslenme eksiklikleri (özellikle demir ve çinko eksikliği), kültürel faktörler veya stres gibi etmenlerle ilişkili olabilir.",
+    "symptoms": [
+      "Yenmesi gereken yiyecekler dışında, yenmeyen maddelerin yenmesi",
+      "Toprak, taş, saç, sabun, kireç, kağıt gibi maddelerin yenmesi",
+      "Ağızda ve sindirim sisteminde rahatsızlık veya ağrı",
+      "Yavaşça gelişen yeme alışkanlıkları ve bağımlılık",
+      "İştah kaybı veya aşırı açlık hissi"
+    ],
+    "treatments": [
+      "Psikoterapi (bilişsel davranışçı terapi gibi)",
+      "Beslenme tedavisi (eksik vitamin ve minerallerin takviyesi)",
+      "İlaç tedavisi (psikotropik ilaçlar veya antidepresanlar)",
+      "Stres yönetimi ve gevşeme teknikleri",
+      "Diyet düzenlemeleri ve sağlıklı yeme alışkanlıkları"
+    ],
+    "prevention": "Pika sendromunun önlenmesi için sağlıklı bir psikolojik destek sağlanmalı, yeme alışkanlıkları düzenlenmeli, beslenme eksiklikleri erken teşhis edilip tedavi edilmelidir. Ayrıca, yenmeyen maddelerle temasın önlenmesi ve sağlıklı diyet alışkanlıklarının kazandırılması da önemlidir."
+  },
+  "Piromani Hastalığı": {
+    "description": "Piromani, kişinin istem dışı olarak yangın çıkarmaya yönelik tekrarlayan dürtüler ve eğilimler yaşadığı bir psikolojik bozukluktur. Bu kişiler, yangın çıkarmanın kendilerine tatmin verici bir duygu sağladığını hissederler.",
+    "causes": "Piromani hastalığının kesin nedeni bilinmemekle birlikte, genetik faktörler, geçmişte yaşanan travmalar, kişilik bozuklukları (özellikle obsesif kompulsif bozukluk veya antisosyal kişilik bozukluğu) ve nörolojik bozukluklar rol oynayabilir.",
+    "symptoms": [
+      "Tekrarlayan yangın çıkarmak için güçlü dürtüler ve istekler",
+      "Yangın çıkarmak sonrası aşırı bir tatmin ve zevk alma hissi",
+      "Yangınları planlama ve bu davranışa karşı kontrol kaybı",
+      "Yangın çıkarmanın ardından suçluluk veya pişmanlık duygusunun olmaması",
+      "Çevresel zararlar ve yangın sonucu oluşan hasarlara kayıtsızlık"
+    ],
+    "treatments": [
+      "Psikoterapi (bilişsel davranışçı terapi, dürtü kontrolü)",
+      "Davranışsal tedavi (yangın çıkarma dürtülerini kontrol etme yöntemleri)",
+      "İlaç tedavisi (antidepresanlar, antipsikotik ilaçlar)",
+      "Bağımlılık tedavisi (eğer başka bir bağımlılık varsa)",
+      "Aile terapisi ve sosyal destek"
+    ],
+    "prevention": "Piromani hastalığının önlenmesi için erken teşhis ve psikolojik destek önemlidir. Ayrıca, yangın çıkarma dürtülerine karşı gelişen davranışsal tekniklerin öğrenilmesi ve stresle başa çıkma becerilerinin kazandırılması gereklidir."
+  },
+  "Pms": {
+    "description": "Premenstrüel Sendrom (PMS), kadınların adet döngüsünün luteal fazında (adetten önceki dönemde) yaşadıkları fiziksel, duygusal ve davranışsal semptomlarla karakterize edilen bir durumdur. Genellikle adet döneminden önceki 1-2 hafta içinde ortaya çıkar ve adetle birlikte geçer.",
+    "causes": "PMS'nin tam nedeni bilinmemekle birlikte, hormonal değişiklikler (özellikle östrojen ve progesteron seviyelerindeki dalgalanmalar), genetik faktörler, stres, beslenme alışkanlıkları, tiroid bozuklukları ve psikolojik faktörler rol oynayabilir.",
+    "symptoms": [
+      "Duygusal değişiklikler (sinirlilik, depresyon, kaygı)",
+      "Fiziksel şişkinlik ve karın ağrısı",
+      "Göğüslerde hassasiyet",
+      "Baş ağrısı ve migren",
+      "İştah değişiklikleri ve tatlı krizleri",
+      "Yorgunluk ve halsizlik",
+      "Uyku problemleri (uykusuzluk veya aşırı uyuma)"
+    ],
+    "treatments": [
+      "Ağrı kesiciler ve anti-enflamatuar ilaçlar",
+      "Antidepresanlar ve anksiyolitikler (duygusal semptomlar için)",
+      "Yüksek lifli diyet ve sağlıklı beslenme",
+      "Vitamin ve mineral takviyeleri (özellikle B6 vitamini, kalsiyum ve magnezyum)",
+      "Egzersiz ve rahatlama teknikleri (yoga, meditasyon)",
+      "Ağır vakalarda hormon tedavisi (doğum kontrol hapları veya hormon replasman tedavisi)"
+    ],
+    "prevention": "PMS'nin önlenmesi için düzenli egzersiz, stres yönetimi, sağlıklı bir diyet ve yeterli uyku önemlidir. Ayrıca, alkol, kafein ve tuz tüketimi sınırlanmalı ve doğum kontrol yöntemleri veya hormon tedavileri bazı kadınlar için faydalı olabilir."
+  },
+  "Prostat": {
+    "description": "Prostat, erkeklerde idrar yolu ve üreme sisteminin bir parçası olan, mesanenin alt kısmında yer alan bir bezdir. Prostat, semen üretiminin bir parçası olarak, sperm hücrelerini taşıyan sıvıyı üretir. Prostat hastalıkları, prostatın iltihaplanması (prostatit), büyümesi (iyi huylu prostat hiperplazisi - BPH) ve kanserini kapsar.",
+    "causes": "Prostat hastalıklarının nedenleri, genetik faktörler, yaşlanma, hormonal değişiklikler ve çevresel faktörler ile ilişkilidir. Prostat kanseri için belirli risk faktörleri arasında ailede prostat kanseri öyküsü, yaş, obezite ve bazı genetik mutasyonlar yer alır.",
+    "symptoms": [
+      "İdrar yaparken zorlanma ve sık idrara çıkma",
+      "İdrar akışında zayıflama",
+      "İdrar yaparken yanma veya ağrı",
+      "Gece idrara çıkma ihtiyacı",
+      "Prostat kanseri durumunda kanlı idrar veya semen",
+      "Pelvik bölgede ağrı veya rahatsızlık"
+    ],
+    "treatments": [
+      "Prostat iltihabı (prostatit) için antibiyotik tedavisi",
+      "İyi huylu prostat büyümesi (BPH) için alfa blokerler veya 5-alfa redüktaz inhibitörleri",
+      "Prostat kanseri tedavisi için cerrahi müdahale, radyoterapi, hormon tedavisi veya kemoterapi",
+      "Prostat kanserinde erken teşhis için düzenli PSA testleri ve dijital rektal muayene",
+      "Bazı durumlarda prostatın bir kısmının cerrahi olarak çıkarılması"
+    ],
+    "prevention": "Prostat hastalıklarını önlemek için düzenli doktor kontrolleri, sağlıklı beslenme, yeterli egzersiz, sigara ve alkol tüketiminin sınırlandırılması ve düşük yağlı beslenme önerilmektedir. Ayrıca, yaş ilerledikçe prostat kanseri için tarama testlerinin yapılması önemlidir."
+  },
+  "Reflü": {
+    "description": "Reflü, mide asidinin yemek borusuna (özofagus) geri kaçması sonucu oluşan bir hastalıktır. Bu durum, mide içeriğinin yemek borusuna doğru geri akışı nedeniyle mide yanması, asidik tat ve ağrı gibi şikayetlere yol açar. Zamanla yemek borusunda hasara yol açabilir.",
+    "causes": "Reflü, mide asidinin yemek borusuna kaçmasına neden olan zayıf özofagus alt sfinkteri, aşırı yemek yeme, aşırı alkol ve sigara kullanımı, obezite, stres, bazı ilaçlar ve mide fıtığı gibi durumlarla tetiklenebilir.",
+    "symptoms": [
+      "Mide yanması (özellikle yemeklerden sonra ve gece uyurken)",
+      "Asidik tat (ağızda asidik bir tat hissi)",
+      "Göğüs ağrısı",
+      "Yutkunma zorluğu",
+      "Sürekli öksürük, boğaz ağrısı ve ses kısıklığı",
+      "Mide bulantısı ve kusma",
+      "Nefes darlığı ve astım semptomları (özellikle gece)"
+    ],
+    "treatments": [
+      "Antasitler (mide asidini nötralize etmek için)",
+      "Proton pompa inhibitörleri (PPI'lar) ve H2-reseptör antagonisti ilaçlar (asit üretimini engellemek için)",
+      "Alfa-blokerler ve antidepresanlar (bazı durumlarda yemek borusu kaslarını rahatlatmak için)",
+      "Diyet değişiklikleri ve kilo verme",
+      "Yatarken başı yukarıda tutmak ve büyük yemeklerden sonra hemen yatmamak",
+      "Cerrahi müdahale (özofagus alt sfinkterini güçlendirmek için)"
+    ],
+    "prevention": "Reflü hastalığını önlemek için aşırı yemek yemekten kaçınılmalı, yağlı ve asidik yiyecekler sınırlanmalı, sigara ve alkol tüketimi azaltılmalı ve sağlıklı bir kiloya ulaşılmalıdır. Ayrıca, düzenli egzersiz yapmak ve stres yönetimi teknikleri uygulamak da faydalıdır."
+  },
+  "Renk Körlüğü": {
+    "description": "Renk körlüğü, renkleri doğru bir şekilde ayırt edememe durumudur. Genellikle genetik bir hastalık olan renk körlüğü, özellikle kırmızı ve yeşil renklerini ayırt edememe şeklinde görülür. Bu durum, genellikle erkeklerde daha yaygındır.",
+    "causes": "Renk körlüğü, genetik faktörlerden kaynaklanır ve X kromozomuyla taşınan bir bozukluk nedeniyle gelişir. Ayrıca, göz yaralanmaları, bazı göz hastalıkları (örneğin, katarakt), yaşlanma ve bazı ilaçlar da renk körlüğüne yol açabilir.",
+    "symptoms": [
+      "Kırmızı ve yeşil renklerini ayırt edememe",
+      "Renklerin soluk veya donuk görünmesi",
+      "Renkli nesnelerin gri veya siyah tonlarında görülmesi",
+      "Zayıf kontrast algısı",
+      "Bazı renklerin birbirine karışması"
+    ],
+    "treatments": [
+      "Renkli filtreli gözlükler (renkleri daha kolay ayırt etmek için)",
+      "Özel renkli lensler",
+      "Yapay zeka ve dijital araçlarla renk ayırt etme yardımcıları",
+      "Genetik tedavi seçenekleri henüz gelişim aşamasında"
+    ],
+    "prevention": "Renk körlüğü, genetik bir durum olduğu için tam anlamıyla önlenmesi mümkün değildir. Ancak, erken teşhisle, özel araçlar ve renkli lensler kullanılarak renklerin daha iyi ayırt edilmesi sağlanabilir."
+  },
+  "Romatizma": {
+    "description": "Romatizma, eklemleri, kasları ve bağ dokusunu etkileyen ağrılı ve iltihaplı bir grup hastalıktır. En yaygın türlerinden biri romatoid artrit olmakla birlikte, osteoartrit, lupus, ankilozan spondilit gibi diğer romatizmal hastalıklar da bulunmaktadır.",
+    "causes": "Romatizma, genetik yatkınlık, bağışıklık sistemi bozuklukları, aşırı eklem kullanımı, travmalar, yaşlanma, enfeksiyonlar ve çevresel faktörlerin bir kombinasyonu nedeniyle gelişebilir. Ayrıca bazı romatizmal hastalıklar otoimmün kökenlidir.",
+    "symptoms": [
+      "Eklem ağrısı, şişlik ve sertlik",
+      "Hareket kısıtlılığı",
+      "Kas ağrıları ve güçsüzlük",
+      "Kızarıklık ve sıcaklık artışı eklem bölgelerinde",
+      "Yorgunluk ve halsizlik",
+      "Bazen ateş, kilo kaybı ve iştah kaybı"
+    ],
+    "treatments": [
+      "Ağrı kesiciler ve anti-enflamatuar ilaçlar",
+      "Fizik tedavi ve egzersizler",
+      "Hormon tedavisi (kortikosteroidler)",
+      "Bağışıklık sistemini baskılayan ilaçlar (DMARDs, biyolojik ajanlar)",
+      "Cerrahi müdahale (özellikle şiddetli vakalarda eklem protezi)",
+      "Düzenli eklem hareketliliği ve kas güçlendirme egzersizleri"
+    ],
+    "prevention": "Romatizmal hastalıkları tamamen önlemek mümkün olmasa da, sağlıklı bir yaşam tarzı, dengeli beslenme, düzenli egzersiz ve aşırı eklem yüklenmelerinden kaçınmak hastalıkların etkilerini azaltabilir. Ayrıca, bağışıklık sistemini destekleyen tedaviler erken teşhis ile etkili olabilir."
+  },
+  "Saç Kıran": {
+    "description": "Saç kıran (Alopecia Areata), bağışıklık sisteminin saç köklerine saldırarak saç dökülmesine neden olduğu, genellikle ani ve yuvarlak saç dökülmesi ile karakterize edilen bir hastalıktır. Bu durum, vücudun kendi hücrelerini yabancı olarak tanıyıp onlara saldırması sonucu gelişir.",
+    "causes": "Saç kıran, genetik yatkınlık, bağışıklık sistemi bozuklukları, stres ve çevresel faktörlerle tetiklenebilir. Ailesinde bu hastalık olan bireylerde görülme olasılığı daha yüksektir. Ayrıca, otoimmün hastalıklar ve bazı enfeksiyonlar da tetikleyici olabilir.",
+    "symptoms": [
+      "Başta yuvarlak şekillerde saç dökülmesi",
+      "Bazen vücutta da saçsız bölgeler oluşması",
+      "Saç dökülmesinin başladığı bölgelerde ciltte hassasiyet veya kaşıntı",
+      "Tüylerde incelme ve dökülme",
+      "Bazı vakalarda tırnaklarda bozukluklar"
+    ],
+    "treatments": [
+      "Topikal kortikosteroidler (ağır vakalarda uygulama yapılabilir)",
+      "Topikal immunoterapi (bağışıklık sistemini uyararak saç çıkmasını sağlama)",
+      "Saç dökülmesini engellemeye yardımcı ilaçlar (minoksidil gibi)",
+      "Deri altına yapılan kortikosteroid enjeksiyonları",
+      "Düşük dozda ultraviyole ışık tedavisi (UV tedavisi)",
+      "Psikoterapi ve stres yönetimi"
+    ],
+    "prevention": "Saç kıran tamamen önlenemeyebilir, ancak stresten kaçınmak, sağlıklı bir yaşam tarzı benimsemek, bağışıklık sistemini güçlendirecek tedbirler almak ve düzenli dermatolojik takip ile hastalığın ilerlemesi kontrol altına alınabilir."
+  },
+  "Sedef": {
+    "description": "Sedef hastalığı (psoriasis), cilt hücrelerinin normalden daha hızlı çoğalması sonucu ciltte kırmızı, pul pul döküntülerin oluştuğu, kronik bir inflamatuar hastalıktır. Genellikle dirsekler, dizler ve kafa derisinde görülse de, vücudun diğer bölgelerinde de gelişebilir.",
+    "causes": "Sedefin kesin nedeni bilinmemekle birlikte, genetik yatkınlık, bağışıklık sistemi bozuklukları, stres, enfeksiyonlar ve çevresel faktörler (örneğin, soğuk hava, sigara içmek) hastalığın tetikleyicileri arasında yer alır. Otoimmün bir hastalık olarak bağışıklık sisteminin cilt hücrelerine saldırması sonucu gelişir.",
+    "symptoms": [
+      "Kırmızı, pul pul döküntüler",
+      "Ciltte şişlik ve iltihaplanma",
+      "Kaşıntı ve yanma hissi",
+      "Ciltte çatlamalar ve kanama",
+      "Kafa derisinde kepeklenme",
+      "Tırnaklarda değişiklikler (kırılma veya renk değişimi)"
+    ],
+    "treatments": [
+      "Topikal tedavi (kortikosteroidler, D vitamini analoğu kremler)",
+      "Fototerapi (UV ışık tedavisi)",
+      "Sistemik tedavi (oral ilaçlar veya biyolojik tedaviler)",
+      "Ağrı ve kaşıntı için ağrı kesici ve antihistaminikler",
+      "Cilt nemlendiricileri ve rahatlatıcı losyonlar",
+      "Stres yönetimi ve yaşam tarzı değişiklikleri"
+    ],
+    "prevention": "Sedefi tamamen önlemek mümkün olmasa da, stresten kaçınmak, sigara içmemek, sağlıklı bir cilt bakımı uygulamak, aşırı alkol tüketiminden kaçınmak ve düzenli egzersiz yapmak hastalığın alevlenmesini engellemeye yardımcı olabilir."
+  },
+  "Su Çiçeği": {
+    "description": "Su çiçeği, Varicella Zoster virüsünün neden olduğu, ciltte kaşıntılı döküntülerle karakterize edilen, oldukça bulaşıcı bir viral enfeksiyondur. Genellikle çocukları etkiler, ancak yetişkinlerde de görülebilir.",
+    "causes": "Su çiçeği, Varicella Zoster virüsünün solunum yoluyla bulaşması sonucu oluşur. Enfekte kişilerin öksürmesi, hapşırması veya doğrudan temas yoluyla bulaşabilir. Ayrıca, su çiçeği geçiren kişiler hastalıktan sonra virüsü uykuya alarak zona hastalığına yol açabilir.",
+    "symptoms": [
+      "Vücutta kaşıntılı, kırmızı döküntüler",
+      "Yüksek ateş",
+      "Baş ağrısı",
+      "Yorgunluk ve halsizlik",
+      "İştah kaybı",
+      "Ağızda ve ciltte küçük sivilce benzeri yaralar",
+      "Sivilcelerin kabuk bağlaması"
+    ],
+    "treatments": [
+      "Ağrı ve kaşıntıyı hafifletmek için antihistaminikler",
+      "Ateş düşürücüler (parasetamol)",
+      "Bolu banyo ve soğuk kompres uygulamaları",
+      "Antiviral ilaçlar (özellikle riskli gruptaki yetişkinler ve bağışıklık sistemi zayıf kişiler için)",
+      "Cilt koruyucu nemlendirici krem ve losyonlar",
+      "Bol sıvı alımı ve dinlenme"
+    ],
+    "prevention": "Su çiçeğini önlemenin en etkili yolu aşıdır. Çocukluk döneminde uygulanan su çiçeği aşısı, hastalığa karşı koruma sağlar. Ayrıca, enfekte kişiden uzak durmak, hijyen kurallarına dikkat etmek ve hasta kişilerle temastan kaçınmak da önemlidir."
+  },
+  "Taşikardi": {
+    "description": "Taşikardi, kalp atış hızının normalden hızlı olması durumudur. Genellikle dakikada 100'ün üzerinde kalp atışı ile kendini gösterir. Taşikardi, kalp sağlığıyla ilgili çeşitli sorunların belirtisi olabilir.",
+    "causes": "Taşikardi, aşırı stres, anksiyete, aşırı kafein tüketimi, alkol, bazı ilaçlar, tiroid bozuklukları, kalp hastalıkları (örneğin, kalp yetmezliği veya koroner arter hastalığı), enfeksiyonlar ve elektrolit dengesizlikleri gibi çeşitli faktörlerden kaynaklanabilir.",
+    "symptoms": [
+      "Hızlı kalp atışı ve çarpıntı",
+      "Baş dönmesi ve bayılma hissi",
+      "Göğüs ağrısı veya baskı",
+      "Nefes darlığı",
+      "Yorgunluk ve halsizlik",
+      "Bazen terleme artışı"
+    ],
+    "treatments": [
+      "Ağır vakalarda, kalp hızını yavaşlatan ilaçlar (beta blokerler, kalsiyum kanal blokörleri)",
+      "Elektrokardiyovaz (ECV) yöntemi (şok tedavisi)",
+      "Kalp ritmini düzenleyen ilaçlar",
+      "Stres ve anksiyeteyi yönetmek için terapi",
+      "Yüksek kafein ve alkol alımından kaçınmak",
+      "Bazı vakalarda cerrahi müdahale (örneğin, kalp pili takılması)"
+    ],
+    "prevention": "Taşikardiye karşı önlem almak için sağlıklı bir yaşam tarzı benimsenmeli, düzenli egzersiz yapılmalı, aşırı kafein ve alkol tüketiminden kaçınılmalı, stresten uzak durulmalı ve düzenli sağlık kontrolleri ile kalp sağlığı izlenmelidir."
+  },
+  "Topuk Dikeni": {
+    "description": "Topuk dikeni, topuk kemiği üzerinde, ayak tabanındaki bağ dokusunun iltihaplanması sonucu meydana gelen bir durumdur. Genellikle ayak tabanında ağrı ve şişlik ile kendini gösterir, en fazla sabahları adım atarken ağrıya yol açar.",
+    "causes": "Topuk dikeni, ayak tabanındaki plantar fasya adı verilen bağ dokusunun aşırı kullanım, yanlış ayakkabı seçimi, aşırı kilo, düz tabanlık, uzun süreli ayakta durma veya spor gibi nedenlerle gerilmesi sonucu oluşur.",
+    "symptoms": [
+      "Topuk bölgesinde keskin ağrı, özellikle sabahları adım atarken",
+      "Ayak tabanında şişlik ve hassasiyet",
+      "Ağrının arttığı uzun süre ayakta durma ve yürümeyle",
+      "Topukta sertlik hissi",
+      "Bazen ağrının gece de devam etmesi"
+    ],
+    "treatments": [
+      "Ağrı kesici ve anti-enflamatuar ilaçlar",
+      "Topuk desteği sağlayan özel ortopedik tabanlıklar",
+      "Fizik tedavi (germe ve güçlendirme egzersizleri)",
+      "Sıcak-soğuk kompres uygulamaları",
+      "Bazen topuk dikeni için kortizon enjeksiyonları",
+      "Cerrahi müdahale (çok şiddetli vakalarda)"
+    ],
+    "prevention": "Topuk dikeni riskini azaltmak için uygun ayakkabılar giyilmeli, aşırı kilodan kaçınılmalı, ayakları düzenli olarak dinlendirmeli ve düzenli egzersiz yaparak ayak kasları güçlendirilmelidir. Ayrıca, uzun süre ayakta kalan kişilerin ara ara oturması ve ayaklarını dinlendirmesi önemlidir."
+  },
+  "Verem": {
+    "description": "Verem (tüberküloz), Mycobacterium tuberculosis bakterisinin neden olduğu, genellikle akciğerleri etkileyen ancak diğer organları da etkileyebilen bulaşıcı bir hastalıktır. Tüberküloz, öksürük, gece terlemesi, ateş ve kilo kaybı gibi belirtilerle seyreder.",
+    "causes": "Verem, genellikle hava yoluyla, enfekte kişilerin öksürmesi veya hapşırması ile bulaşır. Bağışıklık sistemi zayıf olan kişiler (örneğin, HIV/AIDS hastaları, sigara içenler veya yetersiz beslenenler) verem hastalığına daha yatkındır.",
+    "symptoms": [
+      "Uzun süreli öksürük (3 haftadan fazla)",
+      "Ateş ve gece terlemeleri",
+      "Kilo kaybı ve iştahsızlık",
+      "Göğüs ağrısı",
+      "Nefes darlığı",
+      "Bazen kanlı balgam"
+    ],
+    "treatments": [
+      "Antitüberküloz ilaçları (genellikle 6-12 ay süren tedavi)",
+      "İlaç kombinasyonları (isoniazid, rifampisin, etambutol, pirazinamid gibi)",
+      "Tedavi sırasında düzenli kontrol ve izleme",
+      "Bazen cerrahi müdahale (özellikle akciğerin ciddi şekilde hasar görmesi durumunda)"
+    ],
+    "prevention": "Veremi önlemek için düzenli tüberküloz taramaları yapılmalı, enfekte kişiler tedavi edilmelidir. Ayrıca, iyi hijyen, maske kullanımı, kalabalık yerlerden kaçınma, sağlıklı yaşam tarzı ve bağışıklık sistemini güçlendiren beslenme önemlidir. Verem aşısı (BCG) özellikle çocuklarda koruyucudur."
+  },
+  "Zatürre": {
+    "description": "Zatürre (pnömoni), akciğerlerin enfekte olması ve iltihaplanması sonucu gelişen bir hastalıktır. Genellikle bakteriyel, viral veya mantar enfeksiyonlarından kaynaklanır ve akciğer dokusunda iltihap ve sıvı birikimine yol açar.",
+    "causes": "Zatürre, çoğunlukla bakteriler (örneğin, Streptococcus pneumoniae), virüsler (influenza, COVID-19) veya nadiren mantar enfeksiyonları nedeniyle ortaya çıkar. Ayrıca sigara içme, bağışıklık sistemi zayıflığı, uzun süreli hastalıklar veya yaşlılık gibi risk faktörleri zatürreye yol açabilir.",
+    "symptoms": [
+      "Yüksek ateş ve titreme",
+      "Göğüs ağrısı ve derin nefes alırken ağrı",
+      "Öksürük (bazen balgamlı veya kanlı)",
+      "Nefes darlığı ve hırıltı",
+      "Yorgunluk ve halsizlik",
+      "Baş ağrısı ve kas ağrıları",
+      "İştah kaybı ve bulantı"
+    ],
+    "treatments": [
+      "Antibiyotik tedavisi (bakteriyel enfeksiyonlarda)",
+      "Antiviral ilaçlar (viral zatürre için)",
+      "Ağrı kesiciler ve ateş düşürücüler",
+      "Bol sıvı alımı ve dinlenme",
+      "Oksijen tedavisi (şiddetli vakalarda)",
+      "Hastaneye yatış ve intravenöz tedavi (bazen)"
+    ],
+    "prevention": "Zatürreyi önlemek için düzenli aşılamalar (pnomokok aşısı, grip aşısı), sigara içmemek, sağlıklı bir yaşam tarzı benimsemek, sık el yıkama ve düzenli sağlık kontrolleri önerilir. Ayrıca, bağışıklık sistemini güçlendirecek beslenme alışkanlıkları geliştirilmelidir."
+  }
+}
